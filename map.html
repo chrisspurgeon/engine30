@@ -51,8 +51,23 @@
                 .attr("class", function(d, i) {
                     return d.properties.name;
                 })
-                .on("click", click);
+                .on("click", click)
+                .on("mouseover", hover)
+        ;
     });
+
+
+    function hover(d) {
+        console.log(d.properties.name);
+        d3.selectAll("path").classed("active", false);
+        d3.select(this).classed("active", true);
+        console.log(path.centroid(d));
+        for (var foo in d.properties) {
+            console.log("Property: " + foo);
+        }
+        console.log(d.positions);
+
+    }
 
 
     function click(d) {
