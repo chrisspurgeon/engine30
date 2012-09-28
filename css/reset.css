@@ -181,6 +181,21 @@ body {
 #goBack {
     position: absolute;
     bottom: 0;
-    left: 10px;;
+    left: 10px;
+}
+
+.background {
+    fill: none;
+    pointer-events: all;
+}
+
+#states {
+    fill: #aaa;
+    stroke: #fff;
+    stroke-width: 1.5px;
+}
+
+#states .active {
+    fill: steelblue;
 }
 
