@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="js/aight.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="js/d3.v2.min.js"></script>
+
+    <link type="text/css" href="css/reset.css" rel="stylesheet" />
+    <title>US Map example</title>
+</head>
+<body>
+<h1>US map example</h1>
+<div id="goBack"><a href="index.html">Go back</a></div>
+
+
+<script>
+
+    var width = 960,
+            height = 500,
+            centered;
+
+    var projection = d3.geo.albersUsa()
+            .scale(width)
+            .translate([0, 0]);
+
+    var path = d3.geo.path()
+            .projection(projection);
+
+    var svg = d3.select("body").append("svg")
+            .attr("width", width)
+            .attr("height", height);
+
+    svg.append("rect")
+            .attr("class", "background")
+            .attr("width", width)
+            .attr("height", height);
+//            .on("click", click);
+
+    var g = svg.append("g")
+            .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")")
+            .append("g")
+            .attr("id", "states");
+    </script>
+</body>
+</html>

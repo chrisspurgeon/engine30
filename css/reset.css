@@ -175,3 +175,12 @@ mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: b
 	
 }
 
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+#goBack {
+    position: absolute;
+    bottom: 0;
+    left: 10px;;
+}
+
