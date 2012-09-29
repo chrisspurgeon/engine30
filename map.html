@@ -13,8 +13,10 @@
 </head>
 <body>
 <h1>US map example</h1>
-<div id="infobox">
+<div id="infobox" class="hidden">
     <h2></h2>
+    <div id="dataDiv"></div>
+    <div id="credit"></div>
 </div>
 <div id="goBack"><a href="index.html">Go back</a></div>
 
@@ -59,15 +61,33 @@
         ;
     });
 
+    var stateOccupationData;
+    d3.json("data/occupations.json", function(json) {
+        stateOccupationData = json;
+        console.log(stateOccupationData);
+    });
+
 
     function hover(d) {
         console.log(d.properties.name);
         d3.selectAll("path").classed("active", false);
         d3.select(this).classed("active", true);
-        console.log(path.centroid(d));
-        var theInfoBox = d3.select("#infobox");
+//        console.log(path.centroid(d));
+        var theInfoBox = d3.select("#infobox")
+                .classed("hidden", false);
         var infoBoxTitle = d3.select("#infobox h2");
+        var dataDiv = d3.select("#infobox #dataDiv");
         infoBoxTitle.html(d.properties.name);
+        var dataDivText = "";
+        var stateData = stateOccupationData[d.properties.name];
+        for (var i = 0; i < stateData.occupations.length; i++) {
+            dataDivText += '<strong>' + stateData.occupations[i].occ_title + '</strong><br />';
+            dataDivText += 'Average hourly wage = ' + stateData.occupations[i].h_mean + '<br />';
+            dataDivText += 'Total employees = ' + stateData.occupations[i].tot_emp + '<br />';
+        }
+        console.log(stateOccupationData);
+        dataDiv.html(dataDivText);
+        theInfoBox.select("#credit").html(stateOccupationData["data_source"]);
     }
 
 
