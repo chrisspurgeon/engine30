@@ -13,6 +13,9 @@
 </head>
 <body>
 <h1>US map example</h1>
+<div id="infobox">
+    <h2></h2>
+</div>
 <div id="goBack"><a href="index.html">Go back</a></div>
 
 
@@ -32,7 +35,7 @@
             .attr("width", width)
             .attr("height", height);
 
-    svg.append("rect")
+    var theRect = svg.append("rect")
             .attr("class", "background")
             .attr("width", width)
             .attr("height", height)
@@ -62,11 +65,9 @@
         d3.selectAll("path").classed("active", false);
         d3.select(this).classed("active", true);
         console.log(path.centroid(d));
-        for (var foo in d.properties) {
-            console.log("Property: " + foo);
-        }
-        console.log(d.positions);
-
+        var theInfoBox = d3.select("#infobox");
+        var infoBoxTitle = d3.select("#infobox h2");
+        infoBoxTitle.html(d.properties.name);
     }
 
 

@@ -1,0 +1,83 @@
+STATE,OCC_TITLE,TOT_EMP,H_MEAN
+Alabama,Writers and Authors,220,28.87
+Alaska,Writers and Authors,110,29.83
+Alaska,Dancers,70,14.12
+Arizona,Writers and Authors,540,26.01
+Arizona,Dancers,100,17.34
+Arkansas,Writers and Authors,150,26.17
+California,Writers and Authors,6500,45.05
+California,Dancers,2010,14.26
+Colorado,Writers and Authors,560,33.18
+Colorado,Dancers,**,15.86
+Connecticut,Writers and Authors,380,30.67
+Connecticut,Dancers,60,16.46
+Delaware,Writers and Authors,100,29.71
+District of Columbia,Writers and Authors,1350,41.49
+District of Columbia,Dancers,110,25.10
+Florida,Writers and Authors,1720,24.96
+Florida,Dancers,350,15.93
+Georgia,Writers and Authors,660,28.90
+Georgia,Dancers,40,17.97
+Hawaii,Writers and Authors,150,27.63
+Hawaii,Dancers,750,16.84
+Idaho,Writers and Authors,150,22.02
+Illinois,Writers and Authors,1870,29.62
+Illinois,Dancers,310,12.81
+Indiana,Writers and Authors,630,19.56
+Indiana,Dancers,300,8.63
+Iowa,Writers and Authors,370,20.54
+Iowa,Dancers,**,16.90
+Kansas,Writers and Authors,290,24.77
+Kentucky,Writers and Authors,220,19.88
+Kentucky,Dancers,**,12.10
+Louisiana,Writers and Authors,250,19.45
+Maine,Writers and Authors,110,27.65
+Maryland,Writers and Authors,900,35.35
+Maryland,Dancers,**,13.23
+Massachusetts,Writers and Authors,960,31.70
+Massachusetts,Dancers,**,16.91
+Michigan,Writers and Authors,760,23.34
+Michigan,Dancers,70,11.38
+Minnesota,Writers and Authors,1340,25.69
+Mississippi,Writers and Authors,280,23.57
+Missouri,Writers and Authors,740,27.66
+Missouri,Dancers,280,13.56
+Montana,Writers and Authors,90,17.15
+Nebraska,Writers and Authors,280,22.93
+Nevada,Writers and Authors,390,30.31
+Nevada,Dancers,840,29.39
+New Hampshire,Writers and Authors,240,24.65
+New Jersey,Writers and Authors,1070,27.63
+New Jersey,Dancers,130,14.46
+New Mexico,Writers and Authors,160,23.15
+New York,Writers and Authors,6500,41.95
+New York,Dancers,2260,*
+North Carolina,Writers and Authors,620,27.23
+North Carolina,Dancers,120,*
+North Dakota,Writers and Authors,110,15.07
+Ohio,Writers and Authors,1050,27.80
+Ohio,Dancers,260,14.82
+Oklahoma,Writers and Authors,340,16.98
+Oklahoma,Dancers,70,15.88
+Oregon,Writers and Authors,630,27.10
+Oregon,Dancers,100,22.18
+Pennsylvania,Writers and Authors,1470,28.73
+Pennsylvania,Dancers,260,14.83
+Rhode Island,Writers and Authors,130,29.40
+South Carolina,Writers and Authors,160,24.62
+South Carolina,Dancers,100,16.86
+South Dakota,Writers and Authors,40,18.94
+Tennessee,Writers and Authors,580,18.96
+Tennessee,Dancers,190,14.38
+Texas,Writers and Authors,1970,26.44
+Texas,Dancers,340,20.02
+Utah,Writers and Authors,250,20.34
+Utah,Dancers,250,16.82
+Vermont,Writers and Authors,160,23.44
+Virginia,Writers and Authors,1640,29.99
+Virginia,Dancers,140,17.59
+Washington,Writers and Authors,870,33.99
+West Virginia,Writers and Authors,160,16.81
+Wisconsin,Writers and Authors,660,24.73
+Wisconsin,Dancers,70,17.60
+Wyoming,Writers and Authors,30,24.56
