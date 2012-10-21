@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Brain cross section demo</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <script src="http://code.jquery.com/jquery-1.8.2.js"></script>
+    <script src="http://code.jquery.com/ui/1.9.0/jquery-ui.js"></script>
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="js/aight.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="js/d3.v2.min.js"></script>
+    <link type="text/css" href="css/reset.css" rel="stylesheet" />
+
+    <style>
+        #top, #side {
+            height: 350px;
+            width: 350px;
+            background-color: #000000;
+            position: absolute;
+            background-repeat: no-repeat;
+            top: 200px;
+        }
+        #top {
+            left: 200px;
+            background-image:url('images/brain/top/top85.png');
+        }
+        #side {
+            left: 600px;
+            transform: rotate(90deg);
+            -moz-transform: rotate(90deg);
+            -webkit-transform: rotate(90deg);
+            background-image:url('images/brain/side/side302.png');
+            background-position: 65px 10px;
+        }
+        #controllerHolder {
+            position: absolute;
+            top: 200px;
+            left: 1000px;
+            height: 350px;
+            width: 350px;
+            border: 1px solid green;
+            background-color: #999999;
+            overflow: hidden;
+        }
+        #controller {
+            width: 1000px;
+            height: 1000px;
+            background-image: url("images/brain/crosshair.png");
+            background-position: top left;
+            left: -325px;
+            top: -325px;
+            background-color: orange;
+        }
+        #loading {
+            width: 100%;
+            height: 100%;
+            background-color: #000000;
+            opacity: 0.5;
+            position: absolute;
+        }
+        #loading h1 {
+            font-size: 30px;
+            color: #ffffff;
+            margin: 100px auto;
+            display: inline-block;
+        }
+        .faded {
+            display: none;
+        }
+    </style>
+
+
+</head>
+<body>
+<div id="top"></div>
+<div id="side"></div>
+<div id="controllerHolder"><div id="controller"></div></div>
+<div id="loading"><h1>Loading data...</h1></div>
+
+<script>
+    var topImages = [], sideImages = [], topImageCount = 170, sideImageCount = 165;
+
+    $(function() {
+
+        loadImages();
+
+        $( "#controller" ).draggable({
+                drag: function(e, ui) {
+                    var topPosition = ui.position.top;
+                    var sidePosition = ui.position.left;
+                    adjustImages(topPosition, sidePosition);
+                    console.log(topPosition + " - " + sidePosition);
+            }
+        }
+        );
+    });
+
+    function loadImages() {
+        var head = $("#loading h1");
+        for (var i = 0; i < topImageCount; i++) {
+            topImages[i] = new Image();
+            topImages[i].src = "images/brain/top/top" + i + ".png";
+            $(head).html("Loading top image " + i);
+        }
+        // we only want to use side images 220 to 385
+        for (var i = 0; i < sideImageCount; i++) {
+            sideImages[i] = new Image();
+            sideImages[i].src = "images/brain/side/side" + parseInt(i + 220) + ".png";
+            $(head).html("Loading side image " + i);
+        }
+
+        $("#loading").hide();
+    }
+
+
+    function adjustImages(topPosition, sidePosition) {
+
+        // range is from -500 to -150, or 350
+        var topOffset = (-500 - topPosition) * -1.0;
+        var topImageNumber = parseInt(topOffset / 350 * 170);
+        if (topImageNumber < 0) {
+            topImageNumber = 0;
+        } else if (topImageNumber > 169) {
+            topImageNumber = 169;
+        }
+
+
+        // we only want to use side images 220 to 385, a range of 165
+        var sideOffset = (-500 - sidePosition) * -1.0;
+        var sideImageNumber = parseInt(sideOffset / 350 * 165) + 220;
+        if (sideImageNumber < 220) {
+            sideImageNumber = 220;
+        } else if (sideImageNumber > 385) {
+            sideImageNumber = 385;
+        }
+
+
+        $("#top").css({"background-image":"url('images/brain/top/top" + topImageNumber + ".png')"});
+        $("#side").css({"background-image":"url('images/brain/side/side" + sideImageNumber + ".png')"});
+    }
+
+
+
+</script>
+</body>
+</html>
