@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dspl targetNamespace="http://www.engine30.org/tutorial"
+<dspl 
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns="http://schemas.google.com/dspl/2010"
 	xmlns:time="http://www.google.com/publicdata/dataset/google/time"
@@ -98,6 +98,7 @@
 					<value>List of countries</value>
 				</description>
 			</info>
+			<topic ref="geography" />
 			<type ref="string" />
 			<property id="name">
 				<info>
@@ -140,7 +141,7 @@
 					<value>Year</value>
 				</name>
 			</info>
-			<type ref="date:year" />
+			<type ref="date" />
 		</concept><!-- year -->
 		<concept id="state" extends="geo:location">
 			<info>
@@ -154,7 +155,7 @@
 			<property concept="country" isParent="true" />
 			<table ref="states_table" />			
 		</concept><!-- state -->
-		<concept id="unemployment_rate" extends="quanity:rate">
+		<concept id="unemployment_rate" extends="quantity:rate">
 			<info>
 				<name>
 					<value>Unemployment Rate</value>
@@ -208,7 +209,7 @@
 			<dimension concept="time:year" />
 			<metric concept="population" />
 			<metric concept="unemployment_rate" />
-			<table ref="states_table" />
+			<table ref="states_slice_table" />
 		</slice><!-- states slice -->
 		<slice id="countries_gender_slice">
 			<dimension concept="country" />
@@ -245,7 +246,7 @@
 		<table id="states_table">
 			<column id="state" type="string" />
 			<column id="name" type="string" />
-			<column id="country">
+			<column id="country" type="string">
 				<value>US</value>
 			</column>
 			<column id="latitude" type="float" />
@@ -254,12 +255,24 @@
 				<file format="csv" encoding="utf-8">states.csv</file>
 			</data>
 		</table><!-- states table -->
-		<table id="states_slice">
+		
+		<table id="states_slice_table">
 			<column id="state" type="string" />
 			<column id="year" type="date" format="yyyy" />
 			<column id="population" type="integer" />
 			<column id="unemployment_rate" type="float" />
+			<data>
+				<file format="csv" encoding="utf-8">state_slice.csv</file>
+			</data>
 		</table><!-- states slice table -->
+		
+		<table id="genders_table">
+			<column id="gender" type="string" />
+			<column id="name" type="string" />
+			<data>
+				<file format="csv" encoding="utf-8">genders.csv</file>
+			</data>
+		</table><!-- gender table -->
 		
 		<table id="countries_gender_slice_table">
 			<column id="country" type="string" />
