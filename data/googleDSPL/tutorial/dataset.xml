@@ -33,6 +33,52 @@
 		</url>
 	</provider>
 
+
+
+	
+	<!-- TOPICS -->
+	<topics>
+		<topic id="geography">
+			<info>
+				<name>
+					<value>Geography</value>
+				</name>
+			</info>
+		</topic>
+		<topic id="social_indicators">
+			<info>
+				<name>
+					<value>Social indicators</value>
+				</name>
+			</info>
+		</topic>
+		<topic id="population_indicators">
+			<info>
+				<name>
+					<value>Population indicators</value>
+				</name>
+			</info>
+		</topic>
+		<topic id="poverty_and_income">
+			<info>
+				<name>
+					<value>Poverty and income</value>
+				</name>
+			</info>
+		</topic>
+		<topic id="health">
+			<info>
+				<name>
+					<value>Health</value>
+				</name>
+			</info>
+		</topic>
+	</topics>
+
+
+
+
+<!-- CONCEPTS -->
 	<concepts>
 		<concept id="population">
 			<info>
@@ -40,6 +86,7 @@
 					<value>Population</value>
 				</name>
 			</info>
+			<topic ref="population_indicators" />
 			<type ref="integer" />
 		</concept><!-- population -->
 		<concept id="country" extends="geo:location">
@@ -125,8 +172,30 @@
 				<value>true</value>
 			</attribute>
 		</concept><!-- unemployment rate -->
+		<concept id="gender" extends="entity:entity">
+			<info>
+				<name>
+					<value>Gender</value>
+				</name>
+				<description>
+					<value>Male or female</value>
+				</description>
+				<pluralName>
+					<value>Genders</value>
+				</pluralName>
+				<totalName>
+					<value>Both genders</value>
+				</totalName>
+			</info>
+			<type ref="string" />
+			<table ref="genders_table" />
+		</concept><!-- gender -->
+
 	</concepts>
 
+
+
+<!-- SLICES -->
 	<slices>
 		<slice id="countries_slice">
 			<dimension concept="country" />
@@ -141,9 +210,19 @@
 			<metric concept="unemployment_rate" />
 			<table ref="states_table" />
 		</slice><!-- states slice -->
+		<slice id="countries_gender_slice">
+			<dimension concept="country" />
+			<dimension concept="gender" />
+			<dimension concept="time:year" />
+			<metric concept="population" />
+			<table ref="countries_gender_slice_table" />
+		</slice><!-- countries and gender slice -->
 	</slices>
 
 
+
+
+<!-- TABLES -->
 	<tables>
 		<table id="countries_table">
 			<column id="country" type="string" />
@@ -181,9 +260,16 @@
 			<column id="population" type="integer" />
 			<column id="unemployment_rate" type="float" />
 		</table><!-- states slice table -->
-	</tables>
-
-
-
-
+		
+		<table id="countries_gender_slice_table">
+			<column id="country" type="string" />
+			<column id="gender" type="string" />
+			<column id="year" type="date" format="yyyy" />
+			<column id="population" type="integer" />
+			<data>
+				<file format="csv" encoding="utf-8">gender_country_slice.csv</file>
+			</data>
+		</table>
+	</tables><!-- end of tables -->
+	
 </dspl>
