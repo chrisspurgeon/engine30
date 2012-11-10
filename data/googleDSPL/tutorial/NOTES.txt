@@ -1,0 +1,9 @@
+NOTES
+
+Will need concept tables for:
+City (or school district?)
+	name
+	lat/long
+	
+Courses
+	

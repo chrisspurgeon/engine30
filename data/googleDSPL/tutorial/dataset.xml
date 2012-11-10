@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dspl targetNamespace="http://www.engine30.org/tutorial"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://schemas.google.com/dspl/2010"
+	xmlns:time="http://www.google.com/publicdata/dataset/google/time"
+	xmlns:geo="http://www.google.com/publicdata/dataset/google/geo"
+	xmlns:entity="http://www.google.com/publicdata/dataset/google/entity"
+	xmlns:quantity="http://www.google.com/publicdata/dataset/google/quantity">
+
+	<import namespace="http://www.google.com/publicdata/dataset/google/time"/>
+	<import namespace="http://www.google.com/publicdata/dataset/google/entity"/>
+	<import namespace="http://www.google.com/publicdata/dataset/google/geo"/>
+	<import namespace="http://www.google.com/publicdata/dataset/google/quantity"/>
+
+	<info>
+		<name>
+			<value>Tutorial</value>
+		</name>
+		<description>
+			<value>Chris Spurgeon does the tutorial, like a boss</value>
+		</description>
+		<url>
+			<value>http://www.engine30.org/tutorial/info.html</value>
+		</url>
+	</info>
+
+	<provider>
+		<name>
+			<value>Google test stuff</value>
+		</name>
+		<url>
+			<value>https://developers.google.com/public-data/docs/tutorial</value>
+		</url>
+	</provider>
+
+	<concepts>
+		<concept id="population">
+			<info>
+				<name>
+					<value>Population</value>
+				</name>
+			</info>
+			<type ref="integer" />
+		</concept>
+		<concept id="country">
+			<info>
+				<name>
+					<value>Country</value>
+				</name>
+				<description>
+					<value>List of countries</value>
+				</description>
+			</info>
+			<type ref="string" />
+			<property id="name">
+				<info>
+					<name>
+						<value>Name</value>
+					</name>
+					<description>
+						<value>English name of the country</value>
+					</description>							
+				</info>
+				<type ref="string" />
+			</property>
+			<property id="latitude">
+				<info>
+					<name>
+						<value>Latitude</value>
+					</name>
+					<description>
+						<value>Latitude of the country</value>
+					</description>							
+				</info>
+				<type ref="float" />
+			</property>
+			<property id="longitude">
+				<info>
+					<name>
+						<value>Longitude</value>
+					</name>
+					<description>
+						<value>Longitude of the country</value>
+					</description>							
+				</info>
+				<type ref="float" />
+			</property>
+			<table ref="countries_table" />
+		</concept>
+		<concept id="year">
+			<info>
+				<name>
+					<value>Year</value>
+				</name>
+			</info>
+			<type ref="date:year" />
+		</concept>
+	</concepts>
+
+	<slices>
+		<slice id="countries_slice">
+			<dimension concept="country" />
+			<dimension concept="time:year" />
+			<metric concept="population" />
+			<table ref="countries_slice_table" />
+		</slice>
+	</slices>
+
+
+	<tables>
+		<table id="countries_table">
+			<column id="country" type="string" />
+			<column id="name" type="string" />
+			<column id="latitude" type="float" />
+			<column id="longitude" type="float" />
+			<data>
+				<file format="csv" encoding="utf-8">countries.csv</file>
+			</data>
+		</table><!-- countries_table -->
+		<table>
+		</table>
+	</tables>
+
+
+
+
+</dspl>
