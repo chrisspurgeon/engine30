@@ -1,4 +1,4 @@
-School_District,Year,Course_Code,Course_Name,Number_of_Schools,Total_Course_Enrollment,Number_of_Classes,Number_FTE_Teachers,Average_Class_Size_filtered,Average_Class_Size_Subject_Area
+School_District,Year,Course_Code,Course_Name,Number_of_Schools,Total_Course_Enrollment,Number_of_Classes,Number_FTE_Teachers,Average_Class_Size_filtered,Average_Class_Size,Subject_Area
 Burbank Unified,1998,2800,Ceramics,3,145,5,0.91,29,29,Art
 Burbank Unified,1998,2801,Design,1,21,1,0.2,21,21,Art
 Burbank Unified,1998,2802,Crafts,3,183,6,1.17,30.5,30.5,Art
@@ -233,7 +233,7 @@ Burbank Unified,2007,2353,"Dance, movement and rhythmic activities",1,194,5,1,38
 Burbank Unified,2007,2900,Theater/play production,2,145,6,1.2,24.2,24.2,Drama/Theater
 Burbank Unified,2007,2901,Drama/creative dramatics,3,207,7,1.36,29.6,29.6,Drama/Theater
 Burbank Unified,2007,2908,Media arts (individual or inclusive),1,30,1,0.2,30,30,Drama/Theater
-Burbank Unified,2007,2300,Band,5,"1,072",25,3.6,32.4,42.9,Music
+Burbank Unified,2007,2300,Band,5,1072,25,3.6,32.4,42.9,Music
 Burbank Unified,2007,2303,Orchestra,2,175,4,0.8,41,43.8,Music
 Burbank Unified,2007,2305,Chorus/choir,4,391,10,1.87,36.1,39.1,Music
 Burbank Unified,2007,2307,Music appreciation/history/literature,1,64,2,0.4,32,32,Music
@@ -282,7 +282,7 @@ Burbank Unified,2009,2900,Theater/play production (sec schl standards),2,177,7,1
 Burbank Unified,2009,2901,Theater/creative dramatics (elem schl standards,1,90,4,0.8,22.5,22.5,Drama/Theater
 Burbank Unified,2009,2300,Band,5,568,18,3.2,31.6,31.6,Music
 Burbank Unified,2009,2303,Orchestra/symphony,2,125,4,0.8,31.2,31.2,Music
-Burbank Unified,2009,2305,Chorus/choir,5,"1,005",23,4.6,37.3,43.7,Music
+Burbank Unified,2009,2305,Chorus/choir,5,1005,23,4.6,37.3,43.7,Music
 Burbank Unified,2009,2307,Music appreciation/history/literature,1,35,1,0.2,35,35,Music
 Burbank Unified,2009,2322,Musical theater,2,47,2,0.4,23.5,23.5,Music
 Burbank Unified,2009,2328,Instrumental ensemble,2,101,3,0.6,33.7,33.7,Music
@@ -310,7 +310,7 @@ Burbank Unified,2011,2910,History/appreciation of theatre/film/video/med,1,9,8,0
 Burbank Unified,2011,2998,Other drama/theater course,2,80,6,0.66,13.3,13.3,Drama/Theater
 Burbank Unified,2011,2300,Band,5,710,20,3.81,31.1,35.5,Music
 Burbank Unified,2011,2303,Orchestra/symphony,1,12,1,0.17,12,12,Music
-Burbank Unified,2011,2305,Chorus/choir/vocal ensemble,5,"1,091",23,4.48,40.4,47.4,Music
+Burbank Unified,2011,2305,Chorus/choir/vocal ensemble,5,1091,23,4.48,40.4,47.4,Music
 Burbank Unified,2011,2307,Music appreciation/history/literature,1,19,17,0.27,1.1,1.1,Music
 Burbank Unified,2011,2322,Musical theater,1,29,1,0.2,29,29,Music
 Burbank Unified,2011,2325,Instrumental music lessons (sec school std),2,89,3,0.57,29.7,29.7,Music
@@ -961,19 +961,19 @@ La Canada Unified,2011,5730,Multimedia production,1,61,2,0.4,30.5,30.5,"Arts, Me
 La Canada Unified,2011,5751,Graphic communications,1,36,1,0.2,36,36,"Arts, Media and Entertainment"
 La Canada Unified,2011,5769,"Other arts, media, and entertainment",1,149,4,0.8,37.2,37.2,"Arts, Media and Entertainment"
 Long Beach Unified,1998,2800,Ceramics,2,154,4,0.85,38.5,38.5,Art
-Long Beach Unified,1998,2801,Design,8,"1,425",39,8.08,34.8,36.5,Art
+Long Beach Unified,1998,2801,Design,8,1425,39,8.08,34.8,36.5,Art
 Long Beach Unified,1998,2802,Crafts,1,30,1,0.17,30,30,Art
 Long Beach Unified,1998,2803,Art history,2,113,4,0.8,28.2,28.2,Art
 Long Beach Unified,1998,2804,Art appreciation,1,57,2,0.4,28.5,28.5,Art
 Long Beach Unified,1998,2805,Photography,3,467,13,2.76,35.9,35.9,Art
 Long Beach Unified,1998,2806,Drawing,2,63,2,0.33,31.5,31.5,Art
 Long Beach Unified,1998,2808,Advertising design,2,53,3,0.53,17.7,17.7,Art
-Long Beach Unified,1998,2810,Basic art,20,"2,376",78,15.02,30.5,30.5,Art
+Long Beach Unified,1998,2810,Basic art,20,2376,78,15.02,30.5,30.5,Art
 Long Beach Unified,1998,2811,Jewelry,1,25,1,0.16,25,25,Art
 Long Beach Unified,1998,2819,Lettering/calligraphy,3,101,3,0.56,33.7,33.7,Art
 Long Beach Unified,1998,2820,Computer art/graphics,1,33,1,0.16,33,33,Art
 Long Beach Unified,1998,2821,Yearbook,2,57,2,0.33,28.5,28.5,Art
-Long Beach Unified,1998,2898,Other art course,8,"2,602",73,14.9,34.7,35.6,Art
+Long Beach Unified,1998,2898,Other art course,8,2602,73,14.9,34.7,35.6,Art
 Long Beach Unified,1998,2355,Dance fundamentals,2,339,8,1.6,36,42.4,Dance
 Long Beach Unified,1998,2356,Independent or advanced study,1,66,2,0.4,33,33,Dance
 Long Beach Unified,1998,2900,Theater/play production,11,922,29,6.74,31,31.8,Drama/Theater
@@ -983,7 +983,7 @@ Long Beach Unified,1998,2905,Technical theater/stagecraft,2,65,3,0.49,21.7,21.7,
 Long Beach Unified,1998,2908,Media arts (individual or inclusive),1,54,2,0.32,27,27,Drama/Theater
 Long Beach Unified,1998,2998,Other drama/theater course,1,41,1,0.17,41,41,Drama/Theater
 Long Beach Unified,1998,2748,Any humanities course,1,337,11,3.92,30.6,30.6,Humanities
-Long Beach Unified,1998,2300,Band,13,"1,185",28,5.09,31.5,42.3,Music
+Long Beach Unified,1998,2300,Band,13,1185,28,5.09,31.5,42.3,Music
 Long Beach Unified,1998,2301,Jazz band,5,193,8,1.47,17.3,24.1,Music
 Long Beach Unified,1998,2302,Stage band,1,25,1,0.5,25,25,Music
 Long Beach Unified,1998,2303,Orchestra,15,787,26,4.77,30.3,30.3,Music
@@ -994,7 +994,7 @@ Long Beach Unified,1998,2310,Instrumental music lessons,9,529,16,3.78,28.6,33.1,
 Long Beach Unified,1998,2313,Swing/show choir,4,230,4,0.8,44,57.5,Music
 Long Beach Unified,1998,2314,Chamber/madrigal/vocal ensemble,5,133,5,0.92,26.6,26.6,Music
 Long Beach Unified,1998,2315,Classroom/general/exploratory music,6,373,11,1.95,31.9,33.9,Music
-Long Beach Unified,1998,2501,"Dance, all phases",5,"1,200",28,5.6,33.8,42.9,Dance/Physical Education
+Long Beach Unified,1998,2501,"Dance, all phases",5,1200,28,5.6,33.8,42.9,Dance/Physical Education
 Long Beach Unified,1998,2870,Advanced placement History of art,3,139,4,0.77,34.8,34.8,Art AP
 Long Beach Unified,1998,2872,Advanced placement Studio art draw. portfolio,2,50,2,0.37,25,25,Art AP
 Long Beach Unified,1998,4331,Clothing and textiles,1,90,3,0.6,30,30,Fashion/Home Eco
@@ -1010,15 +1010,15 @@ Long Beach Unified,1999,2819,Lettering/calligraphy,3,95,3,0.45,31.7,31.7,Art
 Long Beach Unified,1999,2821,Yearbook,8,221,9,2.5,24.6,24.6,Art
 Long Beach Unified,1999,2898,Other art course,10,"4,766",134,24.93,35.1,35.6,Art
 Long Beach Unified,1999,2358,Other dance course,1,31,1,0.17,31,31,Dance
-Long Beach Unified,1999,2900,Theater/play production,15,"1,414",39,7.43,33.6,36.3,Drama/Theater
+Long Beach Unified,1999,2900,Theater/play production,15,1414,39,7.43,33.6,36.3,Drama/Theater
 Long Beach Unified,1999,2904,Theater workshop,2,36,2,0.36,18,18,Drama/Theater
 Long Beach Unified,1999,2905,Technical theater/stagecraft,3,75,4,0.98,18.8,18.8,Drama/Theater
 Long Beach Unified,1999,2908,Media arts (individual or inclusive),1,209,6,1.17,34.8,34.8,Drama/Theater
 Long Beach Unified,1999,2748,Any humanities course,1,338,10,3.67,33.8,33.8,Humanities
-Long Beach Unified,1999,2300,Band,17,"1,606",36,6.73,33.1,44.6,Music
+Long Beach Unified,1999,2300,Band,17,1606,36,6.73,33.1,44.6,Music
 Long Beach Unified,1999,2301,Jazz band,5,122,7,1.27,17.4,17.4,Music
 Long Beach Unified,1999,2303,Orchestra,17,835,27,5.27,29.2,30.9,Music
-Long Beach Unified,1999,2305,Chorus/choir,15,"1,111",28,5.36,36.4,39.7,Music
+Long Beach Unified,1999,2305,Chorus/choir,15,1111,28,5.36,36.4,39.7,Music
 Long Beach Unified,1999,2306,Vocal jazz/jazz choir,2,104,4,0.73,26,26,Music
 Long Beach Unified,1999,2307,Music appreciation/history/literature,9,515,12,2.54,32.2,42.9,Music
 Long Beach Unified,1999,2310,Instrumental music lessons,10,"1,209",19,6.88,32.5,63.6,Music
@@ -1027,8 +1027,8 @@ Long Beach Unified,1999,2313,Swing/show choir,3,150,3,0.57,32,50,Music
 Long Beach Unified,1999,2314,Chamber/madrigal/vocal ensemble,4,129,4,0.76,32.2,32.2,Music
 Long Beach Unified,1999,2315,Classroom/general/exploratory music,3,151,4,0.71,37.8,37.8,Music
 Long Beach Unified,1999,2322,Musical theater,1,50,2,0.26,25,25,Music
-Long Beach Unified,1999,2398,Other music course,7,"1,403",12,6.89,29.2,116.9,Music
-Long Beach Unified,1999,2501,"Dance, all phases",7,"1,424",32,6.14,38.2,44.5,Dance/Physical Education
+Long Beach Unified,1999,2398,Other music course,7,1403,12,6.89,29.2,116.9,Music
+Long Beach Unified,1999,2501,"Dance, all phases",7,1424,32,6.14,38.2,44.5,Dance/Physical Education
 Long Beach Unified,1999,2870,Advanced placement History of art,3,158,5,0.88,31.6,31.6,Art AP
 Long Beach Unified,1999,2872,Advanced placement Studio art draw. portfolio,2,69,2,0.37,34.5,34.5,Art AP
 Long Beach Unified,1999,2370,Advanced placement Music theory,1,17,1,0.2,17,17,Music AP
@@ -1041,17 +1041,17 @@ Long Beach Unified,1999,5798,"Other visual communications, graphics course",3,10
 Long Beach Unified,2000,2800,Ceramics,3,284,8,1.52,35.5,35.5,Art
 Long Beach Unified,2000,2803,Art history,1,66,2,0.4,33,33,Art
 Long Beach Unified,2000,2805,Photography,4,338,10,1.97,33.8,33.8,Art
-Long Beach Unified,2000,2810,Basic art,24,"2,669",88,16.51,29.6,30.3,Art
+Long Beach Unified,2000,2810,Basic art,24,2669,88,16.51,29.6,30.3,Art
 Long Beach Unified,2000,2811,Jewelry,1,34,1,0.2,34,34,Art
 Long Beach Unified,2000,2819,Lettering/calligraphy,3,85,3,0.5,28.3,28.3,Art
 Long Beach Unified,2000,2820,Computer art/graphics,1,9,1,0.17,9,9,Art
 Long Beach Unified,2000,2821,Yearbook,7,188,7,1.39,26.9,26.9,Art
-Long Beach Unified,2000,2898,Other art course,11,"5,066",144,30.26,33.8,35.2,Art
+Long Beach Unified,2000,2898,Other art course,11,5066,144,30.26,33.8,35.2,Art
 Long Beach Unified,2000,2353,"Dance, movement and rhythmic activities",1,92,4,0.8,23,23,Dance
 Long Beach Unified,2000,2355,Dance fundamentals,3,67,4,0.73,16.8,16.8,Dance
 Long Beach Unified,2000,2356,Independent or advanced study,1,15,1,0.2,15,15,Dance
 Long Beach Unified,2000,2358,Other dance course,2,101,2,0.36,49,50.5,Dance
-Long Beach Unified,2000,2900,Theater/play production,7,"1,021",29,5.23,32.5,35.2,Drama/Theater
+Long Beach Unified,2000,2900,Theater/play production,7,1021,29,5.23,32.5,35.2,Drama/Theater
 Long Beach Unified,2000,2901,Drama/creative dramatics,5,119,5,0.85,23.8,23.8,Drama/Theater
 Long Beach Unified,2000,2904,Theater workshop,2,37,2,0.36,18.5,18.5,Drama/Theater
 Long Beach Unified,2000,2905,Technical theater/stagecraft,2,50,3,0.55,16.7,16.7,Drama/Theater
@@ -1059,16 +1059,16 @@ Long Beach Unified,2000,2908,Media arts (individual or inclusive),1,106,3,0.6,35
 Long Beach Unified,2000,2998,Other drama/theater course,3,156,5,0.93,31.2,31.2,Drama/Theater
 Long Beach Unified,2000,2300,Band,18,"2,048",46,9.66,26.5,44.5,Music
 Long Beach Unified,2000,2301,Jazz band,4,177,7,1.23,25.3,25.3,Music
-Long Beach Unified,2000,2303,Orchestra,17,"1,015",36,6.54,26.2,28.2,Music
-Long Beach Unified,2000,2305,Chorus/choir,17,"1,395",35,7.01,33.2,39.9,Music
+Long Beach Unified,2000,2303,Orchestra,17,1015,36,6.54,26.2,28.2,Music
+Long Beach Unified,2000,2305,Chorus/choir,17,1395,35,7.01,33.2,39.9,Music
 Long Beach Unified,2000,2306,Vocal jazz/jazz choir,2,65,3,0.5,21.7,21.7,Music
 Long Beach Unified,2000,2307,Music appreciation/history/literature,4,163,6,1.03,27.2,27.2,Music
 Long Beach Unified,2000,2310,Instrumental music lessons,9,"1,750",33,11.91,30.4,53,Music
 Long Beach Unified,2000,2313,Swing/show choir,1,66,1,0.17,0,66,Music
 Long Beach Unified,2000,2314,Chamber/madrigal/vocal ensemble,3,95,3,0.53,31.7,31.7,Music
 Long Beach Unified,2000,2315,Classroom/general/exploratory music,9,675,19,3.68,29.3,35.5,Music
-Long Beach Unified,2000,2398,Other music course,5,"7,455",28,16.68,25.7,266.2,Music
-Long Beach Unified,2000,2501,"Dance, all phases",5,"1,422",32,5.09,35.6,44.4,Dance/Physical Education
+Long Beach Unified,2000,2398,Other music course,5,7455,28,16.68,25.7,266.2,Music
+Long Beach Unified,2000,2501,"Dance, all phases",5,1422,32,5.09,35.6,44.4,Dance/Physical Education
 Long Beach Unified,2000,2870,Advanced placement History of art,3,174,6,1.14,29,29,Art AP
 Long Beach Unified,2000,2872,Advanced placement Studio art draw. portfolio,1,23,1,0.2,23,23,Art AP
 Long Beach Unified,2000,2370,Advanced placement Music theory,1,17,1,0.2,17,17,Music AP
@@ -1083,14 +1083,14 @@ Long Beach Unified,2001,2802,Crafts,1,32,2,0.33,16,16,Art
 Long Beach Unified,2001,2803,Art history,1,26,1,0.17,26,26,Art
 Long Beach Unified,2001,2805,Photography,3,310,9,1.8,34.4,34.4,Art
 Long Beach Unified,2001,2808,Advertising design,1,33,1,0.17,33,33,Art
-Long Beach Unified,2001,2810,Basic art,24,"2,661",92,17.89,28,28.9,Art
+Long Beach Unified,2001,2810,Basic art,24,2661,92,17.89,28,28.9,Art
 Long Beach Unified,2001,2819,Lettering/calligraphy,3,92,3,0.49,30.7,30.7,Art
 Long Beach Unified,2001,2820,Computer art/graphics,1,193,6,1.2,32.2,32.2,Art
 Long Beach Unified,2001,2821,Yearbook,12,271,12,2.31,22.6,22.6,Art
-Long Beach Unified,2001,2898,Other art course,11,"4,915",150,27.4,32.8,32.8,Art
+Long Beach Unified,2001,2898,Other art course,11,4915,150,27.4,32.8,32.8,Art
 Long Beach Unified,2001,2353,"Dance, movement and rhythmic activities",2,75,5,1,15,15,Dance
 Long Beach Unified,2001,2355,Dance fundamentals,1,35,1,0.16,35,35,Dance
-Long Beach Unified,2001,2900,Theater/play production,7,"1,108",32,6,34.6,34.6,Drama/Theater
+Long Beach Unified,2001,2900,Theater/play production,7,1108,32,6,34.6,34.6,Drama/Theater
 Long Beach Unified,2001,2901,Drama/creative dramatics,8,268,10,1.92,26.8,26.8,Drama/Theater
 Long Beach Unified,2001,2904,Theater workshop,2,23,2,0.3,11.5,11.5,Drama/Theater
 Long Beach Unified,2001,2905,Technical theater/stagecraft,1,52,1,0.16,0,52,Drama/Theater
@@ -1107,7 +1107,7 @@ Long Beach Unified,2001,2313,Swing/show choir,2,287,6,1.07,40.7,47.8,Music
 Long Beach Unified,2001,2314,Chamber/madrigal/vocal ensemble,3,102,3,0.57,34,34,Music
 Long Beach Unified,2001,2315,Classroom/general/exploratory music,8,325,10,2.04,30.3,32.5,Music
 Long Beach Unified,2001,2398,Other music course,4,307,6,1.08,17,51.2,Music
-Long Beach Unified,2001,2501,"Dance, all phases",5,"1,152",27,4.93,33.4,42.7,Dance/Physical Education
+Long Beach Unified,2001,2501,"Dance, all phases",5,1152,27,4.93,33.4,42.7,Dance/Physical Education
 Long Beach Unified,2001,2870,Advanced placement History of art,2,96,3,0.53,32,32,Art AP
 Long Beach Unified,2001,2872,Advanced placement Studio art draw. portfolio,4,181,6,1.09,30.2,30.2,Art AP
 Long Beach Unified,2001,2370,Advanced placement Music theory,2,41,2,0.36,20.5,20.5,Music AP

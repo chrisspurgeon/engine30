@@ -33,4 +33,142 @@
 		</url>
 	</provider>
 
+<!-- Potential concepts
+		School_District, Year, Course_Code, Course_Name, Number_of_Schools, Total_Course_Enrollment, 
+		Number_of_Classes, Number_FTE_Teachers, Average_Class_Size_filtered, Average_Class_Size, Subject_Area
+-->
+
+	<!-- CONCEPTS -->
+		<concepts>
+			<concept id="School_District">
+				<info>
+					<name>
+						<value>School District</value>
+					</name>
+				</info>
+				<type ref="string" />
+			</concept><!-- school district -->
+			<concept id="Year">
+				<info>
+					<name>
+						<value>Year</value>
+					</name>
+				</info>
+				<type ref="date" />
+			</concept><!-- year -->
+			<concept id="Course_Code">
+				<info>
+					<name>
+						<value>Course Code</value>
+					</name>
+				</info>
+				<type ref="integer" />
+			</concept><!-- course code -->
+			<concept id="Course_Name">
+				<info>
+					<name>
+						<value>Course Name</value>
+					</name>
+				</info>
+				<type ref="string" />
+			</concept><!-- course name -->
+			<concept id="Number_of_Schools">
+				<info>
+					<name>
+						<value>Number of Schools</value>
+					</name>
+				</info>
+				<type ref="integer" />
+			</concept><!-- number of schools -->
+			<concept id="Total_Course_Enrollment">
+				<info>
+					<name>
+						<value>Total Course Enrollment</value>
+					</name>
+				</info>
+				<type ref="integer" />
+			</concept><!-- total course enrollment -->
+			<concept id="Number_of_Classes">
+				<info>
+					<name>
+						<value>Number of Classes</value>
+					</name>
+				</info>
+				<type ref="integer" />
+			</concept><!-- Number of Classes -->
+			<concept id="Number_FTE_Teachers">
+				<info>
+					<name>
+						<value>Number of Full-time Teachers</value>
+					</name>
+				</info>
+				<type ref="float" />
+			</concept><!-- Number of Full-time Teachers -->
+			<concept id="Average_Class_Size_filtered">
+				<info>
+					<name>
+						<value>Average Class Size (filtered)</value>
+					</name>
+				</info>
+				<type ref="float" />
+			</concept><!-- Average Class Size filtered -->
+			<concept id="Average_Class_Size">
+				<info>
+					<name>
+						<value>Average Class Size</value>
+					</name>
+				</info>
+				<type ref="float" />
+			</concept><!-- Average Class Size -->
+			<concept id="Subject_Area">
+				<info>
+					<name>
+						<value>Subject Area</value>
+					</name>
+				</info>
+				<type ref="string" />
+			</concept><!-- Subject Area -->
+
+
+
+
+
+
+		</concepts><!-- END OF COMMENTS -->
+		
+		
+		<!-- SLICES -->
+		<slices>
+			<slice id="simple">
+				<dimension concept="School_District" />
+				<dimension concept="Year" />
+				<metric concept="Number_FTE_Teachers" />
+				<table ref="master_school_table" />
+			</slice><!-- simple slice -->
+		</slices><!-- END OF SLICES -->
+		
+		
+		
+		<!-- TABLES -->
+		<tables>
+			<table id="master_school_table">
+				<column id="School_District" type="string" />
+				<column id="Year" type="date" format="yyyy" />
+				<column id="Course_Code" type="string" />
+				<column id="Course_Name" type="string" />
+				<column id="Number_of_Schools" type="integer" />
+				<column id="Total_Course_Enrollment" type="integer" />
+				<column id="Number_of_Classes" type="integer" />
+				<column id="Number_FTE_Teachers" type="float" />
+				<column id="Average_Class_Size_filtered" type="float" />
+				<column id="Average_Class_Size" type="float" />
+				<column id="Subject_Area" type="string" />
+				<data>
+					<file format="csv" encoding="utf-8">Master_School_data_spreadsheet.csv</file>
+				</data>
+			</table><!-- master school table -->
+		</tables><!-- END OF TABLES -->
+		
+
+
 </dspl>
