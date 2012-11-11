@@ -14,22 +14,22 @@
 
 	<info>
 		<name>
-			<value>Tutorial</value>
+			<value>Public school arts programs</value>
 		</name>
 		<description>
-			<value>Chris Spurgeon does the tutorial, like a boss</value>
+			<value>An examination of arts in selected public school districts over time</value>
 		</description>
 		<url>
-			<value>http://www.engine30.org/tutorial/info.html</value>
+			<value>http://www.engine30.org/</value>
 		</url>
 	</info>
 
 	<provider>
 		<name>
-			<value>Google test stuff</value>
+			<value>Various</value>
 		</name>
 		<url>
-			<value>https://developers.google.com/public-data/docs/tutorial</value>
+			<value>http://www.engine30.org</value>
 		</url>
 	</provider>
 
