@@ -61,19 +61,26 @@
 				</info>
 				<type ref="float" />
 			</concept><!-- Number of Full-time Teachers -->
+			<concept id="Total_Course_Enrollment">
+				<info>
+					<name>
+						<value>Number of students in a specific course</value>
+					</name>
+				</info>
+				<type ref="integer" />
+			</concept><!-- Total course enrollment -->
 		</concepts><!-- END OF COMMENTS -->
 		
 		
 		<!-- SLICES -->
 		<slices>
-			<slice id="simple">
-<!--				<dimension concept="School_District" /> -->
+			<slice id="FTE_teachers">
 				<dimension concept="time:year" />
 				<dimension concept="Course_Name" />
 				<metric concept="Number_FTE_Teachers" />
-<!--				<table ref="master_school_table" /> -->
+				<metric concept="Total_Course_Enrollment" />
 				<table ref="burbank_table" />
-			</slice><!-- simple slice -->
+			</slice><!-- FTE teachers slice -->
 		</slices><!-- END OF SLICES -->
 		
 		
