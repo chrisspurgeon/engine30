@@ -14,10 +14,10 @@
 
 	<info>
 		<name>
-			<value>Public school arts programs</value>
+			<value>Burbank school district arts programs</value>
 		</name>
 		<description>
-			<value>An examination of arts in selected public school districts over time</value>
+			<value>An examination of arts in the Burbank Unified school district</value>
 		</description>
 		<url>
 			<value>http://www.engine30.org/</value>
@@ -83,9 +83,15 @@
 			<table id="burbank_table">
 				<column id="year" type="date" format="yyyy" />
 				<column id="Course_Name" type="string" />
+				<column id="Number_of_Schools" type="integer" />
+				<column id="Number_of_Classes" type="integer" />
+				<column id="Total_Course_Enrollment" type="integer" />
 				<column id="Number_FTE_Teachers" type="float" />
+				<column id="Average_Class_Size_filtered" type="float" />
+				<column id="Average_Class_Size" type="float" />
+				<column id="Subject_Area" type="string" />
 				<data>
-					<file format="csv" encoding="utf-8">burbank_trimmed.csv</file>
+					<file format="csv" encoding="utf-8">burbank.csv</file>
 				</data>
 			</table><!-- Burbank school district table -->
 
