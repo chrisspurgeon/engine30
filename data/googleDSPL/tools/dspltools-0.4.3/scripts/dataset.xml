@@ -1,0 +1,268 @@
+<?xml version="1.0" ?>
+<dspl xmlns="http://schemas.google.com/dspl/2010" xmlns:entity="http://www.google.com/publicdata/dataset/google/entity" xmlns:geo="http://www.google.com/publicdata/dataset/google/geo" xmlns:geo_us="http://www.google.com/publicdata/dataset/google/geo/us" xmlns:quantity="http://www.google.com/publicdata/dataset/google/quantity" xmlns:time="http://www.google.com/publicdata/dataset/google/time" xmlns:unit="http://www.google.com/publicdata/dataset/google/unit">
+  <import namespace="http://www.google.com/publicdata/dataset/google/entity"/>
+  <import namespace="http://www.google.com/publicdata/dataset/google/geo"/>
+  <import namespace="http://www.google.com/publicdata/dataset/google/geo/us"/>
+  <import namespace="http://www.google.com/publicdata/dataset/google/quantity"/>
+  <import namespace="http://www.google.com/publicdata/dataset/google/time"/>
+  <import namespace="http://www.google.com/publicdata/dataset/google/unit"/>
+  <info>
+    <name>
+      <value xml:lang="en">
+        ** INSERT DATASET NAME **
+      </value>
+    </name>
+    <description>
+      <value xml:lang="en">
+        ** INSERT DATASET DESCRIPTION **
+      </value>
+    </description>
+    <url>
+      <value xml:lang="en">
+        ** INSERT DATASET URL **
+      </value>
+    </url>
+  </info>
+  <provider>
+    <name>
+      <value xml:lang="en">
+        ** INSERT PROVIDER NAME **
+      </value>
+    </name>
+    <url>
+      <value xml:lang="en">
+        ** INSERT PROVIDER URL **
+      </value>
+    </url>
+  </provider>
+  <concepts>
+    <concept id="School_District">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: School_District **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: School_District **
+          </value>
+        </description>
+      </info>
+      <type ref="string"/>
+      <table ref="School_District_table"/>
+    </concept>
+    <concept id="Year">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: Year **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: Year **
+          </value>
+        </description>
+      </info>
+      <type ref="integer"/>
+    </concept>
+    <concept id="Course_Code">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: Course_Code **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: Course_Code **
+          </value>
+        </description>
+      </info>
+      <type ref="integer"/>
+    </concept>
+    <concept id="Course_Name">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: Course_Name **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: Course_Name **
+          </value>
+        </description>
+      </info>
+      <type ref="string"/>
+      <table ref="Course_Name_table"/>
+    </concept>
+    <concept id="Number_of_Schools">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: Number_of_Schools **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: Number_of_Schools **
+          </value>
+        </description>
+      </info>
+      <type ref="integer"/>
+    </concept>
+    <concept id="Total_Course_Enrollment">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: Total_Course_Enrollment **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: Total_Course_Enrollment **
+          </value>
+        </description>
+      </info>
+      <type ref="integer"/>
+    </concept>
+    <concept id="Number_of_Classes">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: Number_of_Classes **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: Number_of_Classes **
+          </value>
+        </description>
+      </info>
+      <type ref="integer"/>
+    </concept>
+    <concept id="Number_FTE_Teachers">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: Number_FTE_Teachers **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: Number_FTE_Teachers **
+          </value>
+        </description>
+      </info>
+      <type ref="float"/>
+    </concept>
+    <concept id="Average_Class_Size_filtered">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: Average_Class_Size_filtered **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: Average_Class_Size_filtered **
+          </value>
+        </description>
+      </info>
+      <type ref="float"/>
+    </concept>
+    <concept id="Average_Class_Size">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: Average_Class_Size **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: Average_Class_Size **
+          </value>
+        </description>
+      </info>
+      <type ref="float"/>
+    </concept>
+    <concept id="Subject_Area">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: Subject_Area **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: Subject_Area **
+          </value>
+        </description>
+      </info>
+      <type ref="string"/>
+      <table ref="Subject_Area_table"/>
+    </concept>
+  </concepts>
+  <slices>
+    <slice id="slice_0">
+      <dimension concept="School_District"/>
+      <dimension concept="Course_Name"/>
+      <dimension concept="Subject_Area"/>
+      <metric concept="Year"/>
+      <metric concept="Course_Code"/>
+      <metric concept="Number_of_Schools"/>
+      <metric concept="Total_Course_Enrollment"/>
+      <metric concept="Number_of_Classes"/>
+      <metric concept="Number_FTE_Teachers"/>
+      <metric concept="Average_Class_Size_filtered"/>
+      <metric concept="Average_Class_Size"/>
+      <table ref="slice_0_table"/>
+    </slice>
+  </slices>
+  <tables>
+    <table id="School_District_table">
+      <column id="School_District" type="string"/>
+      <data>
+        <file encoding="utf-8" format="csv">
+          School_District_table.csv
+        </file>
+      </data>
+    </table>
+    <table id="Course_Name_table">
+      <column id="Course_Name" type="string"/>
+      <data>
+        <file encoding="utf-8" format="csv">
+          Course_Name_table.csv
+        </file>
+      </data>
+    </table>
+    <table id="Subject_Area_table">
+      <column id="Subject_Area" type="string"/>
+      <data>
+        <file encoding="utf-8" format="csv">
+          Subject_Area_table.csv
+        </file>
+      </data>
+    </table>
+    <table id="slice_0_table">
+      <column id="School_District" type="string"/>
+      <column id="Year" type="integer"/>
+      <column id="Course_Code" type="integer"/>
+      <column id="Course_Name" type="string"/>
+      <column id="Number_of_Schools" type="integer"/>
+      <column id="Total_Course_Enrollment" type="integer"/>
+      <column id="Number_of_Classes" type="integer"/>
+      <column id="Number_FTE_Teachers" type="float"/>
+      <column id="Average_Class_Size_filtered" type="float"/>
+      <column id="Average_Class_Size" type="float"/>
+      <column id="Subject_Area" type="string"/>
+      <data>
+        <file encoding="utf-8" format="csv">
+          slice_0_table.csv
+        </file>
+      </data>
+    </table>
+  </tables>
+</dspl>
