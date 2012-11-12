@@ -1,0 +1,324 @@
+School_District,Year,Course_Code,Course_Name,Number_of_Schools,Total_Course_Enrollment,Number_of_Classes,Number_FTE_Teachers,Average_Class_Size_filtered,Average_Class_Size,Subject_Area
+Burbank Unified,1998,2800,Ceramics,3,145,5,0.91,29.0,29.0,Art
+Burbank Unified,1998,2801,Design,1,21,1,0.2,21,21,Art
+Burbank Unified,1998,2802,Crafts,3,183,6,1.17,30.5,30.5,Art
+Burbank Unified,1998,2806,Drawing,3,262,8,1.57,32.8,32.8,Art
+Burbank Unified,1998,2809,Cinematography,1,62,2,0.4,31,31,Art
+Burbank Unified,1998,2810,Basic art,3,226,8,1.46,28.2,28.2,Art
+Burbank Unified,1998,2821,Yearbook,1,21,1,0.23,21,21,Art
+Burbank Unified,1998,2898,Other art course,3,162,7,1.46,23.1,23.1,Art
+Burbank Unified,1998,2352,Dance choreography and production,2,62,2,0.4,31,31,Dance
+Burbank Unified,1998,2900,Theater/play production,2,45,2,0.4,22.5,22.5,Drama/Theater
+Burbank Unified,1998,2901,Drama/creative dramatics,3,157,5,0.89,31.4,31.4,Drama/Theater
+Burbank Unified,1998,2905,Technical theater/stagecraft,2,60,3,0.54,20,20,Drama/Theater
+Burbank Unified,1998,2908,Media/film/video/television production,1,1,1,0.2,1,1,Drama/Theater
+Burbank Unified,1998,2300,Band,5,623,13,2.41,35.4,47.9,Music
+Burbank Unified,1998,2303,Orchestra,3,85,3,0.57,28.3,28.3,Music
+Burbank Unified,1998,2305,Chorus/choir,6,456,12,2.17,31.9,38,Music
+Burbank Unified,1998,2310,Instrumental music lessons,1,20,1,0.2,20,20,Music
+Burbank Unified,1998,2313,Swing/show choir,2,73,2,0.37,36.5,36.5,Music
+Burbank Unified,1998,2314,Chamber/madrigal/vocal ensemble,3,107,3,0.58,35.7,35.7,Music
+Burbank Unified,1998,2315,Classroom/general/exploratory music,1,53,1,0.2,0,53,Music
+Burbank Unified,1998,2398,Other music course,2,58,2,0.4,29,29,Music
+Burbank Unified,1998,2501,"Dance, all phases",2,254,6,1.2,40,42.3,Dance/Physical Education
+Burbank Unified,1998,5751,Graphic communications,1,62,2,0.4,31,31,"Visual Comm, Graphics"
+Burbank Unified,1998,5754,Commercial art,1,17,1,0.2,17,17,"Visual Comm, Graphics"
+Burbank Unified,1998,5755,Commercial photography,1,14,1,0.2,14,14,"Visual Comm, Graphics"
+Burbank Unified,1998,5757,Desktop publishing,1,24,1,0.2,24,24,"Visual Comm, Graphics"
+Burbank Unified,1998,5759,"Photography, lithography, and platemaking",1,118,4,0.8,29.5,29.5,"Visual Comm, Graphics"
+Burbank Unified,1998,5760,Photographic laboratory and darkroom,2,153,5,0.98,30.6,30.6,"Visual Comm, Graphics"
+Burbank Unified,1998,5798,"Other visual communications, graphics course",2,141,5,0.97,28.2,28.2,"Visual Comm, Graphics"
+Burbank Unified,1999,2800,Ceramics,1,53,2,0.36,26.5,26.5,Art
+Burbank Unified,1999,2801,Design,1,31,1,0.2,31,31,Art
+Burbank Unified,1999,2805,Photography,1,31,1,0.2,31,31,Art
+Burbank Unified,1999,2806,Drawing,2,190,5,0.98,38,38,Art
+Burbank Unified,1999,2809,Cinematography,1,57,2,0.4,28.5,28.5,Art
+Burbank Unified,1999,2810,Basic art,3,350,12,2.28,29.2,29.2,Art
+Burbank Unified,1999,2821,Yearbook,1,33,1,0.2,33,33,Art
+Burbank Unified,1999,2898,Other art course,3,188,7,1.4,26.9,26.9,Art
+Burbank Unified,1999,2352,Dance choreography and production,2,76,3,0.6,25.3,25.3,Dance
+Burbank Unified,1999,2355,Dance fundamentals,1,97,2,0.4,45,48.5,Dance
+Burbank Unified,1999,2357,"Ballet, modern, jazz dance",1,70,2,0.4,35,35,Dance
+Burbank Unified,1999,2358,Other dance course,1,47,2,0.4,23.5,23.5,Dance
+Burbank Unified,1999,2900,Theater/play production,3,68,3,0.58,22.7,22.7,Drama/Theater
+Burbank Unified,1999,2901,Drama/creative dramatics,3,215,7,1.34,30.7,30.7,Drama/Theater
+Burbank Unified,1999,2905,Technical theater/stagecraft,2,52,2,0.38,26,26,Drama/Theater
+Burbank Unified,1999,2300,Band,5,775,16,3.21,36.2,48.4,Music
+Burbank Unified,1999,2303,Orchestra,2,65,2,0.38,32.5,32.5,Music
+Burbank Unified,1999,2305,Chorus/choir,4,288,7,1.3,38.3,41.1,Music
+Burbank Unified,1999,2306,Vocal jazz/jazz choir,1,20,1,0.2,20,20,Music
+Burbank Unified,1999,2313,Swing/show choir,3,204,5,0.98,33.3,40.8,Music
+Burbank Unified,1999,2314,Chamber/madrigal/vocal ensemble,3,285,6,1.18,45.2,47.5,Music
+Burbank Unified,1999,2398,Other music course,1,26,1,0.2,26,26,Music
+Burbank Unified,1999,2501,"Dance, all phases",2,197,5,1,39.4,39.4,Dance/Physical Education
+Burbank Unified,1999,2871,Advanced placement Studio art gen. portfolio,2,121,6,1.2,20.2,20.2,Art AP
+Burbank Unified,1999,5751,Graphic communications,1,59,2,0.4,29.5,29.5,"Visual Comm, Graphics"
+Burbank Unified,1999,5760,Photographic laboratory and darkroom,3,251,8,1.58,31.4,31.4,"Visual Comm, Graphics"
+Burbank Unified,1999,5798,"Other visual communications, graphics course",2,118,4,0.78,29.5,29.5,"Visual Comm, Graphics"
+Burbank Unified,2000,2800,Ceramics,1,50,2,0.4,25,25,Art
+Burbank Unified,2000,2801,Design,1,36,1,0.2,36,36,Art
+Burbank Unified,2000,2805,Photography,1,153,5,1,30.6,30.6,Art
+Burbank Unified,2000,2806,Drawing,1,114,3,0.6,38,38,Art
+Burbank Unified,2000,2807,Painting,1,23,1,0.2,23,23,Art
+Burbank Unified,2000,2810,Basic art,2,117,4,0.72,29.2,29.2,Art
+Burbank Unified,2000,2821,Yearbook,2,58,2,0.38,29,29,Art
+Burbank Unified,2000,2898,Other art course,4,419,16,3.18,26.2,26.2,Art
+Burbank Unified,2000,2353,"Dance, movement and rhythmic activities",1,39,1,0.2,39,39,Dance
+Burbank Unified,2000,2356,Independent or advanced study,1,34,1,0.2,34,34,Dance
+Burbank Unified,2000,2900,Theater/play production,2,49,2,0.4,24.5,24.5,Drama/Theater
+Burbank Unified,2000,2901,Drama/creative dramatics,4,241,8,1.58,30.1,30.1,Drama/Theater
+Burbank Unified,2000,2905,Technical theater/stagecraft,1,27,1,0.2,27,27,Drama/Theater
+Burbank Unified,2000,2906,Television production,1,31,1,0.2,31,31,Drama/Theater
+Burbank Unified,2000,2998,Other drama/theater course,1,23,1,0.2,23,23,Drama/Theater
+Burbank Unified,2000,2300,Band,5,711,16,3.2,37,44.4,Music
+Burbank Unified,2000,2301,Jazz band,1,32,1,0.2,32,32,Music
+Burbank Unified,2000,2303,Orchestra,2,41,2,0.4,20.5,20.5,Music
+Burbank Unified,2000,2305,Chorus/choir,5,422,12,2.34,33.3,35.2,Music
+Burbank Unified,2000,2313,Swing/show choir,2,139,3,0.6,46.3,46.3,Music
+Burbank Unified,2000,2314,Chamber/madrigal/vocal ensemble,3,218,5,1,41.2,43.6,Music
+Burbank Unified,2000,2398,Other music course,1,27,1,0.2,27,27,Music
+Burbank Unified,2000,2501,"Dance, all phases",2,335,9,1.8,27.5,37.2,Dance/Physical Education
+Burbank Unified,2000,5751,Graphic communications,1,85,3,0.6,28.3,28.3,"Visual Comm, Graphics"
+Burbank Unified,2000,5755,Commercial photography,1,36,1,0.2,36,36,"Visual Comm, Graphics"
+Burbank Unified,2000,5760,Photographic laboratory and darkroom,2,163,5,0.98,32.6,32.6,"Visual Comm, Graphics"
+Burbank Unified,2000,5798,"Other visual communications, graphics course",3,174,6,1.18,29,29,"Visual Comm, Graphics"
+Burbank Unified,2000,5864,Textile production and fabrication,1,33,1,0.2,33,33,Fashion/Home Eco
+Burbank Unified,2001,2800,Ceramics,1,37,1,0.2,37,37,Art
+Burbank Unified,2001,2805,Photography,3,394,13,2.57,30.3,30.3,Art
+Burbank Unified,2001,2810,Basic art,4,601,19,3.66,31.6,31.6,Art
+Burbank Unified,2001,2813,Fashion design,1,28,1,0.2,28,28,Art
+Burbank Unified,2001,2821,Yearbook,3,86,3,0.58,28.7,28.7,Art
+Burbank Unified,2001,2898,Other art course,5,457,17,3.35,26.9,26.9,Art
+Burbank Unified,2001,2900,Theater/play production,2,56,2,0.4,28,28,Drama/Theater
+Burbank Unified,2001,2901,Drama/creative dramatics,3,301,10,2,30.1,30.1,Drama/Theater
+Burbank Unified,2001,2905,Technical theater/stagecraft,1,30,1,0.2,30,30,Drama/Theater
+Burbank Unified,2001,2906,Television production,1,64,2,0.4,32,32,Drama/Theater
+Burbank Unified,2001,2998,Other drama/theater course,1,27,1,0.2,27,27,Drama/Theater
+Burbank Unified,2001,2300,Band,5,460,13,2.52,31.8,35.4,Music
+Burbank Unified,2001,2301,Jazz band,1,21,1,0.2,21,21,Music
+Burbank Unified,2001,2303,Orchestra,2,45,2,0.4,22.5,22.5,Music
+Burbank Unified,2001,2305,Chorus/choir,6,453,13,2.5,34.8,34.8,Music
+Burbank Unified,2001,2307,Music appreciation/history/literature,1,47,2,0.36,23.5,23.5,Music
+Burbank Unified,2001,2313,Swing/show choir,4,257,6,1.18,38,42.8,Music
+Burbank Unified,2001,2314,Chamber/madrigal/vocal ensemble,4,214,5,0.96,42.8,42.8,Music
+Burbank Unified,2001,2398,Other music course,2,136,3,0.6,22.5,45.3,Music
+Burbank Unified,2001,2501,"Dance, all phases",2,434,12,2.4,36.2,36.2,Dance/Physical Education
+Burbank Unified,2001,5751,Graphic communications,2,77,3,0.6,25.7,25.7,"Visual Comm, Graphics"
+Burbank Unified,2001,5757,Desktop publishing,1,26,1,0.2,26,26,"Visual Comm, Graphics"
+Burbank Unified,2001,5798,"Other visual communications, graphics course",1,96,3,0.6,32,32,"Visual Comm, Graphics"
+Burbank Unified,2002,2802,Crafts,1,25,1,0.1,25,25,Art
+Burbank Unified,2002,2805,Photography,3,376,12,2.4,31.3,31.3,Art
+Burbank Unified,2002,2810,Basic art,5,832,28,5.6,29.7,29.7,Art
+Burbank Unified,2002,2813,Fashion design,1,27,1,0.2,27,27,Art
+Burbank Unified,2002,2821,Yearbook,2,48,2,0.4,24,24,Art
+Burbank Unified,2002,2898,Other art course,5,263,11,2.2,23.9,23.9,Art
+Burbank Unified,2002,2900,Theater/play production,1,32,1,0.2,32,32,Drama/Theater
+Burbank Unified,2002,2901,Drama/creative dramatics,3,247,10,2,24.7,24.7,Drama/Theater
+Burbank Unified,2002,2905,Technical theater/stagecraft,1,22,1,0.2,22,22,Drama/Theater
+Burbank Unified,2002,2906,Television production,1,31,1,0.2,31,31,Drama/Theater
+Burbank Unified,2002,2998,Other drama/theater course,1,52,2,0.4,26,26,Drama/Theater
+Burbank Unified,2002,2300,Band,5,452,14,2.8,29.6,32.3,Music
+Burbank Unified,2002,2301,Jazz band,1,13,1,0.2,13,13,Music
+Burbank Unified,2002,2303,Orchestra,2,74,3,0.6,24.7,24.7,Music
+Burbank Unified,2002,2305,Chorus/choir,4,411,10,2,39.4,41.1,Music
+Burbank Unified,2002,2307,Music appreciation/history/literature,1,57,2,0.4,28.5,28.5,Music
+Burbank Unified,2002,2313,Swing/show choir,4,257,6,1.2,40.8,42.8,Music
+Burbank Unified,2002,2314,Chamber/madrigal/vocal ensemble,4,248,8,1.6,28,31,Music
+Burbank Unified,2002,2398,Other music course,3,199,5,1,27.5,39.8,Music
+Burbank Unified,2002,2501,"Dance, all phases",2,413,11,2.2,37.5,37.5,Dance/Physical Education
+Burbank Unified,2002,5751,Graphic communications,1,85,3,0.6,28.3,28.3,"Visual Comm, Graphics"
+Burbank Unified,2002,5757,Desktop publishing,1,27,1,0.2,27,27,"Visual Comm, Graphics"
+Burbank Unified,2002,5798,"Other visual communications, graphics course",2,80,3,0.6,26.7,26.7,"Visual Comm, Graphics"
+Burbank Unified,2003,2805,Photography,3,506,15,3,33.7,33.7,Art
+Burbank Unified,2003,2810,Basic art,5,839,26,5.2,32.3,32.3,Art
+Burbank Unified,2003,2813,Fashion design,1,28,1,0.2,28,28,Art
+Burbank Unified,2003,2821,Yearbook,2,58,2,0.4,29,29,Art
+Burbank Unified,2003,2898,Other art course,6,340,14,2.8,24.3,24.3,Art
+Burbank Unified,2003,2900,Theater/play production,2,52,2,0.4,26,26,Drama/Theater
+Burbank Unified,2003,2901,Drama/creative dramatics,4,332,11,2.2,30.2,30.2,Drama/Theater
+Burbank Unified,2003,2905,Technical theater/stagecraft,1,29,1,0.2,29,29,Drama/Theater
+Burbank Unified,2003,2906,Television production,1,33,1,0.2,33,33,Drama/Theater
+Burbank Unified,2003,2998,Other drama/theater course,1,25,1,0.2,25,25,Drama/Theater
+Burbank Unified,2003,2300,Band,5,468,13,2.6,29.3,36,Music
+Burbank Unified,2003,2301,Jazz band,2,39,2,0.4,19.5,19.5,Music
+Burbank Unified,2003,2303,Orchestra,2,105,3,0.6,35,35,Music
+Burbank Unified,2003,2305,Chorus/choir,5,442,13,2.6,32.6,34,Music
+Burbank Unified,2003,2307,Music appreciation/history/literature,1,64,2,0.4,32,32,Music
+Burbank Unified,2003,2310,Instrumental music lessons,1,68,2,0.4,34,34,Music
+Burbank Unified,2003,2313,Swing/show choir,2,119,3,0.6,39.7,39.7,Music
+Burbank Unified,2003,2314,Chamber/madrigal/vocal ensemble,4,327,8,1.6,40.9,40.9,Music
+Burbank Unified,2003,2398,Other music course,1,107,2,0.4,26,53.5,Music
+Burbank Unified,2003,2501,"Dance, all phases",2,386,11,2.2,35.1,35.1,Dance/Physical Education
+Burbank Unified,2003,5757,Desktop publishing,1,26,1,0.2,26,26,"Visual Comm, Graphics"
+Burbank Unified,2003,5798,"Other visual communications, graphics course",2,215,6,1.2,35.8,35.8,"Visual Comm, Graphics"
+Burbank Unified,2004,2802,Crafts,1,142,5,1,28.4,28.4,Art
+Burbank Unified,2004,2805,Photography,3,491,15,3,32.7,32.7,Art
+Burbank Unified,2004,2810,Basic art,5,856,27,5.4,31.7,31.7,Art
+Burbank Unified,2004,2821,Yearbook,2,62,2,0.4,31,31,Art
+Burbank Unified,2004,2898,Other art course,6,344,13,2.6,26.5,26.5,Art
+Burbank Unified,2004,2900,Theater/play production,1,25,1,0.2,25,25,Drama/Theater
+Burbank Unified,2004,2901,Drama/creative dramatics,3,277,9,1.8,30.8,30.8,Drama/Theater
+Burbank Unified,2004,2300,Band,5,648,14,2.8,34.5,46.3,Music
+Burbank Unified,2004,2301,Jazz band,1,8,1,0.2,8,8,Music
+Burbank Unified,2004,2302,Stage band,1,31,1,0.2,31,31,Music
+Burbank Unified,2004,2303,Orchestra,2,103,3,0.6,34.3,34.3,Music
+Burbank Unified,2004,2305,Chorus/choir,5,439,12,2.4,36.6,36.6,Music
+Burbank Unified,2004,2310,Instrumental music lessons,1,46,2,0.4,23,23,Music
+Burbank Unified,2004,2313,Swing/show choir,1,93,2,0.4,42,46.5,Music
+Burbank Unified,2004,2314,Chamber/madrigal/vocal ensemble,3,327,7,1.4,45,46.7,Music
+Burbank Unified,2004,2398,Other music course,1,67,2,0.4,33.5,33.5,Music
+Burbank Unified,2004,2501,"Dance, all phases",2,424,11,2.2,37.3,38.5,Dance/Physical Education
+Burbank Unified,2004,5757,Desktop publishing,1,27,1,0.2,27,27,"Visual Comm, Graphics"
+Burbank Unified,2004,5798,"Other visual communications, graphics course",2,166,5,1,33.2,33.2,"Visual Comm, Graphics"
+Burbank Unified,2005,2805,Photography,2,264,8,1.58,33,33,Art
+Burbank Unified,2005,2810,Basic art,3,782,24,4.74,32.6,32.6,Art
+Burbank Unified,2005,2819,Lettering/calligraphy,1,28,1,0.2,28,28,Art
+Burbank Unified,2005,2821,Yearbook,3,73,3,0.6,24.3,24.3,Art
+Burbank Unified,2005,2898,Other art course,6,415,16,3.18,25.9,25.9,Art
+Burbank Unified,2005,2352,Dance choreography and production,1,22,1,0.2,22,22,Dance
+Burbank Unified,2005,2358,Other dance course,1,171,4,0.8,42.8,42.8,Dance
+Burbank Unified,2005,2900,Theater/play production,1,23,1,0.2,23,23,Drama/Theater
+Burbank Unified,2005,2901,Drama/creative dramatics,3,203,7,1.3,29,29,Drama/Theater
+Burbank Unified,2005,2906,Television production,2,163,2,0.3,34,81.5,Drama/Theater
+Burbank Unified,2005,2998,Other drama/theater course,1,121,4,0.8,30.2,30.2,Drama/Theater
+Burbank Unified,2005,2300,Band,5,653,15,2.92,34.6,43.5,Music
+Burbank Unified,2005,2301,Jazz band,2,67,2,0.4,9,33.5,Music
+Burbank Unified,2005,2303,Orchestra,3,130,4,0.8,32.5,32.5,Music
+Burbank Unified,2005,2305,Chorus/choir,5,466,12,2.32,33.3,38.8,Music
+Burbank Unified,2005,2307,Music appreciation/history/literature,1,16,1,0.2,16,16,Music
+Burbank Unified,2005,2310,Instrumental music lessons,2,92,3,0.6,30.7,30.7,Music
+Burbank Unified,2005,2313,Swing/show choir,1,80,2,0.4,40,40,Music
+Burbank Unified,2005,2314,Chamber/madrigal/vocal ensemble,3,330,8,1.48,39.4,41.2,Music
+Burbank Unified,2005,2322,Musical theater,1,15,1,0.1,15,15,Music
+Burbank Unified,2005,2501,"Dance, all phases",1,254,6,1.2,42.3,42.3,Dance/Physical Education
+Burbank Unified,2005,4331,Clothing and textiles,1,27,1,0.2,27,27,Fashion/Home Eco
+Burbank Unified,2005,5757,Desktop publishing,1,28,1,0.2,28,28,"Visual Comm, Graphics"
+Burbank Unified,2005,5760,Photographic laboratory and darkroom,1,143,5,1,28.6,28.6,"Visual Comm, Graphics"
+Burbank Unified,2005,5798,"Other visual communications, graphics course",2,261,8,1.6,32.6,32.6,"Visual Comm, Graphics"
+Burbank Unified,2006,2805,Photography,2,252,8,1.58,31.5,31.5,Art
+Burbank Unified,2006,2810,Basic art,3,826,25,4.94,33,33,Art
+Burbank Unified,2006,2819,Lettering/calligraphy,1,24,1,0.2,24,24,Art
+Burbank Unified,2006,2821,Yearbook,3,67,3,0.6,22.3,22.3,Art
+Burbank Unified,2006,2898,Other art course,6,431,18,3.38,23.9,23.9,Art
+Burbank Unified,2006,2353,"Dance, movement and rhythmic activities",1,216,5,1,43.2,43.2,Dance
+Burbank Unified,2006,2900,Theater/play production,1,22,1,0.2,22,22,Drama/Theater
+Burbank Unified,2006,2901,Drama/creative dramatics,3,211,7,1.3,30.1,30.1,Drama/Theater
+Burbank Unified,2006,2906,Television production,2,41,2,0.32,20.5,20.5,Drama/Theater
+Burbank Unified,2006,2998,Other drama/theater course,1,123,4,0.8,30.8,30.8,Drama/Theater
+Burbank Unified,2006,2300,Band,5,782,16,3.1,37.5,48.9,Music
+Burbank Unified,2006,2303,Orchestra,2,112,3,0.6,37.3,37.3,Music
+Burbank Unified,2006,2305,Chorus/choir,4,405,11,2.12,36.8,36.8,Music
+Burbank Unified,2006,2307,Music appreciation/history/literature,1,50,2,0.4,25,25,Music
+Burbank Unified,2006,2310,Instrumental music lessons,2,147,4,0.8,36.8,36.8,Music
+Burbank Unified,2006,2313,Swing/show choir,1,84,2,0.4,42,42,Music
+Burbank Unified,2006,2314,Chamber/madrigal/vocal ensemble,3,473,10,1.88,41.2,47.3,Music
+Burbank Unified,2006,2322,Musical theater,1,23,1,0.2,23,23,Music
+Burbank Unified,2006,2398,Other music course,1,21,1,0.2,21,21,Music
+Burbank Unified,2006,2501,"Dance, all phases",2,214,6,1.2,35.7,35.7,Dance/Physical Education
+Burbank Unified,2006,2871,Advanced placement Studio art gen. portfolio,1,29,1,0.2,29,29,Art AP
+Burbank Unified,2006,2370,Advanced placement Music theory,1,20,1,0.2,20,20,Music AP
+Burbank Unified,2006,4331,Clothing and textiles,1,46,1,0.2,46,46,Fashion/Home Eco
+Burbank Unified,2006,5757,Desktop publishing,1,30,1,0.2,30,30,"Visual Comm, Graphics"
+Burbank Unified,2006,5760,Photographic laboratory and darkroom,1,145,5,1,29,29,"Visual Comm, Graphics"
+Burbank Unified,2006,5770,Broadcasting technology,1,195,6,1.2,32.5,32.5,"Visual Comm, Graphics"
+Burbank Unified,2006,5798,"Other visual communications, graphics course",1,63,2,0.4,31.5,31.5,"Visual Comm, Graphics"
+Burbank Unified,2007,2803,Art history,1,67,2,0.4,33.5,33.5,Art
+Burbank Unified,2007,2805,Photography,3,386,13,2.55,29.7,29.7,Art
+Burbank Unified,2007,2819,Lettering/calligraphy,1,33,1,0.2,33,33,Art
+Burbank Unified,2007,2820,Computer art/graphics,1,153,5,1,30.6,30.6,Art
+Burbank Unified,2007,2821,Yearbook,2,58,2,0.4,29,29,Art
+Burbank Unified,2007,2823,Fundamentals of Art (sec),2,517,16,3.08,32.3,32.3,Art
+Burbank Unified,2007,2898,Other art course,6,788,29,5.49,27.2,27.2,Art
+Burbank Unified,2007,2353,"Dance, movement and rhythmic activities",1,194,5,1,38.8,38.8,Dance
+Burbank Unified,2007,2900,Theater/play production,2,145,6,1.2,24.2,24.2,Drama/Theater
+Burbank Unified,2007,2901,Drama/creative dramatics,3,207,7,1.36,29.6,29.6,Drama/Theater
+Burbank Unified,2007,2908,Media/film/video/television production,1,30,1,0.2,30,30,Drama/Theater
+Burbank Unified,2007,2300,Band,5,1072,25,3.6,32.4,42.9,Music
+Burbank Unified,2007,2303,Orchestra,2,175,4,0.8,41,43.8,Music
+Burbank Unified,2007,2305,Chorus/choir,4,391,10,1.87,36.1,39.1,Music
+Burbank Unified,2007,2307,Music appreciation/history/literature,1,64,2,0.4,32,32,Music
+Burbank Unified,2007,2310,Instrumental music lessons,1,47,2,0.4,23.5,23.5,Music
+Burbank Unified,2007,2313,Swing/show choir,1,73,2,0.4,36.5,36.5,Music
+Burbank Unified,2007,2314,Chamber/madrigal/vocal ensemble,3,507,11,2.13,42.2,46.1,Music
+Burbank Unified,2007,2322,Musical theater,1,34,1,0.2,34,34,Music
+Burbank Unified,2007,2501,"Dance, all phases",2,151,5,1,30.2,30.2,Dance/Physical Education
+Burbank Unified,2007,2873,Advanced placement Studio Art,1,17,1,0.2,17,17,Art AP
+Burbank Unified,2007,2370,Advanced placement Music theory,1,19,1,0.2,19,19,Music AP
+Burbank Unified,2007,4331,Clothing and textiles,1,25,1,0.2,25,25,Fashion/Home Eco
+Burbank Unified,2007,5757,Desktop publishing,1,32,1,0.2,32,32,"Visual Comm, Graphics"
+Burbank Unified,2007,5770,Broadcasting technology,1,191,6,1.2,31.8,31.8,"Visual Comm, Graphics"
+Burbank Unified,2007,5798,"Other visual communications, graphics course",1,66,2,0.4,33,33,"Visual Comm, Graphics"
+Burbank Unified,2008,2824,"Secondary arts-art, music, dance, drama (thro",1,181,8,8.64,22.6,22.6,Independent Study
+Burbank Unified,2008,3016,"SE Secondary arts (art, music, dance, drama)",2,24,4,0.9,6,6,Special Education
+Burbank Unified,2008,2380,STAE Music,1,0,2,2,0,0,Supporting Teaching
+Burbank Unified,2008,2803,Art history,1,29,1,0.2,29,29,Art
+Burbank Unified,2008,2805,Photography,2,388,12,2.4,32.3,32.3,Art
+Burbank Unified,2008,2809,Cinematography,1,36,1,0.2,36,36,Art
+Burbank Unified,2008,2823,Fundamentals of Art (sec),2,596,19,3.8,31.4,31.4,Art
+Burbank Unified,2008,2898,Other art course,5,819,28,5.43,29.2,29.2,Art
+Burbank Unified,2008,2900,Theater/play production (sec schl standards),2,167,7,1.4,23.9,23.9,Drama/Theater
+Burbank Unified,2008,2901,Theater/creative dramatics (elem schl standards,1,97,4,0.8,24.2,24.2,Drama/Theater
+Burbank Unified,2008,2908,Media/film/video/television production,1,30,1,0.2,30,30,Drama/Theater
+Burbank Unified,2008,2998,Other drama/theater course,1,25,1,0.2,25,25,Drama/Theater
+Burbank Unified,2008,2300,Band,5,876,22,3.2,27.7,39.8,Music
+Burbank Unified,2008,2303,Orchestra/symphony,2,173,4,0.8,40,43.2,Music
+Burbank Unified,2008,2305,Chorus/choir,5,934,22,4.4,38.8,42.5,Music
+Burbank Unified,2008,2307,Music appreciation/history/literature,1,59,2,0.4,29.5,29.5,Music
+Burbank Unified,2008,2322,Musical theater,1,24,1,0.2,24,24,Music
+Burbank Unified,2008,2328,Instrumental ensemble,2,103,3,0.6,34.3,34.3,Music
+Burbank Unified,2008,2370,AP Music theory,2,36,2,0.4,18,18,Music AP
+Burbank Unified,2008,5716,Video production,2,225,7,1.4,32.1,32.1,"Arts, Media and Entertainment"
+Burbank Unified,2008,5757,Desktop publishing,1,27,1,0.2,27,27,"Arts, Media and Entertainment"
+Burbank Unified,2008,4331,Fashion textiles and apparel,1,29,1,0.2,29,29,Fashion/Home Eco
+Burbank Unified,2009,2824,"Secondary arts-art, music, dance, drama (thro",1,23,5,4.41,11.5,4.6,Independent Study
+Burbank Unified,2009,3016,"SE Secondary arts (art, music, dance, drama)",2,17,4,0.9,4.2,4.2,Special Education
+Burbank Unified,2009,2380,STAE Music,1,0,2,2,0,0,Supporting Teaching
+Burbank Unified,2009,2803,Art history,1,34,1,0.2,34,34,Art
+Burbank Unified,2009,2805,Photography,2,349,12,2.4,29.1,29.1,Art
+Burbank Unified,2009,2822,Fundamentals of art (elem),1,62,2,0.4,31,31,Art
+Burbank Unified,2009,2823,Fundamentals of Art (sec),2,532,17,3.4,31.3,31.3,Art
+Burbank Unified,2009,2898,Other art course,5,874,31,6,28.2,28.2,Art
+Burbank Unified,2009,2900,Theater/play production (sec schl standards),2,177,7,1.4,25.3,25.3,Drama/Theater
+Burbank Unified,2009,2901,Theater/creative dramatics (elem schl standards,1,90,4,0.8,22.5,22.5,Drama/Theater
+Burbank Unified,2009,2300,Band,5,568,18,3.2,31.6,31.6,Music
+Burbank Unified,2009,2303,Orchestra/symphony,2,125,4,0.8,31.2,31.2,Music
+Burbank Unified,2009,2305,Chorus/choir,5,1005,23,4.6,37.3,43.7,Music
+Burbank Unified,2009,2307,Music appreciation/history/literature,1,35,1,0.2,35,35,Music
+Burbank Unified,2009,2322,Musical theater,2,47,2,0.4,23.5,23.5,Music
+Burbank Unified,2009,2328,Instrumental ensemble,2,101,3,0.6,33.7,33.7,Music
+Burbank Unified,2009,2370,AP Music theory,2,36,2,0.4,18,18,Music AP
+Burbank Unified,2009,5715,Filmmaking,1,34,1,0.2,34,34,"Arts, Media and Entertainment"
+Burbank Unified,2009,5716,Video production,2,189,6,1.2,31.5,31.5,"Arts, Media and Entertainment"
+Burbank Unified,2009,5731,Broadcast production,1,9,1,0.2,9,9,"Arts, Media and Entertainment"
+Burbank Unified,2009,5757,Desktop publishing,1,27,1,0.2,27,27,"Arts, Media and Entertainment"
+Burbank Unified,2009,4331,Fashion textiles and apparel,1,26,1,0.2,26,26,Fashion/Home Eco
+Burbank Unified,2011,2800,Ceramics (beginning and advanced),1,32,1,0.2,32,32,Art
+Burbank Unified,2011,2801,Design,1,23,1,0.2,23,23,Art
+Burbank Unified,2011,2802,Crafts,1,32,20,0.49,1.6,1.6,Art
+Burbank Unified,2011,2803,Art history,2,83,33,0.97,2.5,2.5,Art
+Burbank Unified,2011,2805,Photography (beginning or advanced),1,2,2,0.03,1,1,Art
+Burbank Unified,2011,2806,Drawing,1,90,54,1.39,1.7,1.7,Art
+Burbank Unified,2011,2812,Sculpture,1,105,3,0.6,35,35,Art
+Burbank Unified,2011,2816,Art appreciation (secondary school standards),2,206,7,1.4,29.4,29.4,Art
+Burbank Unified,2011,2820,Digital art/computer art/artistic graphics,1,32,1,0.2,32,32,Art
+Burbank Unified,2011,2823,Fundamentals of art (secondary school standards),4,867,31,5.77,28,28,Art
+Burbank Unified,2011,2898,Other art course,5,245,30,1.96,8.2,8.2,Art
+Burbank Unified,2011,2352,Dance choreography and production,2,58,2,0.4,29,29,Dance
+Burbank Unified,2011,2900,Theatre /play production (sec sch standards),1,21,1,0.2,21,21,Drama/Theater
+Burbank Unified,2011,2905,Technical theater/stagecraft,2,25,2,0.37,12.5,12.5,Drama/Theater
+Burbank Unified,2011,2910,History/appreciation of theatre/film/video/med,1,9,8,0.14,1.1,1.1,Drama/Theater
+Burbank Unified,2011,2998,Other drama/theater course,2,80,6,0.66,13.3,13.3,Drama/Theater
+Burbank Unified,2011,2300,Band,5,710,20,3.81,31.1,35.5,Music
+Burbank Unified,2011,2303,Orchestra/symphony,1,12,1,0.17,12,12,Music
+Burbank Unified,2011,2305,Chorus/choir/vocal ensemble,5,1091,23,4.48,40.4,47.4,Music
+Burbank Unified,2011,2307,Music appreciation/history/literature,1,19,17,0.27,1.1,1.1,Music
+Burbank Unified,2011,2322,Musical theater,1,29,1,0.2,29,29,Music
+Burbank Unified,2011,2325,Instrumental music lessons (sec school std),2,89,3,0.57,29.7,29.7,Music
+Burbank Unified,2011,2328,Instrumental ensemble,2,57,2,0.34,28.5,28.5,Music
+Burbank Unified,2011,2370,AP Music theory,2,39,2,0.34,19.5,19.5,Music AP
+Burbank Unified,2011,5702,Animation,1,70,2,0.4,35,35,"Arts, Media and Entertainment"
+Burbank Unified,2011,5716,Video production,2,231,7,0.9,33,33,"Arts, Media and Entertainment"
+Burbank Unified,2011,5721,Professional theater/play production,2,240,8,1.6,30,30,"Arts, Media and Entertainment"
+Burbank Unified,2011,5752,Computer gaming and design,2,60,2,0.4,30,30,"Arts, Media and Entertainment"
+Burbank Unified,2011,5760,Photographic laboratory and darkroom,2,250,8,1.6,31.2,31.2,"Arts, Media and Entertainment"
+Burbank Unified,2011,5770,Broadcasting technology,1,30,1,0.2,30,30,"Arts, Media and Entertainment"

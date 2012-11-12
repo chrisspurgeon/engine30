@@ -1004,11 +1004,11 @@ Long Beach Unified,1999,2800,Ceramics,3,211,6,1.14,35.2,35.2,Art
 Long Beach Unified,1999,2803,Art history,2,272,6,1.2,38.8,45.3,Art
 Long Beach Unified,1999,2805,Photography,3,322,9,1.92,35.8,35.8,Art
 Long Beach Unified,1999,2808,Advertising design,1,37,1,0.2,37,37,Art
-Long Beach Unified,1999,2810,Basic art,20,"2,927",83,16.24,31.4,35.3,Art
+Long Beach Unified,1999,2810,Basic art,20,2927,83,16.24,31.4,35.3,Art
 Long Beach Unified,1999,2811,Jewelry,1,23,1,0.16,23,23,Art
 Long Beach Unified,1999,2819,Lettering/calligraphy,3,95,3,0.45,31.7,31.7,Art
 Long Beach Unified,1999,2821,Yearbook,8,221,9,2.5,24.6,24.6,Art
-Long Beach Unified,1999,2898,Other art course,10,"4,766",134,24.93,35.1,35.6,Art
+Long Beach Unified,1999,2898,Other art course,10,4766,134,24.93,35.1,35.6,Art
 Long Beach Unified,1999,2358,Other dance course,1,31,1,0.17,31,31,Dance
 Long Beach Unified,1999,2900,Theater/play production,15,1414,39,7.43,33.6,36.3,Drama/Theater
 Long Beach Unified,1999,2904,Theater workshop,2,36,2,0.36,18,18,Drama/Theater
@@ -1021,7 +1021,7 @@ Long Beach Unified,1999,2303,Orchestra,17,835,27,5.27,29.2,30.9,Music
 Long Beach Unified,1999,2305,Chorus/choir,15,1111,28,5.36,36.4,39.7,Music
 Long Beach Unified,1999,2306,Vocal jazz/jazz choir,2,104,4,0.73,26,26,Music
 Long Beach Unified,1999,2307,Music appreciation/history/literature,9,515,12,2.54,32.2,42.9,Music
-Long Beach Unified,1999,2310,Instrumental music lessons,10,"1,209",19,6.88,32.5,63.6,Music
+Long Beach Unified,1999,2310,Instrumental music lessons,10,1209,19,6.88,32.5,63.6,Music
 Long Beach Unified,1999,2311,Recorder ensemble,1,32,1,0.16,32,32,Music
 Long Beach Unified,1999,2313,Swing/show choir,3,150,3,0.57,32,50,Music
 Long Beach Unified,1999,2314,Chamber/madrigal/vocal ensemble,4,129,4,0.76,32.2,32.2,Music
@@ -1057,13 +1057,13 @@ Long Beach Unified,2000,2904,Theater workshop,2,37,2,0.36,18.5,18.5,Drama/Theate
 Long Beach Unified,2000,2905,Technical theater/stagecraft,2,50,3,0.55,16.7,16.7,Drama/Theater
 Long Beach Unified,2000,2908,Media arts (individual or inclusive),1,106,3,0.6,35.3,35.3,Drama/Theater
 Long Beach Unified,2000,2998,Other drama/theater course,3,156,5,0.93,31.2,31.2,Drama/Theater
-Long Beach Unified,2000,2300,Band,18,"2,048",46,9.66,26.5,44.5,Music
+Long Beach Unified,2000,2300,Band,18,2048,46,9.66,26.5,44.5,Music
 Long Beach Unified,2000,2301,Jazz band,4,177,7,1.23,25.3,25.3,Music
 Long Beach Unified,2000,2303,Orchestra,17,1015,36,6.54,26.2,28.2,Music
 Long Beach Unified,2000,2305,Chorus/choir,17,1395,35,7.01,33.2,39.9,Music
 Long Beach Unified,2000,2306,Vocal jazz/jazz choir,2,65,3,0.5,21.7,21.7,Music
 Long Beach Unified,2000,2307,Music appreciation/history/literature,4,163,6,1.03,27.2,27.2,Music
-Long Beach Unified,2000,2310,Instrumental music lessons,9,"1,750",33,11.91,30.4,53,Music
+Long Beach Unified,2000,2310,Instrumental music lessons,9,1750,33,11.91,30.4,53,Music
 Long Beach Unified,2000,2313,Swing/show choir,1,66,1,0.17,0,66,Music
 Long Beach Unified,2000,2314,Chamber/madrigal/vocal ensemble,3,95,3,0.53,31.7,31.7,Music
 Long Beach Unified,2000,2315,Classroom/general/exploratory music,9,675,19,3.68,29.3,35.5,Music
@@ -1096,10 +1096,10 @@ Long Beach Unified,2001,2904,Theater workshop,2,23,2,0.3,11.5,11.5,Drama/Theater
 Long Beach Unified,2001,2905,Technical theater/stagecraft,1,52,1,0.16,0,52,Drama/Theater
 Long Beach Unified,2001,2908,Media arts (individual or inclusive),1,73,2,0.4,36.5,36.5,Drama/Theater
 Long Beach Unified,2001,2998,Other drama/theater course,2,84,2,0.34,42,42,Drama/Theater
-Long Beach Unified,2001,2300,Band,20,"1,693",47,8.42,27.7,36,Music
+Long Beach Unified,2001,2300,Band,20,1693,47,8.42,27.7,36,Music
 Long Beach Unified,2001,2301,Jazz band,5,238,10,1.83,23.8,23.8,Music
-Long Beach Unified,2001,2303,Orchestra,20,"1,134",39,7.01,26.1,29.1,Music
-Long Beach Unified,2001,2305,Chorus/choir,17,"1,248",37,6.98,28.7,33.7,Music
+Long Beach Unified,2001,2303,Orchestra,20,1134,39,7.01,26.1,29.1,Music
+Long Beach Unified,2001,2305,Chorus/choir,17,1248,37,6.98,28.7,33.7,Music
 Long Beach Unified,2001,2306,Vocal jazz/jazz choir,1,46,2,0.34,23,23,Music
 Long Beach Unified,2001,2307,Music appreciation/history/literature,4,244,11,2.47,22.2,22.2,Music
 Long Beach Unified,2001,2310,Instrumental music lessons,9,809,27,4.84,27.9,30,Music
@@ -1116,27 +1116,27 @@ Long Beach Unified,2001,4331,Clothing and textiles,1,38,1,0.2,38,38,Fashion/Home
 Long Beach Unified,2001,5751,Graphic communications,5,577,17,3.36,33.9,33.9,"Visual Comm, Graphics"
 Long Beach Unified,2001,5757,Desktop publishing,2,92,3,0.6,30.7,30.7,"Visual Comm, Graphics"
 Long Beach Unified,2001,5798,"Other visual communications, graphics course",4,386,13,2.44,29.7,29.7,"Visual Comm, Graphics"
-Long Beach Unified,2001,2380,Music (Support Teaching Assignment),4,"2,254",41,30.67,11.6,55,Supporting Teaching
+Long Beach Unified,2001,2380,Music (Support Teaching Assignment),4,2254,41,30.67,11.6,55,Supporting Teaching
 Long Beach Unified,2001,2880,Art (Support Teaching Assignment),4,0,5,3.5,0,0,Supporting Teaching
 Long Beach Unified,2002,2800,Ceramics,4,544,16,2.91,34,34,Art
 Long Beach Unified,2002,2805,Photography,3,269,8,1.6,33.6,33.6,Art
 Long Beach Unified,2002,2808,Advertising design,1,31,1,0.2,31,31,Art
-Long Beach Unified,2002,2810,Basic art,24,"2,365",87,15.3,26.6,27.2,Art
+Long Beach Unified,2002,2810,Basic art,24,2365,87,15.3,26.6,27.2,Art
 Long Beach Unified,2002,2819,Lettering/calligraphy,2,52,2,0.32,26,26,Art
 Long Beach Unified,2002,2820,Computer art/graphics,2,347,10,1.83,34.7,34.7,Art
 Long Beach Unified,2002,2821,Yearbook,12,283,14,2.72,20.2,20.2,Art
-Long Beach Unified,2002,2898,Other art course,10,"5,138",151,28.65,34,34,Art
+Long Beach Unified,2002,2898,Other art course,10,5138,151,28.65,34,34,Art
 Long Beach Unified,2002,2355,Dance fundamentals,1,114,3,0.51,38,38,Dance
-Long Beach Unified,2002,2900,Theater/play production,7,"1,298",39,7.24,33.3,33.3,Drama/Theater
+Long Beach Unified,2002,2900,Theater/play production,7,1298,39,7.24,33.3,33.3,Drama/Theater
 Long Beach Unified,2002,2901,Drama/creative dramatics,11,583,21,4.53,27.8,27.8,Drama/Theater
 Long Beach Unified,2002,2905,Technical theater/stagecraft,2,43,3,0.83,14.3,14.3,Drama/Theater
 Long Beach Unified,2002,2908,Media arts (individual or inclusive),2,89,3,0.57,29.7,29.7,Drama/Theater
 Long Beach Unified,2002,2998,Other drama/theater course,2,89,2,0.33,44.5,44.5,Drama/Theater
-Long Beach Unified,2002,2300,Band,19,"1,376",41,7.59,25.8,33.6,Music
+Long Beach Unified,2002,2300,Band,19,1376,41,7.59,25.8,33.6,Music
 Long Beach Unified,2002,2301,Jazz band,4,169,7,1.34,24.1,24.1,Music
 Long Beach Unified,2002,2302,Stage band,1,25,1,0.2,25,25,Music
-Long Beach Unified,2002,2303,Orchestra,20,"1,150",40,7.62,27.3,28.8,Music
-Long Beach Unified,2002,2305,Chorus/choir,19,"1,569",44,8.55,31.4,35.7,Music
+Long Beach Unified,2002,2303,Orchestra,20,1150,40,7.62,27.3,28.8,Music
+Long Beach Unified,2002,2305,Chorus/choir,19,1569,44,8.55,31.4,35.7,Music
 Long Beach Unified,2002,2306,Vocal jazz/jazz choir,2,74,3,0.48,24.7,24.7,Music
 Long Beach Unified,2002,2307,Music appreciation/history/literature,4,300,11,2.11,27.3,27.3,Music
 Long Beach Unified,2002,2310,Instrumental music lessons,7,623,19,4.26,32.8,32.8,Music
@@ -1145,7 +1145,7 @@ Long Beach Unified,2002,2313,Swing/show choir,4,337,7,1.31,40,48.1,Music
 Long Beach Unified,2002,2314,Chamber/madrigal/vocal ensemble,4,128,4,0.73,32,32,Music
 Long Beach Unified,2002,2315,Classroom/general/exploratory music,7,378,12,2.26,31.5,31.5,Music
 Long Beach Unified,2002,2398,Other music course,2,88,2,0.34,44,44,Music
-Long Beach Unified,2002,2501,"Dance, all phases",6,"1,290",29,5.64,36.4,44.5,Dance/Physical Education
+Long Beach Unified,2002,2501,"Dance, all phases",6,1290,29,5.64,36.4,44.5,Dance/Physical Education
 Long Beach Unified,2002,2870,Advanced placement History of art,3,172,6,1.1,28.7,28.7,Art AP
 Long Beach Unified,2002,2871,Advanced placement Studio art gen. portfolio,2,30,2,0.36,15,15,Art AP
 Long Beach Unified,2002,2370,Advanced placement Music theory,1,20,1,0.2,20,20,Music AP
@@ -1159,23 +1159,23 @@ Long Beach Unified,2002,2880,Art (Support Teaching Assignment),4,299,7,4.6,24,42
 Long Beach Unified,2003,2800,Ceramics,4,476,15,2.51,31.7,31.7,Art
 Long Beach Unified,2003,2801,Design,1,71,3,0.6,23.7,23.7,Art
 Long Beach Unified,2003,2805,Photography,3,294,10,1.8,29.4,29.4,Art
-Long Beach Unified,2003,2810,Basic art,26,"2,923",96,20.25,25.9,30.4,Art
+Long Beach Unified,2003,2810,Basic art,26,2923,96,20.25,25.9,30.4,Art
 Long Beach Unified,2003,2820,Computer art/graphics,2,232,8,1.35,29,29,Art
 Long Beach Unified,2003,2821,Yearbook,11,280,14,2.57,20,20,Art
-Long Beach Unified,2003,2898,Other art course,10,"5,372",166,28.57,32.2,32.4,Art
+Long Beach Unified,2003,2898,Other art course,10,5372,166,28.57,32.2,32.4,Art
 Long Beach Unified,2003,2353,"Dance, movement and rhythmic activities",1,74,2,0.32,37,37,Dance
 Long Beach Unified,2003,2355,Dance fundamentals,2,271,5,0.88,8,54.2,Dance
-Long Beach Unified,2003,2900,Theater/play production,10,"1,396",45,7.84,31,31,Drama/Theater
+Long Beach Unified,2003,2900,Theater/play production,10,1396,45,7.84,31,31,Drama/Theater
 Long Beach Unified,2003,2901,Drama/creative dramatics,7,601,18,3.89,24.1,33.4,Drama/Theater
 Long Beach Unified,2003,2905,Technical theater/stagecraft,2,46,3,0.44,15.3,15.3,Drama/Theater
 Long Beach Unified,2003,2908,Media arts (individual or inclusive),2,86,3,0.56,28.7,28.7,Drama/Theater
 Long Beach Unified,2003,2998,Other drama/theater course,2,40,2,0.4,20,20,Drama/Theater
 Long Beach Unified,2003,2748,Any humanities course,1,56,2,0.33,28,28,Humanities
-Long Beach Unified,2003,2300,Band,17,"1,439",41,7.15,27.6,35.1,Music
+Long Beach Unified,2003,2300,Band,17,1439,41,7.15,27.6,35.1,Music
 Long Beach Unified,2003,2301,Jazz band,3,146,6,1.1,24.3,24.3,Music
 Long Beach Unified,2003,2302,Stage band,2,90,3,0.55,30,30,Music
-Long Beach Unified,2003,2303,Orchestra,18,"1,062",37,6.62,26.5,28.7,Music
-Long Beach Unified,2003,2305,Chorus/choir,15,"1,474",43,7.51,30.5,34.3,Music
+Long Beach Unified,2003,2303,Orchestra,18,1062,37,6.62,26.5,28.7,Music
+Long Beach Unified,2003,2305,Chorus/choir,15,1474,43,7.51,30.5,34.3,Music
 Long Beach Unified,2003,2306,Vocal jazz/jazz choir,2,65,3,0.56,21.7,21.7,Music
 Long Beach Unified,2003,2307,Music appreciation/history/literature,5,275,8,1.52,24.8,34.4,Music
 Long Beach Unified,2003,2310,Instrumental music lessons,8,718,27,4.84,26.6,26.6,Music
@@ -1183,7 +1183,7 @@ Long Beach Unified,2003,2313,Swing/show choir,4,303,7,1.29,38,43.3,Music
 Long Beach Unified,2003,2314,Chamber/madrigal/vocal ensemble,4,121,4,0.68,30.2,30.2,Music
 Long Beach Unified,2003,2315,Classroom/general/exploratory music,9,560,18,3.59,31.1,31.1,Music
 Long Beach Unified,2003,2398,Other music course,3,191,3,0.55,49,63.7,Music
-Long Beach Unified,2003,2501,"Dance, all phases",9,"1,471",38,6.71,36.5,38.7,Dance/Physical Education
+Long Beach Unified,2003,2501,"Dance, all phases",9,1471,38,6.71,36.5,38.7,Dance/Physical Education
 Long Beach Unified,2003,2870,Advanced placement History of art,3,124,5,1.12,24.8,24.8,Art AP
 Long Beach Unified,2003,2871,Advanced placement Studio art gen. portfolio,1,31,1,0.17,31,31,Art AP
 Long Beach Unified,2003,2370,Advanced placement Music theory,1,23,1,0.2,23,23,Music AP
@@ -1196,24 +1196,24 @@ Long Beach Unified,2003,2380,Music (Support Teaching Assignment),3,701,36,35.5,2
 Long Beach Unified,2003,2880,Art (Support Teaching Assignment),3,75,4,3.6,25,18.8,Supporting Teaching
 Long Beach Unified,2004,2800,Ceramics,4,535,16,2.83,33.4,33.4,Art
 Long Beach Unified,2004,2805,Photography,4,294,9,1.57,32.7,32.7,Art
-Long Beach Unified,2004,2810,Basic art,22,"3,137",103,19.46,27.8,30.5,Art
+Long Beach Unified,2004,2810,Basic art,22,3137,103,19.46,27.8,30.5,Art
 Long Beach Unified,2004,2820,Computer art/graphics,4,380,12,2.5,31.7,31.7,Art
 Long Beach Unified,2004,2821,Yearbook,11,241,11,1.97,21.9,21.9,Art
-Long Beach Unified,2004,2898,Other art course,10,"5,244",160,29.37,32.8,32.8,Art
+Long Beach Unified,2004,2898,Other art course,10,5244,160,29.37,32.8,32.8,Art
 Long Beach Unified,2004,2354,Folk/ethnic dance,1,33,1,0.16,33,33,Dance
 Long Beach Unified,2004,2355,Dance fundamentals,1,329,5,0.83,29,65.8,Dance
-Long Beach Unified,2004,2900,Theater/play production,8,"1,103",36,6.53,30.6,30.6,Drama/Theater
+Long Beach Unified,2004,2900,Theater/play production,8,1103,36,6.53,30.6,30.6,Drama/Theater
 Long Beach Unified,2004,2901,Drama/creative dramatics,7,478,11,2.73,24.6,43.5,Drama/Theater
 Long Beach Unified,2004,2905,Technical theater/stagecraft,1,20,1,0.14,20,20,Drama/Theater
 Long Beach Unified,2004,2908,Media arts (individual or inclusive),1,21,1,0.24,21,21,Drama/Theater
 Long Beach Unified,2004,2910,History/appreciation of drama/theater arts,1,31,1,0.17,31,31,Drama/Theater
 Long Beach Unified,2004,2998,Other drama/theater course,1,52,1,0.2,0,52,Drama/Theater
 Long Beach Unified,2004,2748,Any humanities course,1,20,2,0.28,10,10,Humanities
-Long Beach Unified,2004,2300,Band,21,"1,645",44,8.37,30.3,37.4,Music
+Long Beach Unified,2004,2300,Band,21,1645,44,8.37,30.3,37.4,Music
 Long Beach Unified,2004,2301,Jazz band,6,205,10,1.77,20.5,20.5,Music
 Long Beach Unified,2004,2302,Stage band,1,41,3,0.5,13.7,13.7,Music
-Long Beach Unified,2004,2303,Orchestra,19,"1,227",39,7.27,30.2,31.5,Music
-Long Beach Unified,2004,2305,Chorus/choir,14,"1,436",40,7.71,31.9,35.9,Music
+Long Beach Unified,2004,2303,Orchestra,19,1227,39,7.27,30.2,31.5,Music
+Long Beach Unified,2004,2305,Chorus/choir,14,1436,40,7.71,31.9,35.9,Music
 Long Beach Unified,2004,2306,Vocal jazz/jazz choir,1,35,2,0.4,17.5,17.5,Music
 Long Beach Unified,2004,2307,Music appreciation/history/literature,5,196,8,1.62,24.5,24.5,Music
 Long Beach Unified,2004,2310,Instrumental music lessons,5,694,23,4.17,30.2,30.2,Music
@@ -1222,7 +1222,7 @@ Long Beach Unified,2004,2313,Swing/show choir,4,474,11,1.96,34,43.1,Music
 Long Beach Unified,2004,2314,Chamber/madrigal/vocal ensemble,3,96,3,0.57,32,32,Music
 Long Beach Unified,2004,2315,Classroom/general/exploratory music,7,281,8,1.58,35.1,35.1,Music
 Long Beach Unified,2004,2398,Other music course,4,171,4,0.66,28.5,42.8,Music
-Long Beach Unified,2004,2501,"Dance, all phases",8,"1,542",38,6.75,37.5,40.6,Dance/Physical Education
+Long Beach Unified,2004,2501,"Dance, all phases",8,1542,38,6.75,37.5,40.6,Dance/Physical Education
 Long Beach Unified,2004,2870,Advanced placement History of art,3,136,5,0.87,27.2,27.2,Art AP
 Long Beach Unified,2004,2871,Advanced placement Studio art gen. portfolio,1,32,1,0.2,32,32,Art AP
 Long Beach Unified,2004,2370,Advanced placement Music theory,1,30,1,0.2,30,30,Music AP
@@ -1234,23 +1234,23 @@ Long Beach Unified,2004,2380,Music (Support Teaching Assignment),5,55,37,35.2,18
 Long Beach Unified,2004,2880,Art (Support Teaching Assignment),4,30,5,4.5,30,6,Supporting Teaching
 Long Beach Unified,2005,2800,Ceramics,4,560,17,3.1,32.9,32.9,Art
 Long Beach Unified,2005,2805,Photography,4,312,10,1.74,31.2,31.2,Art
-Long Beach Unified,2005,2810,Basic art,19,"2,587",85,16.42,29.4,30.4,Art
+Long Beach Unified,2005,2810,Basic art,19,2587,85,16.42,29.4,30.4,Art
 Long Beach Unified,2005,2820,Computer art/graphics,4,324,10,2.05,32.4,32.4,Art
 Long Beach Unified,2005,2821,Yearbook,11,264,11,2.27,24,24,Art
-Long Beach Unified,2005,2898,Other art course,10,"5,312",161,29.26,33,33,Art
+Long Beach Unified,2005,2898,Other art course,10,5312,161,29.26,33,33,Art
 Long Beach Unified,2005,2353,"Dance, movement and rhythmic activities",1,41,1,0.17,41,41,Dance
 Long Beach Unified,2005,2354,Folk/ethnic dance,1,29,1,0.16,29,29,Dance
 Long Beach Unified,2005,2355,Dance fundamentals,1,144,4,0.68,36,36,Dance
-Long Beach Unified,2005,2900,Theater/play production,9,"1,373",44,7.85,31.2,31.2,Drama/Theater
+Long Beach Unified,2005,2900,Theater/play production,9,1373,44,7.85,31.2,31.2,Drama/Theater
 Long Beach Unified,2005,2901,Drama/creative dramatics,9,599,22,4.11,27.2,27.2,Drama/Theater
 Long Beach Unified,2005,2905,Technical theater/stagecraft,1,44,1,0.14,44,44,Drama/Theater
 Long Beach Unified,2005,2908,Media arts (individual or inclusive),1,36,2,0.4,18,18,Drama/Theater
 Long Beach Unified,2005,2998,Other drama/theater course,2,83,2,0.37,31,41.5,Drama/Theater
-Long Beach Unified,2005,2300,Band,25,"1,801",50,9.67,29.6,36,Music
+Long Beach Unified,2005,2300,Band,25,1801,50,9.67,29.6,36,Music
 Long Beach Unified,2005,2301,Jazz band,5,216,9,1.61,24,24,Music
 Long Beach Unified,2005,2302,Stage band,1,53,2,0.4,26.5,26.5,Music
-Long Beach Unified,2005,2303,Orchestra,25,"1,417",49,9.79,27.6,28.9,Music
-Long Beach Unified,2005,2305,Chorus/choir,19,"1,649",49,9.17,31.5,33.7,Music
+Long Beach Unified,2005,2303,Orchestra,25,1417,49,9.79,27.6,28.9,Music
+Long Beach Unified,2005,2305,Chorus/choir,19,1649,49,9.17,31.5,33.7,Music
 Long Beach Unified,2005,2306,Vocal jazz/jazz choir,2,57,3,0.56,19,19,Music
 Long Beach Unified,2005,2307,Music appreciation/history/literature,5,153,7,1.38,21.9,21.9,Music
 Long Beach Unified,2005,2310,Instrumental music lessons,7,851,33,5.71,25.8,25.8,Music
@@ -1258,7 +1258,7 @@ Long Beach Unified,2005,2313,Swing/show choir,5,281,6,1.07,39.7,46.8,Music
 Long Beach Unified,2005,2314,Chamber/madrigal/vocal ensemble,4,110,4,0.73,27.5,27.5,Music
 Long Beach Unified,2005,2315,Classroom/general/exploratory music,4,252,7,1.34,36,36,Music
 Long Beach Unified,2005,2398,Other music course,4,223,4,0.69,40.7,55.8,Music
-Long Beach Unified,2005,2501,"Dance, all phases",8,"1,682",41,7.67,38.5,41,Dance/Physical Education
+Long Beach Unified,2005,2501,"Dance, all phases",8,1682,41,7.67,38.5,41,Dance/Physical Education
 Long Beach Unified,2005,2870,Advanced placement History of art,4,205,8,1.65,25.6,25.6,Art AP
 Long Beach Unified,2005,2871,Advanced placement Studio art gen. portfolio,2,45,3,0.58,15,15,Art AP
 Long Beach Unified,2005,2370,Advanced placement Music theory,1,25,1,0.2,25,25,Music AP
@@ -1270,24 +1270,24 @@ Long Beach Unified,2005,2880,Art (Support Teaching Assignment),4,66,5,2.77,33,13
 Long Beach Unified,2006,2800,Ceramics,5,501,16,2.89,31.3,31.3,Art
 Long Beach Unified,2006,2805,Photography,4,423,14,2.33,30.2,30.2,Art
 Long Beach Unified,2006,2809,Cinematography,1,19,1,0.16,19,19,Art
-Long Beach Unified,2006,2810,Basic art,20,"2,361",76,14.29,30.6,31.1,Art
+Long Beach Unified,2006,2810,Basic art,20,2361,76,14.29,30.6,31.1,Art
 Long Beach Unified,2006,2813,Fashion design,1,38,2,0.34,19,19,Art
 Long Beach Unified,2006,2820,Computer art/graphics,4,340,10,1.96,34,34,Art
 Long Beach Unified,2006,2821,Yearbook,13,328,14,2.57,23.4,23.4,Art
-Long Beach Unified,2006,2898,Other art course,9,"5,250",161,29.8,32.6,32.6,Art
+Long Beach Unified,2006,2898,Other art course,9,5250,161,29.8,32.6,32.6,Art
 Long Beach Unified,2006,2352,Dance choreography and production,1,28,1,0.16,28,28,Dance
 Long Beach Unified,2006,2355,Dance fundamentals,3,211,8,1.6,26.4,26.4,Dance
 Long Beach Unified,2006,2358,Other dance course,1,12,1,0.2,12,12,Dance
-Long Beach Unified,2006,2900,Theater/play production,9,"1,475",48,8.97,28.9,30.7,Drama/Theater
+Long Beach Unified,2006,2900,Theater/play production,9,1475,48,8.97,28.9,30.7,Drama/Theater
 Long Beach Unified,2006,2901,Drama/creative dramatics,6,430,14,2.63,30.7,30.7,Drama/Theater
 Long Beach Unified,2006,2905,Technical theater/stagecraft,2,65,4,0.73,16.2,16.2,Drama/Theater
 Long Beach Unified,2006,2908,Media arts (individual or inclusive),1,36,2,0.4,18,18,Drama/Theater
 Long Beach Unified,2006,2998,Other drama/theater course,1,62,1,0.2,0,62,Drama/Theater
-Long Beach Unified,2006,2300,Band,21,"1,577",44,8.39,29.6,35.8,Music
+Long Beach Unified,2006,2300,Band,21,1577,44,8.39,29.6,35.8,Music
 Long Beach Unified,2006,2301,Jazz band,7,286,11,1.98,26,26,Music
 Long Beach Unified,2006,2302,Stage band,1,40,2,0.4,20,20,Music
-Long Beach Unified,2006,2303,Orchestra,22,"1,458",47,9.17,28.5,31,Music
-Long Beach Unified,2006,2305,Chorus/choir,16,"1,514",44,8.71,29.9,34.4,Music
+Long Beach Unified,2006,2303,Orchestra,22,1458,47,9.17,28.5,31,Music
+Long Beach Unified,2006,2305,Chorus/choir,16,1514,44,8.71,29.9,34.4,Music
 Long Beach Unified,2006,2306,Vocal jazz/jazz choir,2,56,3,0.49,18.7,18.7,Music
 Long Beach Unified,2006,2307,Music appreciation/history/literature,3,88,3,0.6,29.3,29.3,Music
 Long Beach Unified,2006,2310,Instrumental music lessons,7,909,32,5.91,28.4,28.4,Music
@@ -1295,7 +1295,7 @@ Long Beach Unified,2006,2313,Swing/show choir,4,312,8,1.65,39,39,Music
 Long Beach Unified,2006,2314,Chamber/madrigal/vocal ensemble,4,118,4,0.7,29.5,29.5,Music
 Long Beach Unified,2006,2315,Classroom/general/exploratory music,2,83,2,0.37,41.5,41.5,Music
 Long Beach Unified,2006,2398,Other music course,3,114,3,0.54,28,38,Music
-Long Beach Unified,2006,2501,"Dance, all phases",8,"1,637",41,7.38,35.3,39.9,Dance/Physical Education
+Long Beach Unified,2006,2501,"Dance, all phases",8,1637,41,7.38,35.3,39.9,Dance/Physical Education
 Long Beach Unified,2006,2870,Advanced placement History of art,4,170,6,1.08,28.3,28.3,Art AP
 Long Beach Unified,2006,2871,Advanced placement Studio art gen. portfolio,1,20,1,0.16,20,20,Art AP
 Long Beach Unified,2006,2370,Advanced placement Music theory,1,14,1,0.2,14,14,Music AP
@@ -1314,20 +1314,20 @@ Long Beach Unified,2007,2805,Photography,4,425,13,2.36,32.7,32.7,Art
 Long Beach Unified,2007,2813,Fashion design,1,29,1,0.25,29,29,Art
 Long Beach Unified,2007,2820,Computer art/graphics,4,303,9,1.69,33.7,33.7,Art
 Long Beach Unified,2007,2821,Yearbook,15,358,16,3.19,22.4,22.4,Art
-Long Beach Unified,2007,2823,Fundamentals of Art (sec),23,"2,289",81,15.16,28.3,28.3,Art
-Long Beach Unified,2007,2898,Other art course,8,"5,493",164,30.51,33.5,33.5,Art
+Long Beach Unified,2007,2823,Fundamentals of Art (sec),23,2289,81,15.16,28.3,28.3,Art
+Long Beach Unified,2007,2898,Other art course,8,5493,164,30.51,33.5,33.5,Art
 Long Beach Unified,2007,2354,Folk/ethnic dance,2,90,3,0.54,30,30,Dance
-Long Beach Unified,2007,2355,Dance fundamentals,10,"1,696",45,8.72,33.6,37.7,Dance
+Long Beach Unified,2007,2355,Dance fundamentals,10,1696,45,8.72,33.6,37.7,Dance
 Long Beach Unified,2007,2357,"Ballet, modern, jazz dance",1,20,1,0.16,20,20,Dance
 Long Beach Unified,2007,2358,Other dance course,1,12,1,0.2,12,12,Dance
-Long Beach Unified,2007,2900,Theater/play production,8,"1,332",44,7.84,30.3,30.3,Drama/Theater
+Long Beach Unified,2007,2900,Theater/play production,8,1332,44,7.84,30.3,30.3,Drama/Theater
 Long Beach Unified,2007,2901,Drama/creative dramatics,10,578,22,4.12,26.3,26.3,Drama/Theater
 Long Beach Unified,2007,2905,Technical theater/stagecraft,1,12,2,0.4,6,6,Drama/Theater
 Long Beach Unified,2007,2908,Media arts (individual or inclusive),7,238,10,1.93,23.8,23.8,Drama/Theater
 Long Beach Unified,2007,2998,Other drama/theater course,3,220,7,1.28,26.5,31.4,Drama/Theater
-Long Beach Unified,2007,2300,Band,27,"1,989",56,11.04,29,35.5,Music
-Long Beach Unified,2007,2303,Orchestra,27,"1,962",64,12.41,26.6,30.7,Music
-Long Beach Unified,2007,2305,Chorus/choir,17,"1,381",40,7.84,26.7,34.5,Music
+Long Beach Unified,2007,2300,Band,27,1989,56,11.04,29,35.5,Music
+Long Beach Unified,2007,2303,Orchestra,27,1962,64,12.41,26.6,30.7,Music
+Long Beach Unified,2007,2305,Chorus/choir,17,1381,40,7.84,26.7,34.5,Music
 Long Beach Unified,2007,2306,Vocal jazz/jazz choir,2,69,3,0.57,23,23,Music
 Long Beach Unified,2007,2307,Music appreciation/history/literature,3,104,3,0.6,34.7,34.7,Music
 Long Beach Unified,2007,2310,Instrumental music lessons,7,840,29,5.1,29,29,Music
@@ -1348,7 +1348,7 @@ Long Beach Unified,2007,4331,Clothing and textiles,1,75,2,0.4,37.5,37.5,Fashion/
 Long Beach Unified,2007,5751,Graphic communications,4,153,5,0.91,30.6,30.6,"Visual Comm, Graphics"
 Long Beach Unified,2007,5757,Desktop publishing,1,31,1,0.2,31,31,"Visual Comm, Graphics"
 Long Beach Unified,2007,5770,Broadcasting technology,1,10,1,0.16,10,10,"Visual Comm, Graphics"
-Long Beach Unified,2007,5798,"Other visual communications, graphics course",6,"1,075",30,5.72,35.8,35.8,"Visual Comm, Graphics"
+Long Beach Unified,2007,5798,"Other visual communications, graphics course",6,1075,30,5.72,35.8,35.8,"Visual Comm, Graphics"
 Long Beach Unified,2007,2380,Music (Support Teaching Assignment),2,0,31,27.5,0,0,Supporting Teaching
 Long Beach Unified,2007,2880,Art (Support Teaching Assignment),2,0,2,1.5,0,0,Supporting Teaching
 Long Beach Unified,2008,2380,STAE Music,2,0,27,24.56,0,0,Supporting Teaching
@@ -1360,21 +1360,21 @@ Long Beach Unified,2008,2805,Photography,3,370,11,2,33.6,33.6,Art
 Long Beach Unified,2008,2809,Cinematography,1,35,1,0.2,35,35,Art
 Long Beach Unified,2008,2813,Fashion design,1,45,2,0.4,22.5,22.5,Art
 Long Beach Unified,2008,2820,Digital Art/computer art/graphics,4,343,10,2,34.3,34.3,Art
-Long Beach Unified,2008,2823,Fundamentals of Art (sec),20,"2,413",80,15.05,30.2,30.2,Art
-Long Beach Unified,2008,2898,Other art course,12,"5,564",170,31.81,32.7,32.7,Art
+Long Beach Unified,2008,2823,Fundamentals of Art (sec),20,2413,80,15.05,30.2,30.2,Art
+Long Beach Unified,2008,2898,Other art course,12,5564,170,31.81,32.7,32.7,Art
 Long Beach Unified,2008,2354,Folk/ethnic dance,1,89,2,0.34,44.5,44.5,Dance
-Long Beach Unified,2008,2355,"Dance, movement and rhythmic activities (sec)",10,"1,856",49,9.18,34.5,37.9,Dance
+Long Beach Unified,2008,2355,"Dance, movement and rhythmic activities (sec)",10,1856,49,9.18,34.5,37.9,Dance
 Long Beach Unified,2008,2357,"Ballet, modern, jazz dance",1,17,1,0.16,17,17,Dance
 Long Beach Unified,2008,2358,Other dance course,1,12,1,0.2,12,12,Dance
-Long Beach Unified,2008,2900,Theater/play production (sec schl standards),8,"1,236",41,7.15,29.5,30.1,Drama/Theater
+Long Beach Unified,2008,2900,Theater/play production (sec schl standards),8,1236,41,7.15,29.5,30.1,Drama/Theater
 Long Beach Unified,2008,2901,Theater/creative dramatics (elem schl standards,6,347,14,2.63,24.8,24.8,Drama/Theater
 Long Beach Unified,2008,2904,Advanced Theater,1,86,3,0.49,28.7,28.7,Drama/Theater
 Long Beach Unified,2008,2905,Technical theater/stagecraft,4,101,6,1.1,16.8,16.8,Drama/Theater
 Long Beach Unified,2008,2908,Media/film/video/televsion production,5,255,10,1.83,25.5,25.5,Drama/Theater
 Long Beach Unified,2008,2998,Other drama/theater course,1,34,2,0.45,17,17,Drama/Theater
-Long Beach Unified,2008,2300,Band,24,"2,117",66,13.51,26.2,32.1,Music
-Long Beach Unified,2008,2303,Orchestra/symphony,25,"1,900",63,11.83,26.6,30.2,Music
-Long Beach Unified,2008,2305,Chorus/choir,20,"2,020",60,11.73,30,33.7,Music
+Long Beach Unified,2008,2300,Band,24,2117,66,13.51,26.2,32.1,Music
+Long Beach Unified,2008,2303,Orchestra/symphony,25,1900,63,11.83,26.6,30.2,Music
+Long Beach Unified,2008,2305,Chorus/choir,20,2020,60,11.73,30,33.7,Music
 Long Beach Unified,2008,2307,Music appreciation/history/literature,4,107,4,0.8,26.8,26.8,Music
 Long Beach Unified,2008,2324,Instrumental music lessons (elementary school s,2,103,4,0.8,25.8,25.8,Music
 Long Beach Unified,2008,2325,Instrumental music lessons (secondary school st,7,912,33,5.85,27.6,27.6,Music
@@ -1399,22 +1399,22 @@ Long Beach Unified,2009,2805,Photography,3,404,12,2.2,33.7,33.7,Art
 Long Beach Unified,2009,2809,Cinematography,1,32,1,0.2,32,32,Art
 Long Beach Unified,2009,2813,Fashion design,1,46,2,0.4,23,23,Art
 Long Beach Unified,2009,2820,Digital Art/computer art/graphics,4,440,13,2.37,33.8,33.8,Art
-Long Beach Unified,2009,2823,Fundamentals of Art (sec),18,"2,222",70,12.9,31.7,31.7,Art
-Long Beach Unified,2009,2898,Other art course,10,"5,633",168,31.23,33.5,33.5,Art
+Long Beach Unified,2009,2823,Fundamentals of Art (sec),18,2222,70,12.9,31.7,31.7,Art
+Long Beach Unified,2009,2898,Other art course,10,5633,168,31.23,33.5,33.5,Art
 Long Beach Unified,2009,2355,"Dance, movement and rhythmic activities (sec)",8,645,22,3.96,29.3,29.3,Dance
-Long Beach Unified,2009,2900,Theater/play production (sec schl standards),8,"1,285",43,7.75,29.9,29.9,Drama/Theater
+Long Beach Unified,2009,2900,Theater/play production (sec schl standards),8,1285,43,7.75,29.9,29.9,Drama/Theater
 Long Beach Unified,2009,2901,Theater/creative dramatics (elem schl standards,9,393,15,2.76,26.2,26.2,Drama/Theater
 Long Beach Unified,2009,2905,Technical theater/stagecraft,2,56,3,0.54,18.7,18.7,Drama/Theater
 Long Beach Unified,2009,2908,Media/film/video/televsion production,6,300,12,2.36,25,25,Drama/Theater
 Long Beach Unified,2009,2910,History/appreciation of drama/theater arts,1,10,1,0.2,10,10,Drama/Theater
 Long Beach Unified,2009,2998,Other drama/theater course,1,13,1,0.2,13,13,Drama/Theater
-Long Beach Unified,2009,2300,Band,23,"2,214",67,12.44,28.7,33,Music
-Long Beach Unified,2009,2303,Orchestra/symphony,25,"2,075",65,12.06,28.1,31.9,Music
-Long Beach Unified,2009,2305,Chorus/choir,18,"1,932",58,10.71,29.8,33.3,Music
+Long Beach Unified,2009,2300,Band,23,2214,67,12.44,28.7,33,Music
+Long Beach Unified,2009,2303,Orchestra/symphony,25,2075,65,12.06,28.1,31.9,Music
+Long Beach Unified,2009,2305,Chorus/choir,18,1932,58,10.71,29.8,33.3,Music
 Long Beach Unified,2009,2307,Music appreciation/history/literature,5,189,7,1.3,27,27,Music
 Long Beach Unified,2009,2309,Composition/songwriting,1,33,1,0.17,33,33,Music
 Long Beach Unified,2009,2324,Instrumental music lessons (elementary school s,2,77,3,0.6,25.7,25.7,Music
-Long Beach Unified,2009,2325,Instrumental music lessons (secondary school st,8,"1,019",37,6.54,27.5,27.5,Music
+Long Beach Unified,2009,2325,Instrumental music lessons (secondary school st,8,1019,37,6.54,27.5,27.5,Music
 Long Beach Unified,2009,2327,General/exploratory/introduction to music (seco,2,131,4,0.76,32.8,32.8,Music
 Long Beach Unified,2009,2328,Instrumental ensemble,9,361,15,2.79,22.1,24.1,Music
 Long Beach Unified,2009,2870,AP Art History,4,155,7,1.18,22.1,22.1,Art AP
@@ -1436,20 +1436,20 @@ Long Beach Unified,2011,2813,Fashion design,1,51,2,0.4,25.5,25.5,Art
 Long Beach Unified,2011,2816,Art appreciation (secondary school standards),1,40,2,0.28,20,20,Art
 Long Beach Unified,2011,2817,Printmaking,6,794,25,4.21,31.8,31.8,Art
 Long Beach Unified,2011,2820,Digital art/computer art/artistic graphics,3,334,10,1.61,33.4,33.4,Art
-Long Beach Unified,2011,2823,Fundamentals of art (secondary school standards),19,"2,475",75,12.67,32.6,33,Art
-Long Beach Unified,2011,2898,Other art course,9,"5,190",156,28.68,33.3,33.3,Art
+Long Beach Unified,2011,2823,Fundamentals of art (secondary school standards),19,2475,75,12.67,32.6,33,Art
+Long Beach Unified,2011,2898,Other art course,9,5190,156,28.68,33.3,33.3,Art
 Long Beach Unified,2011,2352,Dance choreography and production,1,24,1,0.25,24,24,Dance
 Long Beach Unified,2011,2354,Folk/traditional dance,1,23,1,0.17,23,23,Dance
 Long Beach Unified,2011,2355,"Dance, movement, & rhythmic fund (sec standards)",12,885,29,4.99,28.4,30.5,Dance
-Long Beach Unified,2011,2900,Theatre /play production (sec sch standards),8,"1,188",39,6.49,30.5,30.5,Drama/Theater
+Long Beach Unified,2011,2900,Theatre /play production (sec sch standards),8,1188,39,6.49,30.5,30.5,Drama/Theater
 Long Beach Unified,2011,2901,Theatre/creative dramatics (elem sch standards),8,768,21,3.33,35,36.6,Drama/Theater
 Long Beach Unified,2011,2908,Media/film/video/television production,5,231,9,1.53,25.7,25.7,Drama/Theater
 Long Beach Unified,2011,2748,Any humanities course,1,157,6,0.84,26.2,26.2,Humanities
-Long Beach Unified,2011,2300,Band,32,"3,033",82,16.6,30.5,37,Music
-Long Beach Unified,2011,2303,Orchestra/symphony,28,"1,905",56,10.73,29.6,34,Music
-Long Beach Unified,2011,2305,Chorus/choir/vocal ensemble,18,"1,756",50,10.14,28.9,35.1,Music
+Long Beach Unified,2011,2300,Band,32,3033,82,16.6,30.5,37,Music
+Long Beach Unified,2011,2303,Orchestra/symphony,28,1905,56,10.73,29.6,34,Music
+Long Beach Unified,2011,2305,Chorus/choir/vocal ensemble,18,1756,50,10.14,28.9,35.1,Music
 Long Beach Unified,2011,2307,Music appreciation/history/literature,9,236,11,2.09,21.5,21.5,Music
-Long Beach Unified,2011,2325,Instrumental music lessons (sec school std),9,"1,057",39,6.69,27.1,27.1,Music
+Long Beach Unified,2011,2325,Instrumental music lessons (sec school std),9,1057,39,6.69,27.1,27.1,Music
 Long Beach Unified,2011,2398,Other music course,1,18,1,0.2,18,18,Music
 Long Beach Unified,2011,2870,AP Art History,3,129,5,0.79,25.8,25.8,Art AP
 Long Beach Unified,2011,2874,AP Studio art: drawing,1,14,1,0.14,14,14,Art AP
@@ -1465,290 +1465,290 @@ Long Beach Unified,2011,5757,Desktop publishing,1,31,1,0.2,31,31,"Arts, Media an
 Long Beach Unified,2011,5769,"Other arts, media, and entertainment",1,37,1,0.2,37,37,"Arts, Media and Entertainment"
 Long Beach Unified,2011,4331,Fashion textiles and apparel,1,66,2,0.4,33,33,Fashion/Home Eco
 Long Beach Unified,2011,4410,Fashion merchandising,1,6,2,1.2,3,3,Fashion/Home Eco
-Los Angeles USD,1998,2800,Ceramics,42,"4,158",126,24.27,33,33,Art
-Los Angeles USD,1998,2801,Design,34,"2,641",81,15.52,32.6,32.6,Art
-Los Angeles USD,1998,2802,Crafts,53,"2,562",89,16.95,28.8,28.8,Art
-Los Angeles USD,1998,2803,Art history,20,"1,472",53,10.14,27.8,27.8,Art
-Los Angeles USD,1998,2805,Photography,32,"3,324",101,19.33,32.9,32.9,Art
-Los Angeles USD,1998,2806,Drawing,53,"6,000",174,32.7,34.4,34.5,Art
-Los Angeles USD,1998,2807,Painting,38,"2,371",75,13.78,30.4,31.6,Art
+Los Angeles USD,1998,2800,Ceramics,42,4158,126,24.27,33,33,Art
+Los Angeles USD,1998,2801,Design,34,2641,81,15.52,32.6,32.6,Art
+Los Angeles USD,1998,2802,Crafts,53,2562,89,16.95,28.8,28.8,Art
+Los Angeles USD,1998,2803,Art history,20,1472,53,10.14,27.8,27.8,Art
+Los Angeles USD,1998,2805,Photography,32,3324,101,19.33,32.9,32.9,Art
+Los Angeles USD,1998,2806,Drawing,53,6000,174,32.7,34.4,34.5,Art
+Los Angeles USD,1998,2807,Painting,38,2371,75,13.78,30.4,31.6,Art
 Los Angeles USD,1998,2809,Cinematography,11,473,17,3.03,27.8,27.8,Art
-Los Angeles USD,1998,2810,Basic art,133,"26,062",838,160.15,30.8,31.1,Art
+Los Angeles USD,1998,2810,Basic art,133,26062,838,160.15,30.8,31.1,Art
 Los Angeles USD,1998,2811,Jewelry,6,194,7,1.37,27.7,27.7,Art
 Los Angeles USD,1998,2812,Sculpture,6,340,10,1.74,34,34,Art
 Los Angeles USD,1998,2817,Printmaking,3,104,3,0.6,34.7,34.7,Art
-Los Angeles USD,1998,2898,Other art course,65,"5,038",173,32.45,28.6,29.1,Art
+Los Angeles USD,1998,2898,Other art course,65,5038,173,32.45,28.6,29.1,Art
 Los Angeles USD,1998,2900,Theater/play production,33,904,39,7.24,23.2,23.2,Drama/Theater
-Los Angeles USD,1998,2901,Drama/creative dramatics,94,"7,875",246,46.8,31.4,32,Drama/Theater
+Los Angeles USD,1998,2901,Drama/creative dramatics,94,7875,246,46.8,31.4,32,Drama/Theater
 Los Angeles USD,1998,2904,Theater workshop,9,367,12,2.3,28.5,30.6,Drama/Theater
-Los Angeles USD,1998,2748,Any humanities course,36,"4,776",89,26.88,30.8,53.7,Humanities
-Los Angeles USD,1998,2300,Band,90,"6,204",157,29.66,32.4,39.5,Music
+Los Angeles USD,1998,2748,Any humanities course,36,4776,89,26.88,30.8,53.7,Humanities
+Los Angeles USD,1998,2300,Band,90,6204,157,29.66,32.4,39.5,Music
 Los Angeles USD,1998,2301,Jazz band,24,498,27,5.11,18.4,18.4,Music
-Los Angeles USD,1998,2303,Orchestra,46,"1,823",56,10.62,30.2,32.6,Music
-Los Angeles USD,1998,2305,Chorus/choir,87,"6,011",163,31.33,33,36.9,Music
+Los Angeles USD,1998,2303,Orchestra,46,1823,56,10.62,30.2,32.6,Music
+Los Angeles USD,1998,2305,Chorus/choir,87,6011,163,31.33,33,36.9,Music
 Los Angeles USD,1998,2307,Music appreciation/history/literature,8,307,11,2.17,27.9,27.9,Music
 Los Angeles USD,1998,2308,Music theory,3,138,4,0.69,22.7,34.5,Music
-Los Angeles USD,1998,2310,Instrumental music lessons,104,"9,642",326,62.72,28.4,29.6,Music
+Los Angeles USD,1998,2310,Instrumental music lessons,104,9642,326,62.72,28.4,29.6,Music
 Los Angeles USD,1998,2314,Chamber/madrigal/vocal ensemble,17,487,22,4.34,20.6,22.1,Music
-Los Angeles USD,1998,2315,Classroom/general/exploratory music,52,"10,404",182,38.88,31.9,57.2,Music
-Los Angeles USD,1998,2398,Other music course,48,"99,006",490,111.05,33.6,202.1,Music
-Los Angeles USD,1998,2501,"Dance, all phases",49,"5,198",143,27.24,32.6,36.3,Dance/Physical Education
+Los Angeles USD,1998,2315,Classroom/general/exploratory music,52,10404,182,38.88,31.9,57.2,Music
+Los Angeles USD,1998,2398,Other music course,48,99006,490,111.05,33.6,202.1,Music
+Los Angeles USD,1998,2501,"Dance, all phases",49,5198,143,27.24,32.6,36.3,Dance/Physical Education
 Los Angeles USD,1998,2870,Advanced placement History of art,15,368,17,3.31,21.6,21.6,Art AP
 Los Angeles USD,1998,2871,Advanced placement Studio art gen. portfolio,16,316,18,3.66,17.6,17.6,Art AP
 Los Angeles USD,1998,2872,Advanced placement Studio art draw. portfolio,3,49,3,0.52,16.3,16.3,Art AP
 Los Angeles USD,1998,2370,Advanced placement Music theory,1,21,1,0.2,21,21,Music AP
-Los Angeles USD,1998,4331,Clothing and textiles,27,"2,652",88,17.01,30.1,30.1,Fashion/Home Eco
+Los Angeles USD,1998,4331,Clothing and textiles,27,2652,88,17.01,30.1,30.1,Fashion/Home Eco
 Los Angeles USD,1998,4332,Articulated apparel construction,10,558,20,3.71,27.9,27.9,Fashion/Home Eco
 Los Angeles USD,1998,4410,Fashion merchandising,4,232,12,2.11,19.3,19.3,Fashion/Home Eco
 Los Angeles USD,1998,5527,Stage technology,38,830,46,8.93,18,18,Drama/Theater Technology
 Los Angeles USD,1998,5751,Graphic communications,13,996,36,7.03,27.7,27.7,"Visual Comm, Graphics"
-Los Angeles USD,1998,5756,"Composition, make-up, and typesetting",27,"3,258",120,22.57,27.1,27.2,"Visual Comm, Graphics"
+Los Angeles USD,1998,5756,"Composition, make-up, and typesetting",27,3258,120,22.57,27.1,27.2,"Visual Comm, Graphics"
 Los Angeles USD,1998,5759,"Photography, lithography, and platemaking",1,172,6,1,28.7,28.7,"Visual Comm, Graphics"
 Los Angeles USD,1998,5760,Photographic laboratory and darkroom,2,64,2,0.35,32,32,"Visual Comm, Graphics"
-Los Angeles USD,1999,2800,Ceramics,38,"4,006",119,22.73,33.7,33.7,Art
-Los Angeles USD,1999,2801,Design,33,"2,695",76,14.44,34.5,35.5,Art
-Los Angeles USD,1999,2802,Crafts,44,"2,952",96,18.6,30.5,30.8,Art
-Los Angeles USD,1999,2803,Art history,18,"1,111",36,7.23,30.9,30.9,Art
-Los Angeles USD,1999,2805,Photography,30,"3,228",99,18.65,32.6,32.6,Art
-Los Angeles USD,1999,2806,Drawing,56,"6,721",196,37.57,34.2,34.3,Art
-Los Angeles USD,1999,2807,Painting,42,"2,564",81,15.21,31.7,31.7,Art
+Los Angeles USD,1999,2800,Ceramics,38,4006,119,22.73,33.7,33.7,Art
+Los Angeles USD,1999,2801,Design,33,2695,76,14.44,34.5,35.5,Art
+Los Angeles USD,1999,2802,Crafts,44,2952,96,18.6,30.5,30.8,Art
+Los Angeles USD,1999,2803,Art history,18,1111,36,7.23,30.9,30.9,Art
+Los Angeles USD,1999,2805,Photography,30,3228,99,18.65,32.6,32.6,Art
+Los Angeles USD,1999,2806,Drawing,56,6721,196,37.57,34.2,34.3,Art
+Los Angeles USD,1999,2807,Painting,42,2564,81,15.21,31.7,31.7,Art
 Los Angeles USD,1999,2809,Cinematography,11,603,19,3.44,31.7,31.7,Art
-Los Angeles USD,1999,2810,Basic art,142,"27,377",887,172.24,30.2,30.9,Art
+Los Angeles USD,1999,2810,Basic art,142,27377,887,172.24,30.2,30.9,Art
 Los Angeles USD,1999,2811,Jewelry,8,400,13,2.57,30.8,30.8,Art
 Los Angeles USD,1999,2812,Sculpture,8,356,10,1.94,35.6,35.6,Art
 Los Angeles USD,1999,2817,Printmaking,3,81,3,0.53,27,27,Art
-Los Angeles USD,1999,2898,Other art course,68,"5,760",202,38.42,28.2,28.5,Art
+Los Angeles USD,1999,2898,Other art course,68,5760,202,38.42,28.2,28.5,Art
 Los Angeles USD,1999,2900,Theater/play production,31,875,41,8.46,21.3,21.3,Drama/Theater
-Los Angeles USD,1999,2901,Drama/creative dramatics,103,"7,903",254,49.74,30.7,31.1,Drama/Theater
+Los Angeles USD,1999,2901,Drama/creative dramatics,103,7903,254,49.74,30.7,31.1,Drama/Theater
 Los Angeles USD,1999,2904,Theater workshop,14,599,18,3.53,27.8,33.3,Drama/Theater
-Los Angeles USD,1999,2748,Any humanities course,50,"9,777",117,41.26,30.1,83.6,Humanities
-Los Angeles USD,1999,2300,Band,90,"6,376",163,31.2,30.8,39.1,Music
+Los Angeles USD,1999,2748,Any humanities course,50,9777,117,41.26,30.1,83.6,Humanities
+Los Angeles USD,1999,2300,Band,90,6376,163,31.2,30.8,39.1,Music
 Los Angeles USD,1999,2301,Jazz band,24,511,30,5.59,17,17,Music
-Los Angeles USD,1999,2303,Orchestra,50,"1,950",65,12.43,28.4,30,Music
-Los Angeles USD,1999,2305,Chorus/choir,86,"6,397",170,32.74,33.9,37.6,Music
+Los Angeles USD,1999,2303,Orchestra,50,1950,65,12.43,28.4,30,Music
+Los Angeles USD,1999,2305,Chorus/choir,86,6397,170,32.74,33.9,37.6,Music
 Los Angeles USD,1999,2307,Music appreciation/history/literature,5,283,10,1.97,28.3,28.3,Music
 Los Angeles USD,1999,2308,Music theory,4,145,4,0.67,16,36.2,Music
-Los Angeles USD,1999,2310,Instrumental music lessons,104,"10,238",342,65.86,28.3,29.9,Music
+Los Angeles USD,1999,2310,Instrumental music lessons,104,10238,342,65.86,28.3,29.9,Music
 Los Angeles USD,1999,2314,Chamber/madrigal/vocal ensemble,18,564,21,4.1,25.3,26.9,Music
-Los Angeles USD,1999,2315,Classroom/general/exploratory music,54,"10,332",175,38.18,30.6,59,Music
-Los Angeles USD,1999,2398,Other music course,56,"92,687",575,131.41,34.6,161.2,Music
-Los Angeles USD,1999,2501,"Dance, all phases",54,"5,180",144,27.08,32.4,36,Dance/Physical Education
+Los Angeles USD,1999,2315,Classroom/general/exploratory music,54,10332,175,38.18,30.6,59,Music
+Los Angeles USD,1999,2398,Other music course,56,92687,575,131.41,34.6,161.2,Music
+Los Angeles USD,1999,2501,"Dance, all phases",54,5180,144,27.08,32.4,36,Dance/Physical Education
 Los Angeles USD,1999,2870,Advanced placement History of art,17,460,21,3.88,21.9,21.9,Art AP
 Los Angeles USD,1999,2871,Advanced placement Studio art gen. portfolio,17,400,20,3.97,20,20,Art AP
 Los Angeles USD,1999,2872,Advanced placement Studio art draw. portfolio,4,83,4,0.8,20.8,20.8,Art AP
 Los Angeles USD,1999,2370,Advanced placement Music theory,5,61,5,0.9,12.2,12.2,Music AP
-Los Angeles USD,1999,4331,Clothing and textiles,26,"2,356",80,15.33,29.5,29.4,Fashion/Home Eco
+Los Angeles USD,1999,4331,Clothing and textiles,26,2356,80,15.33,29.5,29.4,Fashion/Home Eco
 Los Angeles USD,1999,4332,Articulated apparel construction,10,537,20,3.68,26.9,26.8,Fashion/Home Eco
 Los Angeles USD,1999,4410,Fashion merchandising,4,207,9,1.57,23,23,Fashion/Home Eco
-Los Angeles USD,1999,5527,Stage technology,39,"1,068",52,9.86,20.5,20.5,Drama/Theater Technology
+Los Angeles USD,1999,5527,Stage technology,39,1068,52,9.86,20.5,20.5,Drama/Theater Technology
 Los Angeles USD,1999,5751,Graphic communications,11,927,33,6.43,28.1,28.1,"Visual Comm, Graphics"
-Los Angeles USD,1999,5756,"Composition, make-up, and typesetting",25,"3,278",115,21.63,28.5,28.5,"Visual Comm, Graphics"
+Los Angeles USD,1999,5756,"Composition, make-up, and typesetting",25,3278,115,21.63,28.5,28.5,"Visual Comm, Graphics"
 Los Angeles USD,1999,5760,Photographic laboratory and darkroom,2,72,2,0.35,36,36,"Visual Comm, Graphics"
-Los Angeles USD,2000,2800,Ceramics,44,"4,648",139,26.58,33.4,33.4,Art
-Los Angeles USD,2000,2801,Design,36,"3,107",92,17.74,33.3,33.8,Art
-Los Angeles USD,2000,2802,Crafts,38,"2,994",97,18.46,29.7,30.9,Art
-Los Angeles USD,2000,2803,Art history,20,"1,286",42,8.22,30.6,30.6,Art
-Los Angeles USD,2000,2805,Photography,33,"3,266",104,19.63,31.4,31.4,Art
-Los Angeles USD,2000,2806,Drawing,53,"7,515",215,41.47,34.4,35,Art
-Los Angeles USD,2000,2807,Painting,41,"3,175",99,18.27,32.1,32.1,Art
+Los Angeles USD,2000,2800,Ceramics,44,4648,139,26.58,33.4,33.4,Art
+Los Angeles USD,2000,2801,Design,36,3107,92,17.74,33.3,33.8,Art
+Los Angeles USD,2000,2802,Crafts,38,2994,97,18.46,29.7,30.9,Art
+Los Angeles USD,2000,2803,Art history,20,1286,42,8.22,30.6,30.6,Art
+Los Angeles USD,2000,2805,Photography,33,3266,104,19.63,31.4,31.4,Art
+Los Angeles USD,2000,2806,Drawing,53,7515,215,41.47,34.4,35,Art
+Los Angeles USD,2000,2807,Painting,41,3175,99,18.27,32.1,32.1,Art
 Los Angeles USD,2000,2809,Cinematography,12,566,17,3.06,33.3,33.3,Art
-Los Angeles USD,2000,2810,Basic art,134,"26,486",837,160.9,30.2,31.6,Art
+Los Angeles USD,2000,2810,Basic art,134,26486,837,160.9,30.2,31.6,Art
 Los Angeles USD,2000,2811,Jewelry,8,276,10,1.88,27.6,27.6,Art
 Los Angeles USD,2000,2812,Sculpture,7,392,12,1.87,32.7,32.7,Art
 Los Angeles USD,2000,2817,Printmaking,2,78,2,0.4,39,39,Art
-Los Angeles USD,2000,2898,Other art course,65,"4,509",159,30.14,28.4,28.4,Art
+Los Angeles USD,2000,2898,Other art course,65,4509,159,30.14,28.4,28.4,Art
 Los Angeles USD,2000,2900,Theater/play production,29,770,35,6.55,22,22,Drama/Theater
-Los Angeles USD,2000,2901,Drama/creative dramatics,100,"7,659",251,48.15,30.2,30.5,Drama/Theater
+Los Angeles USD,2000,2901,Drama/creative dramatics,100,7659,251,48.15,30.2,30.5,Drama/Theater
 Los Angeles USD,2000,2904,Theater workshop,16,622,20,3.81,26.9,31.1,Drama/Theater
-Los Angeles USD,2000,2748,Any humanities course,37,"6,114",108,38.05,27.6,56.6,Humanities
-Los Angeles USD,2000,2300,Band,94,"6,637",172,32.43,29.6,38.6,Music
+Los Angeles USD,2000,2748,Any humanities course,37,6114,108,38.05,27.6,56.6,Humanities
+Los Angeles USD,2000,2300,Band,94,6637,172,32.43,29.6,38.6,Music
 Los Angeles USD,2000,2301,Jazz band,22,419,26,4.95,16.1,16.1,Music
-Los Angeles USD,2000,2303,Orchestra,50,"1,952",62,11.65,30.2,31.5,Music
-Los Angeles USD,2000,2305,Chorus/choir,87,"6,501",177,33.92,32.2,36.7,Music
+Los Angeles USD,2000,2303,Orchestra,50,1952,62,11.65,30.2,31.5,Music
+Los Angeles USD,2000,2305,Chorus/choir,87,6501,177,33.92,32.2,36.7,Music
 Los Angeles USD,2000,2307,Music appreciation/history/literature,8,213,9,1.76,23.7,23.7,Music
 Los Angeles USD,2000,2308,Music theory,5,176,6,1.04,21.6,29.3,Music
-Los Angeles USD,2000,2310,Instrumental music lessons,107,"10,274",345,66.24,28.5,29.8,Music
+Los Angeles USD,2000,2310,Instrumental music lessons,107,10274,345,66.24,28.5,29.8,Music
 Los Angeles USD,2000,2314,Chamber/madrigal/vocal ensemble,16,521,20,3.88,26,26,Music
-Los Angeles USD,2000,2315,Classroom/general/exploratory music,60,"12,419",178,41.78,30.1,69.8,Music
-Los Angeles USD,2000,2398,Other music course,60,"113,261",612,145.75,32.9,185.1,Music
-Los Angeles USD,2000,2501,"Dance, all phases",51,"5,306",141,27.15,34.7,37.6,Dance/Physical Education
+Los Angeles USD,2000,2315,Classroom/general/exploratory music,60,12419,178,41.78,30.1,69.8,Music
+Los Angeles USD,2000,2398,Other music course,60,113261,612,145.75,32.9,185.1,Music
+Los Angeles USD,2000,2501,"Dance, all phases",51,5306,141,27.15,34.7,37.6,Dance/Physical Education
 Los Angeles USD,2000,2870,Advanced placement History of art,18,509,21,3.78,24.2,24.2,Art AP
 Los Angeles USD,2000,2871,Advanced placement Studio art gen. portfolio,22,478,26,5.05,18.4,18.4,Art AP
 Los Angeles USD,2000,2872,Advanced placement Studio art draw. portfolio,5,117,5,1,23.4,23.4,Art AP
 Los Angeles USD,2000,2370,Advanced placement Music theory,4,59,4,0.74,14.8,14.8,Music AP
-Los Angeles USD,2000,4331,Clothing and textiles,26,"2,275",76,14.67,29.9,29.9,Fashion/Home Eco
+Los Angeles USD,2000,4331,Clothing and textiles,26,2275,76,14.67,29.9,29.9,Fashion/Home Eco
 Los Angeles USD,2000,4332,Articulated apparel construction,8,414,15,2.83,27.6,27.6,Fashion/Home Eco
 Los Angeles USD,2000,4410,Fashion merchandising,6,269,13,2.4,20.7,20.7,Fashion/Home Eco
 Los Angeles USD,2000,5527,Stage technology,39,918,51,9.9,18,18,Drama/Theater Technology
 Los Angeles USD,2000,5751,Graphic communications,8,576,22,4.13,26.2,26.2,"Visual Comm, Graphics"
-Los Angeles USD,2000,5756,"Composition, make-up, and typesetting",25,"3,277",112,21.04,29.3,29.3,"Visual Comm, Graphics"
+Los Angeles USD,2000,5756,"Composition, make-up, and typesetting",25,3277,112,21.04,29.3,29.3,"Visual Comm, Graphics"
 Los Angeles USD,2000,5760,Photographic laboratory and darkroom,2,69,2,0.35,34.5,34.5,"Visual Comm, Graphics"
-Los Angeles USD,2001,2800,Ceramics,43,"4,778",143,26.79,33.4,33.4,Art
-Los Angeles USD,2001,2801,Design,31,"2,704",81,15.24,33.4,33.4,Art
-Los Angeles USD,2001,2802,Crafts,42,"2,443",89,16.57,27.4,27.4,Art
-Los Angeles USD,2001,2803,Art history,18,"1,081",37,7.07,29.2,29.2,Art
-Los Angeles USD,2001,2805,Photography,32,"3,491",112,21.38,31.2,31.2,Art
-Los Angeles USD,2001,2806,Drawing,54,"8,176",246,47,33.1,33.2,Art
-Los Angeles USD,2001,2807,Painting,43,"3,995",124,23.29,32.2,32.2,Art
+Los Angeles USD,2001,2800,Ceramics,43,4778,143,26.79,33.4,33.4,Art
+Los Angeles USD,2001,2801,Design,31,2704,81,15.24,33.4,33.4,Art
+Los Angeles USD,2001,2802,Crafts,42,2443,89,16.57,27.4,27.4,Art
+Los Angeles USD,2001,2803,Art history,18,1081,37,7.07,29.2,29.2,Art
+Los Angeles USD,2001,2805,Photography,32,3491,112,21.38,31.2,31.2,Art
+Los Angeles USD,2001,2806,Drawing,54,8176,246,47,33.1,33.2,Art
+Los Angeles USD,2001,2807,Painting,43,3995,124,23.29,32.2,32.2,Art
 Los Angeles USD,2001,2809,Cinematography,11,661,25,4.66,26.4,26.4,Art
-Los Angeles USD,2001,2810,Basic art,133,"23,995",820,157.61,29.3,29.3,Art
+Los Angeles USD,2001,2810,Basic art,133,23995,820,157.61,29.3,29.3,Art
 Los Angeles USD,2001,2811,Jewelry,7,236,8,1.51,29.5,29.5,Art
 Los Angeles USD,2001,2812,Sculpture,14,716,21,3.93,34.1,34.1,Art
 Los Angeles USD,2001,2817,Printmaking,4,136,4,0.71,34,34,Art
-Los Angeles USD,2001,2898,Other art course,58,"5,491",162,31.37,28,33.9,Art
+Los Angeles USD,2001,2898,Other art course,58,5491,162,31.37,28,33.9,Art
 Los Angeles USD,2001,2900,Theater/play production,31,823,38,6.87,20.8,21.7,Drama/Theater
-Los Angeles USD,2001,2901,Drama/creative dramatics,103,"7,751",264,49.95,29.2,29.4,Drama/Theater
+Los Angeles USD,2001,2901,Drama/creative dramatics,103,7751,264,49.95,29.2,29.4,Drama/Theater
 Los Angeles USD,2001,2904,Theater workshop,14,584,19,3.48,25.9,30.7,Drama/Theater
-Los Angeles USD,2001,2748,Any humanities course,21,"1,908",80,14.9,23.2,23.8,Humanities
-Los Angeles USD,2001,2300,Band,98,"6,228",176,33.17,28.5,35.4,Music
+Los Angeles USD,2001,2748,Any humanities course,21,1908,80,14.9,23.2,23.8,Humanities
+Los Angeles USD,2001,2300,Band,98,6228,176,33.17,28.5,35.4,Music
 Los Angeles USD,2001,2301,Jazz band,20,402,23,4.32,17.5,17.5,Music
-Los Angeles USD,2001,2303,Orchestra,54,"1,976",67,12.57,27.1,29.5,Music
-Los Angeles USD,2001,2305,Chorus/choir,84,"6,583",194,37.08,30.9,33.9,Music
+Los Angeles USD,2001,2303,Orchestra,54,1976,67,12.57,27.1,29.5,Music
+Los Angeles USD,2001,2305,Chorus/choir,84,6583,194,37.08,30.9,33.9,Music
 Los Angeles USD,2001,2307,Music appreciation/history/literature,6,174,6,1.11,29,29,Music
 Los Angeles USD,2001,2308,Music theory,5,259,9,1.69,22.1,28.8,Music
-Los Angeles USD,2001,2310,Instrumental music lessons,106,"10,835",365,69.69,28.7,29.7,Music
+Los Angeles USD,2001,2310,Instrumental music lessons,106,10835,365,69.69,28.7,29.7,Music
 Los Angeles USD,2001,2314,Chamber/madrigal/vocal ensemble,20,650,23,4.48,27.1,28.3,Music
-Los Angeles USD,2001,2315,Classroom/general/exploratory music,49,"3,788",133,25.96,28.3,28.5,Music
-Los Angeles USD,2001,2398,Other music course,72,"134,343",661,168.91,31.1,203.2,Music
-Los Angeles USD,2001,2501,"Dance, all phases",52,"5,744",157,29.58,33,36.6,Dance/Physical Education
+Los Angeles USD,2001,2315,Classroom/general/exploratory music,49,3788,133,25.96,28.3,28.5,Music
+Los Angeles USD,2001,2398,Other music course,72,134343,661,168.91,31.1,203.2,Music
+Los Angeles USD,2001,2501,"Dance, all phases",52,5744,157,29.58,33,36.6,Dance/Physical Education
 Los Angeles USD,2001,2870,Advanced placement History of art,22,586,26,4.84,22.5,22.5,Art AP
 Los Angeles USD,2001,2871,Advanced placement Studio art gen. portfolio,27,568,32,6.19,17.8,17.8,Art AP
 Los Angeles USD,2001,2872,Advanced placement Studio art draw. portfolio,4,56,4,0.83,14,14,Art AP
 Los Angeles USD,2001,2370,Advanced placement Music theory,5,61,5,0.91,12.2,12.2,Music AP
-Los Angeles USD,2001,4331,Clothing and textiles,24,"1,937",65,12.65,29.8,29.8,Fashion/Home Eco
+Los Angeles USD,2001,4331,Clothing and textiles,24,1937,65,12.65,29.8,29.8,Fashion/Home Eco
 Los Angeles USD,2001,4332,Articulated apparel construction,10,436,19,3.65,22.9,22.9,Fashion/Home Eco
 Los Angeles USD,2001,4410,Fashion merchandising,2,55,2,0.4,27.5,27.5,Fashion/Home Eco
-Los Angeles USD,2001,5527,Stage technology,43,"1,105",59,11.23,18.7,18.7,Drama/Theater Technology
+Los Angeles USD,2001,5527,Stage technology,43,1105,59,11.23,18.7,18.7,Drama/Theater Technology
 Los Angeles USD,2001,5751,Graphic communications,8,415,16,3.17,25.9,25.9,"Visual Comm, Graphics"
-Los Angeles USD,2001,5756,"Composition, make-up, and typesetting",24,"3,029",108,20.11,28,28,"Visual Comm, Graphics"
+Los Angeles USD,2001,5756,"Composition, make-up, and typesetting",24,3029,108,20.11,28,28,"Visual Comm, Graphics"
 Los Angeles USD,2001,5757,Desktop publishing,1,9,1,0.2,9,9,"Visual Comm, Graphics"
 Los Angeles USD,2001,5760,Photographic laboratory and darkroom,2,64,2,0.35,32,32,"Visual Comm, Graphics"
-Los Angeles USD,2002,2800,Ceramics,44,"4,984",151,28.46,33,33,Art
-Los Angeles USD,2002,2801,Design,25,"2,511",76,13.88,33,33,Art
-Los Angeles USD,2002,2802,Crafts,37,"2,271",80,14.34,28,28.4,Art
-Los Angeles USD,2002,2803,Art history,25,"2,119",71,13.52,29.8,29.8,Art
-Los Angeles USD,2002,2804,Art appreciation,10,"1,063",34,6.66,31.3,31.3,Art
-Los Angeles USD,2002,2805,Photography,31,"3,319",109,20.36,30.4,30.4,Art
-Los Angeles USD,2002,2806,Drawing,56,"10,210",302,57.64,33.5,33.8,Art
-Los Angeles USD,2002,2807,Painting,51,"5,363",166,30.91,32.2,32.3,Art
+Los Angeles USD,2002,2800,Ceramics,44,4984,151,28.46,33,33,Art
+Los Angeles USD,2002,2801,Design,25,2511,76,13.88,33,33,Art
+Los Angeles USD,2002,2802,Crafts,37,2271,80,14.34,28,28.4,Art
+Los Angeles USD,2002,2803,Art history,25,2119,71,13.52,29.8,29.8,Art
+Los Angeles USD,2002,2804,Art appreciation,10,1063,34,6.66,31.3,31.3,Art
+Los Angeles USD,2002,2805,Photography,31,3319,109,20.36,30.4,30.4,Art
+Los Angeles USD,2002,2806,Drawing,56,10210,302,57.64,33.5,33.8,Art
+Los Angeles USD,2002,2807,Painting,51,5363,166,30.91,32.2,32.3,Art
 Los Angeles USD,2002,2809,Cinematography,16,876,34,6.1,25.8,25.8,Art
-Los Angeles USD,2002,2810,Basic art,120,"22,129",736,139.41,30.1,30.1,Art
+Los Angeles USD,2002,2810,Basic art,120,22129,736,139.41,30.1,30.1,Art
 Los Angeles USD,2002,2811,Jewelry,6,186,7,1.28,26.6,26.6,Art
 Los Angeles USD,2002,2812,Sculpture,15,587,18,3.15,32.6,32.6,Art
 Los Angeles USD,2002,2817,Printmaking,4,176,5,0.91,35.2,35.2,Art
 Los Angeles USD,2002,2820,Computer art/graphics,11,679,24,4.6,28.3,28.3,Art
-Los Angeles USD,2002,2898,Other art course,43,"2,274",88,16.02,25.8,25.8,Art
-Los Angeles USD,2002,2358,Other dance course,2,"9,736",54,18,0,180.3,Dance
+Los Angeles USD,2002,2898,Other art course,43,2274,88,16.02,25.8,25.8,Art
+Los Angeles USD,2002,2358,Other dance course,2,9736,54,18,0,180.3,Dance
 Los Angeles USD,2002,2900,Theater/play production,32,952,43,8.12,21.4,22.1,Drama/Theater
-Los Angeles USD,2002,2901,Drama/creative dramatics,100,"7,806",257,48.74,30.2,30.4,Drama/Theater
+Los Angeles USD,2002,2901,Drama/creative dramatics,100,7806,257,48.74,30.2,30.4,Drama/Theater
 Los Angeles USD,2002,2904,Theater workshop,18,961,33,5.79,25.9,29.1,Drama/Theater
-Los Angeles USD,2002,2998,Other drama/theater course,1,"7,955",56,19,45.7,142.1,Drama/Theater
-Los Angeles USD,2002,2748,Any humanities course,14,"1,988",74,14.03,26.5,26.9,Humanities
-Los Angeles USD,2002,2300,Band,94,"5,883",174,32.26,28.6,33.8,Music
+Los Angeles USD,2002,2998,Other drama/theater course,1,7955,56,19,45.7,142.1,Drama/Theater
+Los Angeles USD,2002,2748,Any humanities course,14,1988,74,14.03,26.5,26.9,Humanities
+Los Angeles USD,2002,2300,Band,94,5883,174,32.26,28.6,33.8,Music
 Los Angeles USD,2002,2301,Jazz band,21,451,24,4.33,18.8,18.8,Music
-Los Angeles USD,2002,2303,Orchestra,54,"2,177",67,12.76,28.6,32.5,Music
-Los Angeles USD,2002,2305,Chorus/choir,83,"6,302",182,34.3,32.4,34.6,Music
+Los Angeles USD,2002,2303,Orchestra,54,2177,67,12.76,28.6,32.5,Music
+Los Angeles USD,2002,2305,Chorus/choir,83,6302,182,34.3,32.4,34.6,Music
 Los Angeles USD,2002,2307,Music appreciation/history/literature,9,668,21,3.9,31.8,31.8,Music
 Los Angeles USD,2002,2308,Music theory,4,110,7,1.37,15.7,15.7,Music
-Los Angeles USD,2002,2310,Instrumental music lessons,107,"10,519",358,67.84,28.5,29.4,Music
+Los Angeles USD,2002,2310,Instrumental music lessons,107,10519,358,67.84,28.5,29.4,Music
 Los Angeles USD,2002,2314,Chamber/madrigal/vocal ensemble,20,639,25,4.52,25.6,25.6,Music
-Los Angeles USD,2002,2315,Classroom/general/exploratory music,50,"3,607",127,24.54,28.4,28.4,Music
+Los Angeles USD,2002,2315,Classroom/general/exploratory music,50,3607,127,24.54,28.4,28.4,Music
 Los Angeles USD,2002,2321,Computers in music,1,112,5,1,22.4,22.4,Music
-Los Angeles USD,2002,2398,Other music course,133,"58,341",414,104.79,33.4,140.9,Music
-Los Angeles USD,2002,2501,"Dance, all phases",57,"7,121",191,35.3,33.3,37.3,Dance/Physical Education
+Los Angeles USD,2002,2398,Other music course,133,58341,414,104.79,33.4,140.9,Music
+Los Angeles USD,2002,2501,"Dance, all phases",57,7121,191,35.3,33.3,37.3,Dance/Physical Education
 Los Angeles USD,2002,2870,Advanced placement History of art,28,831,36,6.77,23.1,23.1,Art AP
 Los Angeles USD,2002,2872,Advanced placement Studio art draw. portfolio,25,540,29,5.62,18.6,18.6,Art AP
 Los Angeles USD,2002,2370,Advanced placement Music theory,4,77,4,0.71,19.2,19.2,Music AP
-Los Angeles USD,2002,4331,Clothing and textiles,19,"1,416",48,9.42,29.5,29.5,Fashion/Home Eco
+Los Angeles USD,2002,4331,Clothing and textiles,19,1416,48,9.42,29.5,29.5,Fashion/Home Eco
 Los Angeles USD,2002,4332,Articulated apparel construction,10,504,21,4.03,24,24,Fashion/Home Eco
 Los Angeles USD,2002,4410,Fashion merchandising,2,178,7,1.2,25.4,25.4,Fashion/Home Eco
-Los Angeles USD,2002,5527,Stage technology,39,"1,126",56,10.5,20.1,20.1,Drama/Theater Technology
+Los Angeles USD,2002,5527,Stage technology,39,1126,56,10.5,20.1,20.1,Drama/Theater Technology
 Los Angeles USD,2002,5751,Graphic communications,5,395,14,2.8,28.2,28.2,"Visual Comm, Graphics"
-Los Angeles USD,2002,5756,"Composition, make-up, and typesetting",23,"3,408",116,21.46,29.4,29.4,"Visual Comm, Graphics"
+Los Angeles USD,2002,5756,"Composition, make-up, and typesetting",23,3408,116,21.46,29.4,29.4,"Visual Comm, Graphics"
 Los Angeles USD,2002,5760,Photographic laboratory and darkroom,2,76,3,0.49,25.3,25.3,"Visual Comm, Graphics"
-Los Angeles USD,2003,2800,Ceramics,40,"4,758",138,25.19,34.5,34.5,Art
-Los Angeles USD,2003,2801,Design,24,"2,593",77,14.07,33.7,33.7,Art
-Los Angeles USD,2003,2802,Crafts,40,"3,654",115,20.84,31.4,31.8,Art
-Los Angeles USD,2003,2803,Art history,19,"1,889",65,12.11,29.1,29.1,Art
-Los Angeles USD,2003,2804,Art appreciation,12,"1,802",53,10,34,34,Art
-Los Angeles USD,2003,2805,Photography,28,"3,421",101,18.28,33.9,33.9,Art
-Los Angeles USD,2003,2806,Drawing,55,"12,025",344,64.75,34.8,35,Art
-Los Angeles USD,2003,2807,Painting,49,"5,679",166,31.1,34.1,34.2,Art
-Los Angeles USD,2003,2809,Cinematography,25,"1,643",53,9.3,31,31,Art
-Los Angeles USD,2003,2810,Basic art,116,"18,233",601,113.79,30.2,30.3,Art
+Los Angeles USD,2003,2800,Ceramics,40,4758,138,25.19,34.5,34.5,Art
+Los Angeles USD,2003,2801,Design,24,2593,77,14.07,33.7,33.7,Art
+Los Angeles USD,2003,2802,Crafts,40,3654,115,20.84,31.4,31.8,Art
+Los Angeles USD,2003,2803,Art history,19,1889,65,12.11,29.1,29.1,Art
+Los Angeles USD,2003,2804,Art appreciation,12,1802,53,10,34,34,Art
+Los Angeles USD,2003,2805,Photography,28,3421,101,18.28,33.9,33.9,Art
+Los Angeles USD,2003,2806,Drawing,55,12025,344,64.75,34.8,35,Art
+Los Angeles USD,2003,2807,Painting,49,5679,166,31.1,34.1,34.2,Art
+Los Angeles USD,2003,2809,Cinematography,25,1643,53,9.3,31,31,Art
+Los Angeles USD,2003,2810,Basic art,116,18233,601,113.79,30.2,30.3,Art
 Los Angeles USD,2003,2811,Jewelry,5,238,8,1.57,29.8,29.8,Art
 Los Angeles USD,2003,2812,Sculpture,17,660,20,3.7,33,33,Art
 Los Angeles USD,2003,2817,Printmaking,2,163,4,0.74,40.8,40.8,Art
-Los Angeles USD,2003,2820,Computer art/graphics,25,"1,630",57,10.94,28.6,28.6,Art
-Los Angeles USD,2003,2898,Other art course,51,"7,789",121,30.61,28.2,64.4,Art
-Los Angeles USD,2003,2358,Other dance course,14,"5,603",29,13.5,0,193.2,Dance
-Los Angeles USD,2003,2900,Theater/play production,33,"1,033",40,7.31,25.2,25.8,Drama/Theater
-Los Angeles USD,2003,2901,Drama/creative dramatics,102,"8,229",258,49.21,31.8,31.9,Drama/Theater
-Los Angeles USD,2003,2904,Theater workshop,20,"1,041",32,5.78,29.2,32.5,Drama/Theater
-Los Angeles USD,2003,2998,Other drama/theater course,7,"2,457",16,6.5,0,153.6,Drama/Theater
-Los Angeles USD,2003,2748,Any humanities course,21,"1,640",68,12.86,24.1,24.1,Humanities
-Los Angeles USD,2003,2300,Band,94,"5,533",163,30.46,30,33.9,Music
+Los Angeles USD,2003,2820,Computer art/graphics,25,1630,57,10.94,28.6,28.6,Art
+Los Angeles USD,2003,2898,Other art course,51,7789,121,30.61,28.2,64.4,Art
+Los Angeles USD,2003,2358,Other dance course,14,5603,29,13.5,0,193.2,Dance
+Los Angeles USD,2003,2900,Theater/play production,33,1033,40,7.31,25.2,25.8,Drama/Theater
+Los Angeles USD,2003,2901,Drama/creative dramatics,102,8229,258,49.21,31.8,31.9,Drama/Theater
+Los Angeles USD,2003,2904,Theater workshop,20,1041,32,5.78,29.2,32.5,Drama/Theater
+Los Angeles USD,2003,2998,Other drama/theater course,7,2457,16,6.5,0,153.6,Drama/Theater
+Los Angeles USD,2003,2748,Any humanities course,21,1640,68,12.86,24.1,24.1,Humanities
+Los Angeles USD,2003,2300,Band,94,5533,163,30.46,30,33.9,Music
 Los Angeles USD,2003,2301,Jazz band,22,466,26,4.7,17.9,17.9,Music
-Los Angeles USD,2003,2303,Orchestra,54,"2,185",67,12.62,30.1,32.6,Music
-Los Angeles USD,2003,2305,Chorus/choir,79,"6,146",174,32.01,31.6,35.3,Music
+Los Angeles USD,2003,2303,Orchestra,54,2185,67,12.62,30.1,32.6,Music
+Los Angeles USD,2003,2305,Chorus/choir,79,6146,174,32.01,31.6,35.3,Music
 Los Angeles USD,2003,2307,Music appreciation/history/literature,13,813,24,4.63,33.9,33.9,Music
 Los Angeles USD,2003,2308,Music theory,5,186,8,1.43,17.3,23.2,Music
-Los Angeles USD,2003,2310,Instrumental music lessons,107,"11,771",378,72.25,30.2,31.1,Music
+Los Angeles USD,2003,2310,Instrumental music lessons,107,11771,378,72.25,30.2,31.1,Music
 Los Angeles USD,2003,2314,Chamber/madrigal/vocal ensemble,20,527,23,4.32,20.7,22.9,Music
-Los Angeles USD,2003,2315,Classroom/general/exploratory music,41,"2,981",99,18.79,30.1,30.1,Music
+Los Angeles USD,2003,2315,Classroom/general/exploratory music,41,2981,99,18.79,30.1,30.1,Music
 Los Angeles USD,2003,2321,Computers in music,5,260,11,2.16,23.6,23.6,Music
-Los Angeles USD,2003,2398,Other music course,151,"78,307",473,128.15,34.7,165.6,Music
-Los Angeles USD,2003,2501,"Dance, all phases",56,"7,232",192,35.6,33,37.7,Dance/Physical Education
+Los Angeles USD,2003,2398,Other music course,151,78307,473,128.15,34.7,165.6,Music
+Los Angeles USD,2003,2501,"Dance, all phases",56,7232,192,35.6,33,37.7,Dance/Physical Education
 Los Angeles USD,2003,2870,Advanced placement History of art,23,660,28,5.17,23.6,23.6,Art AP
 Los Angeles USD,2003,2872,Advanced placement Studio art draw. portfolio,29,699,34,6.6,20.6,20.6,Art AP
 Los Angeles USD,2003,2370,Advanced placement Music theory,5,68,5,0.91,13.6,13.6,Music AP
-Los Angeles USD,2003,4331,Clothing and textiles,18,"1,157",41,8.02,28.2,28.2,Fashion/Home Eco
+Los Angeles USD,2003,4331,Clothing and textiles,18,1157,41,8.02,28.2,28.2,Fashion/Home Eco
 Los Angeles USD,2003,4332,Articulated apparel construction,10,508,18,3.35,28.2,28.2,Fashion/Home Eco
 Los Angeles USD,2003,4410,Fashion merchandising,4,370,15,2.54,24.7,24.7,Fashion/Home Eco
 Los Angeles USD,2003,5527,Stage technology,32,775,44,8.14,17.6,17.6,Drama/Theater Technology
 Los Angeles USD,2003,5751,Graphic communications,3,230,9,1.72,25.6,25.6,"Visual Comm, Graphics"
-Los Angeles USD,2003,5756,"Composition, make-up, and typesetting",21,"3,298",108,19.62,30.5,30.5,"Visual Comm, Graphics"
+Los Angeles USD,2003,5756,"Composition, make-up, and typesetting",21,3298,108,19.62,30.5,30.5,"Visual Comm, Graphics"
 Los Angeles USD,2003,5760,Photographic laboratory and darkroom,1,56,2,0.34,28,28,"Visual Comm, Graphics"
-Los Angeles USD,2004,2800,Ceramics,43,"5,363",158,28.9,33.9,33.9,Art
-Los Angeles USD,2004,2801,Design,16,"1,604",49,9.42,32.7,32.7,Art
-Los Angeles USD,2004,2802,Crafts,37,"3,234",103,18.76,30.7,31.4,Art
-Los Angeles USD,2004,2803,Art history,27,"1,962",68,13.24,28.9,28.9,Art
-Los Angeles USD,2004,2804,Art appreciation,13,"1,771",52,10.14,34.1,34.1,Art
-Los Angeles USD,2004,2805,Photography,28,"3,726",113,20.35,32.8,33,Art
-Los Angeles USD,2004,2806,Drawing,64,"14,870",415,78.57,35.8,35.8,Art
-Los Angeles USD,2004,2807,Painting,53,"5,681",165,31.29,34,34.4,Art
-Los Angeles USD,2004,2808,Advertising design,12,"1,022",31,5.51,33,33,Art
-Los Angeles USD,2004,2809,Cinematography,30,"1,897",67,12.38,28.3,28.3,Art
-Los Angeles USD,2004,2810,Basic art,102,"16,876",565,106.79,29.9,29.9,Art
+Los Angeles USD,2004,2800,Ceramics,43,5363,158,28.9,33.9,33.9,Art
+Los Angeles USD,2004,2801,Design,16,1604,49,9.42,32.7,32.7,Art
+Los Angeles USD,2004,2802,Crafts,37,3234,103,18.76,30.7,31.4,Art
+Los Angeles USD,2004,2803,Art history,27,1962,68,13.24,28.9,28.9,Art
+Los Angeles USD,2004,2804,Art appreciation,13,1771,52,10.14,34.1,34.1,Art
+Los Angeles USD,2004,2805,Photography,28,3726,113,20.35,32.8,33,Art
+Los Angeles USD,2004,2806,Drawing,64,14870,415,78.57,35.8,35.8,Art
+Los Angeles USD,2004,2807,Painting,53,5681,165,31.29,34,34.4,Art
+Los Angeles USD,2004,2808,Advertising design,12,1022,31,5.51,33,33,Art
+Los Angeles USD,2004,2809,Cinematography,30,1897,67,12.38,28.3,28.3,Art
+Los Angeles USD,2004,2810,Basic art,102,16876,565,106.79,29.9,29.9,Art
 Los Angeles USD,2004,2811,Jewelry,4,164,6,1.13,27.3,27.3,Art
 Los Angeles USD,2004,2812,Sculpture,14,747,21,3.78,35.6,35.6,Art
 Los Angeles USD,2004,2817,Printmaking,3,173,5,0.97,34.6,34.6,Art
 Los Angeles USD,2004,2818,Multicultural art/folk art,3,166,6,1.11,27.7,27.7,Art
 Los Angeles USD,2004,2819,Lettering/calligraphy,9,884,24,4.22,36.8,36.8,Art
-Los Angeles USD,2004,2820,Computer art/graphics,35,"3,406",116,22.19,28.9,29.4,Art
+Los Angeles USD,2004,2820,Computer art/graphics,35,3406,116,22.19,28.9,29.4,Art
 Los Angeles USD,2004,2821,Yearbook,1,21,2,0.33,10.5,10.5,Art
-Los Angeles USD,2004,2898,Other art course,39,"20,115",150,40.95,23.7,134.1,Art
-Los Angeles USD,2004,2352,Dance choreography and production,34,"2,537",70,12.32,30.1,36.2,Dance
+Los Angeles USD,2004,2898,Other art course,39,20115,150,40.95,23.7,134.1,Art
+Los Angeles USD,2004,2352,Dance choreography and production,34,2537,70,12.32,30.1,36.2,Dance
 Los Angeles USD,2004,2353,"Dance, movement and rhythmic activities",5,583,16,3.15,35.3,36.4,Dance
-Los Angeles USD,2004,2357,"Ballet, modern, jazz dance",29,"3,399",87,15.78,36.6,39.1,Dance
-Los Angeles USD,2004,2358,Other dance course,26,"18,044",135,35.79,37,133.7,Dance
+Los Angeles USD,2004,2357,"Ballet, modern, jazz dance",29,3399,87,15.78,36.6,39.1,Dance
+Los Angeles USD,2004,2358,Other dance course,26,18044,135,35.79,37,133.7,Dance
 Los Angeles USD,2004,2900,Theater/play production,30,946,36,6.56,26.3,26.3,Drama/Theater
-Los Angeles USD,2004,2901,Drama/creative dramatics,108,"8,297",271,51.12,30.6,30.6,Drama/Theater
+Los Angeles USD,2004,2901,Drama/creative dramatics,108,8297,271,51.12,30.6,30.6,Drama/Theater
 Los Angeles USD,2004,2904,Theater workshop,13,546,16,2.94,27,34.1,Drama/Theater
 Los Angeles USD,2004,2905,Technical theater/stagecraft,1,20,1,0.13,20,20,Drama/Theater
 Los Angeles USD,2004,2910,History/appreciation of drama/theater arts,2,131,5,0.97,26.2,26.2,Drama/Theater
-Los Angeles USD,2004,2998,Other drama/theater course,1,"11,073",53,19.83,0,208.9,Drama/Theater
-Los Angeles USD,2004,2748,Any humanities course,22,"2,393",94,19.17,25.2,25.5,Humanities
-Los Angeles USD,2004,2300,Band,91,"5,827",162,30.6,29.8,36,Music
+Los Angeles USD,2004,2998,Other drama/theater course,1,11073,53,19.83,0,208.9,Drama/Theater
+Los Angeles USD,2004,2748,Any humanities course,22,2393,94,19.17,25.2,25.5,Humanities
+Los Angeles USD,2004,2300,Band,91,5827,162,30.6,29.8,36,Music
 Los Angeles USD,2004,2301,Jazz band,24,543,28,4.85,19.4,19.4,Music
-Los Angeles USD,2004,2303,Orchestra,59,"2,399",76,14.21,29.5,31.6,Music
-Los Angeles USD,2004,2305,Chorus/choir,83,"5,914",176,32.87,30.5,33.6,Music
-Los Angeles USD,2004,2307,Music appreciation/history/literature,16,"1,305",38,7.16,32.8,34.3,Music
+Los Angeles USD,2004,2303,Orchestra,59,2399,76,14.21,29.5,31.6,Music
+Los Angeles USD,2004,2305,Chorus/choir,83,5914,176,32.87,30.5,33.6,Music
+Los Angeles USD,2004,2307,Music appreciation/history/literature,16,1305,38,7.16,32.8,34.3,Music
 Los Angeles USD,2004,2308,Music theory,5,208,6,1.12,26.8,34.7,Music
-Los Angeles USD,2004,2310,Instrumental music lessons,107,"11,314",369,69.73,29.6,30.7,Music
+Los Angeles USD,2004,2310,Instrumental music lessons,107,11314,369,69.73,29.6,30.7,Music
 Los Angeles USD,2004,2314,Chamber/madrigal/vocal ensemble,17,497,20,3.65,21.8,24.8,Music
-Los Angeles USD,2004,2315,Classroom/general/exploratory music,42,"3,380",112,21.44,30.2,30.2,Music
-Los Angeles USD,2004,2398,Other music course,65,"80,867",463,124.6,32.2,174.7,Music
+Los Angeles USD,2004,2315,Classroom/general/exploratory music,42,3380,112,21.44,30.2,30.2,Music
+Los Angeles USD,2004,2398,Other music course,65,80867,463,124.6,32.2,174.7,Music
 Los Angeles USD,2004,2501,"Dance, all phases",2,68,2,0.4,34,34,Music
 Los Angeles USD,2004,2870,Advanced placement History of art,24,757,29,5.21,24.8,26.1,Music
 Los Angeles USD,2004,2871,Advanced placement Studio art gen. portfolio,1,13,1,0.16,13,13,Dance/Physical Education
@@ -1757,52 +1757,52 @@ Los Angeles USD,2004,2370,Advanced placement Music theory,9,272,12,1.92,22.7,22.
 Los Angeles USD,2004,4331,Clothing and textiles,19,948,35,6.88,27.1,27.1,Music AP
 Los Angeles USD,2004,4332,Articulated apparel construction,10,371,16,3.14,23.2,23.2,Fashion/Home Eco
 Los Angeles USD,2004,4410,Fashion merchandising,5,545,20,3.24,27.2,27.2,Fashion/Home Eco
-Los Angeles USD,2004,5527,Stage technology,26,"1,078",46,8.45,22.6,23.4,Fashion/Home Eco
+Los Angeles USD,2004,5527,Stage technology,26,1078,46,8.45,22.6,23.4,Fashion/Home Eco
 Los Angeles USD,2004,5751,Graphic communications,4,590,20,3.44,29.5,29.5,Drama/Theater Technology
-Los Angeles USD,2004,5756,"Composition, make-up, and typesetting",20,"2,890",100,18.25,28.9,28.9,"Visual Comm, Graphics"
+Los Angeles USD,2004,5756,"Composition, make-up, and typesetting",20,2890,100,18.25,28.9,28.9,"Visual Comm, Graphics"
 Los Angeles USD,2004,5757,Desktop publishing,1,5,1,0.17,5,5,"Visual Comm, Graphics"
-Los Angeles USD,2005,2800,Ceramics,45,"4,979",147,27.5,33.9,33.9,Art
-Los Angeles USD,2005,2801,Design,33,"3,074",95,18.01,32.4,32.4,Art
+Los Angeles USD,2005,2800,Ceramics,45,4979,147,27.5,33.9,33.9,Art
+Los Angeles USD,2005,2801,Design,33,3074,95,18.01,32.4,32.4,Art
 Los Angeles USD,2005,2802,Crafts,13,845,27,5.03,31.3,31.3,Art
-Los Angeles USD,2005,2803,Art history,27,"2,071",68,12.58,29.9,30.5,Art
-Los Angeles USD,2005,2804,Art appreciation,15,"2,342",74,13.72,31.6,31.6,Art
-Los Angeles USD,2005,2805,Photography,31,"3,489",103,18.76,33.9,33.9,Art
-Los Angeles USD,2005,2806,Drawing,67,"14,523",404,75.99,35.9,35.9,Art
-Los Angeles USD,2005,2807,Painting,53,"6,014",171,32.81,35,35.2,Art
+Los Angeles USD,2005,2803,Art history,27,2071,68,12.58,29.9,30.5,Art
+Los Angeles USD,2005,2804,Art appreciation,15,2342,74,13.72,31.6,31.6,Art
+Los Angeles USD,2005,2805,Photography,31,3489,103,18.76,33.9,33.9,Art
+Los Angeles USD,2005,2806,Drawing,67,14523,404,75.99,35.9,35.9,Art
+Los Angeles USD,2005,2807,Painting,53,6014,171,32.81,35,35.2,Art
 Los Angeles USD,2005,2808,Advertising design,11,739,23,4.13,32.1,32.1,Art
-Los Angeles USD,2005,2809,Cinematography,30,"2,263",77,14.47,29,29.4,Art
-Los Angeles USD,2005,2810,Basic art,120,"18,290",609,115.49,30,30,Art
+Los Angeles USD,2005,2809,Cinematography,30,2263,77,14.47,29,29.4,Art
+Los Angeles USD,2005,2810,Basic art,120,18290,609,115.49,30,30,Art
 Los Angeles USD,2005,2811,Jewelry,4,263,8,1.43,32.9,32.9,Art
-Los Angeles USD,2005,2812,Sculpture,17,"1,036",31,5.72,33.4,33.4,Art
+Los Angeles USD,2005,2812,Sculpture,17,1036,31,5.72,33.4,33.4,Art
 Los Angeles USD,2005,2817,Printmaking,4,240,7,1.34,34.3,34.3,Art
 Los Angeles USD,2005,2818,Multicultural art/folk art,1,38,1,0.2,38,38,Art
-Los Angeles USD,2005,2819,Lettering/calligraphy,11,"1,358",39,7.08,34.4,34.8,Art
-Los Angeles USD,2005,2820,Computer art/graphics,42,"3,986",136,24.66,29.3,29.3,Art
+Los Angeles USD,2005,2819,Lettering/calligraphy,11,1358,39,7.08,34.4,34.8,Art
+Los Angeles USD,2005,2820,Computer art/graphics,42,3986,136,24.66,29.3,29.3,Art
 Los Angeles USD,2005,2821,Yearbook,1,20,2,0.32,10,10,Art
-Los Angeles USD,2005,2898,Other art course,42,"20,529",165,47.12,23.3,124.4,Art
-Los Angeles USD,2005,2352,Dance choreography and production,37,"2,224",59,10.57,32.3,37.7,Dance
+Los Angeles USD,2005,2898,Other art course,42,20529,165,47.12,23.3,124.4,Art
+Los Angeles USD,2005,2352,Dance choreography and production,37,2224,59,10.57,32.3,37.7,Dance
 Los Angeles USD,2005,2353,"Dance, movement and rhythmic activities",8,704,16,2.97,38.4,44,Dance
-Los Angeles USD,2005,2357,"Ballet, modern, jazz dance",31,"3,705",94,17.36,36.4,39.4,Dance
-Los Angeles USD,2005,2358,Other dance course,23,"22,119",137,40.46,35.7,161.5,Dance
-Los Angeles USD,2005,2900,Theater/play production,37,"1,144",44,8.12,26,26,Drama/Theater
-Los Angeles USD,2005,2901,Drama/creative dramatics,109,"8,812",290,55.35,30.2,30.4,Drama/Theater
+Los Angeles USD,2005,2357,"Ballet, modern, jazz dance",31,3705,94,17.36,36.4,39.4,Dance
+Los Angeles USD,2005,2358,Other dance course,23,22119,137,40.46,35.7,161.5,Dance
+Los Angeles USD,2005,2900,Theater/play production,37,1144,44,8.12,26,26,Drama/Theater
+Los Angeles USD,2005,2901,Drama/creative dramatics,109,8812,290,55.35,30.2,30.4,Drama/Theater
 Los Angeles USD,2005,2904,Theater workshop,14,562,19,3.99,29.6,29.6,Drama/Theater
 Los Angeles USD,2005,2908,Media arts (individual or inclusive),1,27,1,0.17,27,27,Drama/Theater
 Los Angeles USD,2005,2910,History/appreciation of drama/theater arts,3,335,11,2.11,30.5,30.5,Drama/Theater
-Los Angeles USD,2005,2998,Other drama/theater course,1,"20,317",100,33,30.7,203.2,Drama/Theater
-Los Angeles USD,2005,2748,Any humanities course,28,"3,102",129,25.15,24,24,Humanities
-Los Angeles USD,2005,2300,Band,79,"4,979",140,26.22,29.9,35.6,Music
+Los Angeles USD,2005,2998,Other drama/theater course,1,20317,100,33,30.7,203.2,Drama/Theater
+Los Angeles USD,2005,2748,Any humanities course,28,3102,129,25.15,24,24,Humanities
+Los Angeles USD,2005,2300,Band,79,4979,140,26.22,29.9,35.6,Music
 Los Angeles USD,2005,2301,Jazz band,22,595,27,4.8,22,22,Music
-Los Angeles USD,2005,2303,Orchestra,53,"2,379",70,13.44,30.5,34,Music
-Los Angeles USD,2005,2305,Chorus/choir,84,"5,822",178,34.29,30.4,32.7,Music
-Los Angeles USD,2005,2307,Music appreciation/history/literature,16,"1,154",38,7.16,27.5,30.4,Music
+Los Angeles USD,2005,2303,Orchestra,53,2379,70,13.44,30.5,34,Music
+Los Angeles USD,2005,2305,Chorus/choir,84,5822,178,34.29,30.4,32.7,Music
+Los Angeles USD,2005,2307,Music appreciation/history/literature,16,1154,38,7.16,27.5,30.4,Music
 Los Angeles USD,2005,2308,Music theory,3,141,3,0.52,23,47,Music
-Los Angeles USD,2005,2310,Instrumental music lessons,107,"11,642",378,72.42,29.2,30.8,Music
+Los Angeles USD,2005,2310,Instrumental music lessons,107,11642,378,72.42,29.2,30.8,Music
 Los Angeles USD,2005,2314,Chamber/madrigal/vocal ensemble,18,738,27,5.24,24.6,27.3,Music
-Los Angeles USD,2005,2315,Classroom/general/exploratory music,40,"3,955",127,23.99,30.6,31.1,Music
+Los Angeles USD,2005,2315,Classroom/general/exploratory music,40,3955,127,23.99,30.6,31.1,Music
 Los Angeles USD,2005,2320,Electronic music,1,27,1,0.2,27,27,Music
 Los Angeles USD,2005,2321,Computers in music,1,18,1,0.17,18,18,Music
-Los Angeles USD,2005,2398,Other music course,56,"93,633",595,151.49,33.3,157.4,Music
+Los Angeles USD,2005,2398,Other music course,56,93633,595,151.49,33.3,157.4,Music
 Los Angeles USD,2005,2501,"Dance, all phases",8,245,8,1.51,27.3,30.6,Dance/Physical Education
 Los Angeles USD,2005,2870,Advanced placement History of art,19,555,23,4.07,22.5,24.1,Art AP
 Los Angeles USD,2005,2872,Advanced placement Studio art draw. portfolio,29,590,34,6.35,17.4,17.4,Art AP
@@ -1812,48 +1812,48 @@ Los Angeles USD,2005,4332,Articulated apparel construction,7,322,12,2.18,26.8,26
 Los Angeles USD,2005,4410,Fashion merchandising,6,628,24,3.99,26.2,26.2,Fashion/Home Eco
 Los Angeles USD,2005,5527,Stage technology,26,850,36,6.99,23.6,23.6,Drama/Theater Technology
 Los Angeles USD,2005,5751,Graphic communications,2,169,5,0.85,33.8,33.8,"Visual Comm, Graphics"
-Los Angeles USD,2005,5756,"Composition, make-up, and typesetting",17,"2,500",87,15.66,28.7,28.7,"Visual Comm, Graphics"
-Los Angeles USD,2006,2800,Ceramics,42,"4,828",140,27.45,34.5,34.5,Art
-Los Angeles USD,2006,2801,Design,39,"3,759",115,22.68,32.5,32.7,Art
+Los Angeles USD,2005,5756,"Composition, make-up, and typesetting",17,2500,87,15.66,28.7,28.7,"Visual Comm, Graphics"
+Los Angeles USD,2006,2800,Ceramics,42,4828,140,27.45,34.5,34.5,Art
+Los Angeles USD,2006,2801,Design,39,3759,115,22.68,32.5,32.7,Art
 Los Angeles USD,2006,2802,Crafts,15,735,25,4.74,29.4,29.4,Art
-Los Angeles USD,2006,2803,Art history,29,"2,141",74,14.99,28.9,28.9,Art
-Los Angeles USD,2006,2804,Art appreciation,11,"2,083",68,12.39,30.6,30.6,Art
-Los Angeles USD,2006,2805,Photography,27,"3,248",97,18.95,33.5,33.5,Art
-Los Angeles USD,2006,2806,Drawing,73,"15,162",434,86.61,34.9,34.9,Art
-Los Angeles USD,2006,2807,Painting,50,"5,608",159,33.35,35.2,35.3,Art
+Los Angeles USD,2006,2803,Art history,29,2141,74,14.99,28.9,28.9,Art
+Los Angeles USD,2006,2804,Art appreciation,11,2083,68,12.39,30.6,30.6,Art
+Los Angeles USD,2006,2805,Photography,27,3248,97,18.95,33.5,33.5,Art
+Los Angeles USD,2006,2806,Drawing,73,15162,434,86.61,34.9,34.9,Art
+Los Angeles USD,2006,2807,Painting,50,5608,159,33.35,35.2,35.3,Art
 Los Angeles USD,2006,2808,Advertising design,9,575,17,3.17,33.8,33.8,Art
-Los Angeles USD,2006,2809,Cinematography,28,"1,845",67,13.23,26.6,27.5,Art
-Los Angeles USD,2006,2810,Basic art,127,"18,943",645,124.56,29.4,29.4,Art
+Los Angeles USD,2006,2809,Cinematography,28,1845,67,13.23,26.6,27.5,Art
+Los Angeles USD,2006,2810,Basic art,127,18943,645,124.56,29.4,29.4,Art
 Los Angeles USD,2006,2811,Jewelry,3,170,6,1.2,28.3,28.3,Art
-Los Angeles USD,2006,2812,Sculpture,16,"1,080",30,5.69,36,36,Art
+Los Angeles USD,2006,2812,Sculpture,16,1080,30,5.69,36,36,Art
 Los Angeles USD,2006,2817,Printmaking,1,29,1,0.2,29,29,Art
 Los Angeles USD,2006,2818,Multicultural art/folk art,2,105,3,0.6,35,35,Art
 Los Angeles USD,2006,2819,Lettering/calligraphy,11,853,24,4.69,35.5,35.5,Art
-Los Angeles USD,2006,2820,Computer art/graphics,39,"3,882",129,24.26,29.6,30.1,Art
+Los Angeles USD,2006,2820,Computer art/graphics,39,3882,129,24.26,29.6,30.1,Art
 Los Angeles USD,2006,2821,Yearbook,1,9,1,0.16,9,9,Art
-Los Angeles USD,2006,2898,Other art course,37,"1,783",75,14.39,23.8,23.8,Art
-Los Angeles USD,2006,2352,Dance choreography and production,32,"2,346",58,11.35,32.9,40.4,Dance
+Los Angeles USD,2006,2898,Other art course,37,1783,75,14.39,23.8,23.8,Art
+Los Angeles USD,2006,2352,Dance choreography and production,32,2346,58,11.35,32.9,40.4,Dance
 Los Angeles USD,2006,2353,"Dance, movement and rhythmic activities",11,810,19,3.74,36.4,42.6,Dance
-Los Angeles USD,2006,2357,"Ballet, modern, jazz dance",23,"2,830",73,14.17,35.8,38.8,Dance
-Los Angeles USD,2006,2358,Other dance course,22,"2,576",64,12.13,36.5,40.2,Dance
-Los Angeles USD,2006,2900,Theater/play production,33,"1,173",43,8.3,25.9,27.3,Drama/Theater
-Los Angeles USD,2006,2901,Drama/creative dramatics,119,"10,340",336,67.68,30.7,30.8,Drama/Theater
+Los Angeles USD,2006,2357,"Ballet, modern, jazz dance",23,2830,73,14.17,35.8,38.8,Dance
+Los Angeles USD,2006,2358,Other dance course,22,2576,64,12.13,36.5,40.2,Dance
+Los Angeles USD,2006,2900,Theater/play production,33,1173,43,8.3,25.9,27.3,Drama/Theater
+Los Angeles USD,2006,2901,Drama/creative dramatics,119,10340,336,67.68,30.7,30.8,Drama/Theater
 Los Angeles USD,2006,2904,Theater workshop,17,627,23,5.09,27.3,27.3,Drama/Theater
 Los Angeles USD,2006,2908,Media arts (individual or inclusive),1,29,1,0.17,29,29,Drama/Theater
 Los Angeles USD,2006,2910,History/appreciation of drama/theater arts,6,291,9,1.79,32.3,32.3,Drama/Theater
-Los Angeles USD,2006,2748,Any humanities course,43,"5,328",205,39.47,26,26,Humanities
-Los Angeles USD,2006,2300,Band,80,"5,138",145,28.1,30.7,35.4,Music
+Los Angeles USD,2006,2748,Any humanities course,43,5328,205,39.47,26,26,Humanities
+Los Angeles USD,2006,2300,Band,80,5138,145,28.1,30.7,35.4,Music
 Los Angeles USD,2006,2301,Jazz band,26,639,30,5.52,21.3,21.3,Music
-Los Angeles USD,2006,2303,Orchestra,50,"2,302",75,14.21,27.4,30.7,Music
-Los Angeles USD,2006,2305,Chorus/choir,83,"5,642",177,34.67,30.2,31.9,Music
-Los Angeles USD,2006,2307,Music appreciation/history/literature,17,"1,473",46,9.02,30.1,32,Music
+Los Angeles USD,2006,2303,Orchestra,50,2302,75,14.21,27.4,30.7,Music
+Los Angeles USD,2006,2305,Chorus/choir,83,5642,177,34.67,30.2,31.9,Music
+Los Angeles USD,2006,2307,Music appreciation/history/literature,17,1473,46,9.02,30.1,32,Music
 Los Angeles USD,2006,2308,Music theory,5,224,7,1.54,24.3,32,Music
-Los Angeles USD,2006,2310,Instrumental music lessons,112,"12,010",388,76.94,29.7,31,Music
+Los Angeles USD,2006,2310,Instrumental music lessons,112,12010,388,76.94,29.7,31,Music
 Los Angeles USD,2006,2314,Chamber/madrigal/vocal ensemble,17,762,24,4.73,27.2,31.8,Music
-Los Angeles USD,2006,2315,Classroom/general/exploratory music,39,"3,853",125,23.39,30.8,30.8,Music
+Los Angeles USD,2006,2315,Classroom/general/exploratory music,39,3853,125,23.39,30.8,30.8,Music
 Los Angeles USD,2006,2320,Electronic music,2,52,2,0.4,26,26,Music
 Los Angeles USD,2006,2321,Computers in music,1,32,1,0.17,32,32,Music
-Los Angeles USD,2006,2398,Other music course,62,"4,400",146,27.11,28.2,30.1,Music
+Los Angeles USD,2006,2398,Other music course,62,4400,146,27.11,28.2,30.1,Music
 Los Angeles USD,2006,2501,"Dance, all phases",8,283,8,1.51,31.7,35.4,Dance/Physical Education
 Los Angeles USD,2006,2870,Advanced placement History of art,20,557,23,4.45,24.2,24.2,Art AP
 Los Angeles USD,2006,2872,Advanced placement Studio art draw. portfolio,27,682,32,6.41,20.4,21.3,Art AP
@@ -1863,51 +1863,51 @@ Los Angeles USD,2006,4332,Articulated apparel construction,6,220,9,1.84,24.4,24.
 Los Angeles USD,2006,4410,Fashion merchandising,9,926,38,7.23,24.4,24.4,Fashion/Home Eco
 Los Angeles USD,2006,5527,Stage technology,24,659,32,6.11,20.6,20.6,Drama/Theater Technology
 Los Angeles USD,2006,5751,Graphic communications,1,22,1,0.17,22,22,"Visual Comm, Graphics"
-Los Angeles USD,2006,5756,"Composition, make-up, and typesetting",18,"2,507",86,16.06,29.2,29.2,"Visual Comm, Graphics"
+Los Angeles USD,2006,5756,"Composition, make-up, and typesetting",18,2507,86,16.06,29.2,29.2,"Visual Comm, Graphics"
 Los Angeles USD,2006,2380,Music (Support Teaching Assignment),10,0,500,133.69,0,0,Supporting Teaching (Elem)
 Los Angeles USD,2006,2880,Art (Support Teaching Assignment),10,0,340,116.99,0,0,Supporting Teaching (Elem)
-Los Angeles USD,2007,2800,Ceramics,39,"4,457",129,25.39,34.6,34.6,Art
-Los Angeles USD,2007,2801,Design,36,"3,164",99,18.97,32,32,Art
-Los Angeles USD,2007,2802,Crafts,16,"1,113",41,7.74,27.1,27.1,Art
-Los Angeles USD,2007,2803,Art history,24,"1,932",65,13.58,29.7,29.7,Art
-Los Angeles USD,2007,2804,Art appreciation,14,"2,219",71,13.36,31.3,31.3,Art
-Los Angeles USD,2007,2805,Photography,33,"3,321",102,20.01,32.6,32.6,Art
-Los Angeles USD,2007,2806,Drawing,76,"15,308",437,87.48,34.8,35,Art
-Los Angeles USD,2007,2807,Painting,56,"5,030",150,30.39,33.5,33.5,Art
+Los Angeles USD,2007,2800,Ceramics,39,4457,129,25.39,34.6,34.6,Art
+Los Angeles USD,2007,2801,Design,36,3164,99,18.97,32,32,Art
+Los Angeles USD,2007,2802,Crafts,16,1113,41,7.74,27.1,27.1,Art
+Los Angeles USD,2007,2803,Art history,24,1932,65,13.58,29.7,29.7,Art
+Los Angeles USD,2007,2804,Art appreciation,14,2219,71,13.36,31.3,31.3,Art
+Los Angeles USD,2007,2805,Photography,33,3321,102,20.01,32.6,32.6,Art
+Los Angeles USD,2007,2806,Drawing,76,15308,437,87.48,34.8,35,Art
+Los Angeles USD,2007,2807,Painting,56,5030,150,30.39,33.5,33.5,Art
 Los Angeles USD,2007,2808,Advertising design,8,489,16,3.08,30.6,30.6,Art
-Los Angeles USD,2007,2809,Cinematography,43,"3,327",105,20.32,31.5,31.7,Art
+Los Angeles USD,2007,2809,Cinematography,43,3327,105,20.32,31.5,31.7,Art
 Los Angeles USD,2007,2811,Jewelry,3,122,4,0.8,30.5,30.5,Art
 Los Angeles USD,2007,2812,Sculpture,12,704,20,4.37,35.2,35.2,Art
 Los Angeles USD,2007,2817,Printmaking,2,90,3,0.6,30,30,Art
 Los Angeles USD,2007,2818,Multicultural art/folk art,1,73,2,0.4,36.5,36.5,Art
 Los Angeles USD,2007,2819,Lettering/calligraphy,10,855,28,5.28,30.5,30.5,Art
-Los Angeles USD,2007,2820,Computer art/graphics,42,"4,686",154,28.82,30.4,30.4,Art
+Los Angeles USD,2007,2820,Computer art/graphics,42,4686,154,28.82,30.4,30.4,Art
 Los Angeles USD,2007,2821,Yearbook,1,21,2,0.33,10.5,10.5,Art
 Los Angeles USD,2007,2822,Fundamentals of art (elem),3,107,15,2.55,7.1,7.1,Art
-Los Angeles USD,2007,2823,Fundamentals of Art (sec),127,"20,985",664,127,31.4,31.6,Art
-Los Angeles USD,2007,2898,Other art course,36,"1,607",68,12.31,23.6,23.6,Art
-Los Angeles USD,2007,2352,Dance choreography and production,35,"2,820",71,13.65,33.2,39.7,Dance
+Los Angeles USD,2007,2823,Fundamentals of Art (sec),127,20985,664,127,31.4,31.6,Art
+Los Angeles USD,2007,2898,Other art course,36,1607,68,12.31,23.6,23.6,Art
+Los Angeles USD,2007,2352,Dance choreography and production,35,2820,71,13.65,33.2,39.7,Dance
 Los Angeles USD,2007,2353,"Dance, movement and rhythmic activities",8,624,15,2.79,32.5,41.6,Dance
 Los Angeles USD,2007,2354,Folk/ethnic dance,2,27,2,0.36,13.5,13.5,Dance
-Los Angeles USD,2007,2357,"Ballet, modern, jazz dance",26,"2,943",78,15.35,34.8,37.7,Dance
-Los Angeles USD,2007,2358,Other dance course,25,"2,689",69,12.96,33.1,39,Dance
-Los Angeles USD,2007,2900,Theater/play production,36,"1,073",42,8.76,24.9,25.5,Drama/Theater
-Los Angeles USD,2007,2901,Drama/creative dramatics,126,"10,652",339,66.33,30.5,31.4,Drama/Theater
+Los Angeles USD,2007,2357,"Ballet, modern, jazz dance",26,2943,78,15.35,34.8,37.7,Dance
+Los Angeles USD,2007,2358,Other dance course,25,2689,69,12.96,33.1,39,Dance
+Los Angeles USD,2007,2900,Theater/play production,36,1073,42,8.76,24.9,25.5,Drama/Theater
+Los Angeles USD,2007,2901,Drama/creative dramatics,126,10652,339,66.33,30.5,31.4,Drama/Theater
 Los Angeles USD,2007,2904,Theater workshop,14,482,18,3.96,26.8,26.8,Drama/Theater
 Los Angeles USD,2007,2908,Media arts (individual or inclusive),1,89,3,0.52,29.7,29.7,Drama/Theater
 Los Angeles USD,2007,2910,History/appreciation of drama/theater arts,9,332,12,2.56,27.7,27.7,Drama/Theater
-Los Angeles USD,2007,2748,Any humanities course,36,"4,161",169,32.8,24.4,24.6,Humanities
-Los Angeles USD,2007,2300,Band,88,"6,012",173,33.75,31,34.8,Music
-Los Angeles USD,2007,2303,Orchestra,55,"2,328",72,13.85,30.1,32.3,Music
-Los Angeles USD,2007,2305,Chorus/choir,84,"6,173",184,37.15,31.8,33.5,Music
-Los Angeles USD,2007,2307,Music appreciation/history/literature,17,"1,481",47,8.97,31,31.5,Music
+Los Angeles USD,2007,2748,Any humanities course,36,4161,169,32.8,24.4,24.6,Humanities
+Los Angeles USD,2007,2300,Band,88,6012,173,33.75,31,34.8,Music
+Los Angeles USD,2007,2303,Orchestra,55,2328,72,13.85,30.1,32.3,Music
+Los Angeles USD,2007,2305,Chorus/choir,84,6173,184,37.15,31.8,33.5,Music
+Los Angeles USD,2007,2307,Music appreciation/history/literature,17,1481,47,8.97,31,31.5,Music
 Los Angeles USD,2007,2308,Music theory,4,312,9,1.93,24.6,34.7,Music
-Los Angeles USD,2007,2310,Instrumental music lessons,117,"12,461",391,76.32,30.3,31.9,Music
+Los Angeles USD,2007,2310,Instrumental music lessons,117,12461,391,76.32,30.3,31.9,Music
 Los Angeles USD,2007,2314,Chamber/madrigal/vocal ensemble,13,556,19,3.76,29.3,29.3,Music
-Los Angeles USD,2007,2315,Classroom/general/exploratory music,30,"2,622",85,16.03,30.8,30.8,Music
+Los Angeles USD,2007,2315,Classroom/general/exploratory music,30,2622,85,16.03,30.8,30.8,Music
 Los Angeles USD,2007,2317,Jazz/Stage band,26,688,30,5.38,21.2,22.9,Music
 Los Angeles USD,2007,2323,Computers and Electronics in Music,2,49,2,0.32,24.5,24.5,Music
-Los Angeles USD,2007,2398,Other music course,64,"3,904",135,25.62,26.6,28.9,Music
+Los Angeles USD,2007,2398,Other music course,64,3904,135,25.62,26.6,28.9,Music
 Los Angeles USD,2007,2501,"Dance, all phases",6,297,8,1.42,31.6,37.1,Dance/Physical Education
 Los Angeles USD,2007,2870,Advanced placement History of art,18,605,23,4.61,24.6,26.3,Art AP
 Los Angeles USD,2007,2873,Advanced placement Studio Art,23,515,29,5.77,17.8,17.8,Art AP
@@ -1917,55 +1917,55 @@ Los Angeles USD,2007,4332,Articulated apparel construction,6,245,10,2.05,24.5,24
 Los Angeles USD,2007,4410,Fashion merchandising,10,790,30,5.64,26.3,26.3,Fashion/Home Eco
 Los Angeles USD,2007,5527,Stage technology,25,738,31,5.83,23.8,23.8,Drama/Theater Technology
 Los Angeles USD,2007,5751,Graphic communications,1,62,2,0.32,31,31,"Visual Comm, Graphics"
-Los Angeles USD,2007,5756,"Composition, make-up, and typesetting",12,"1,872",62,11.29,30.2,30.2,"Visual Comm, Graphics"
+Los Angeles USD,2007,5756,"Composition, make-up, and typesetting",12,1872,62,11.29,30.2,30.2,"Visual Comm, Graphics"
 Los Angeles USD,2007,2380,Music (Support Teaching Assignment),6,0,411,107.98,0,0,Supporting Teaching (Elem)
 Los Angeles USD,2007,2880,Art (Support Teaching Assignment),6,0,336,132.6,0,0,Supporting Teaching (Elem)
 Los Angeles USD,2008,2824,"Secondary arts-art, music, dance, drama (thro",1,36,5,0.86,7.2,7.2,Independent Study
 Los Angeles USD,2008,3016,"SE Secondary arts (art, music, dance, drama)",37,831,81,16.27,10.3,10.3,Special Education
 Los Angeles USD,2008,2380,STAE Music,8,0,555,148.86,0,0,Supporting Teaching (Elem)
 Los Angeles USD,2008,2880,STAE Art,5,0,440,164.51,0,0,Supporting Teaching (Elem)
-Los Angeles USD,2008,2800,Ceramics,42,"4,883",142,27.76,34.4,34.4,Art
-Los Angeles USD,2008,2801,Design,41,"3,154",100,20.43,31.5,31.5,Art
+Los Angeles USD,2008,2800,Ceramics,42,4883,142,27.76,34.4,34.4,Art
+Los Angeles USD,2008,2801,Design,41,3154,100,20.43,31.5,31.5,Art
 Los Angeles USD,2008,2802,Crafts,15,807,30,5.49,26.9,26.9,Art
-Los Angeles USD,2008,2803,Art history,24,"2,118",73,15.12,29,29,Art
-Los Angeles USD,2008,2805,Photography,33,"3,052",94,18.98,32.5,32.5,Art
-Los Angeles USD,2008,2806,Drawing,83,"14,662",438,90.49,33.5,33.5,Art
-Los Angeles USD,2008,2807,Painting,54,"5,010",149,30.2,33.5,33.6,Art
+Los Angeles USD,2008,2803,Art history,24,2118,73,15.12,29,29,Art
+Los Angeles USD,2008,2805,Photography,33,3052,94,18.98,32.5,32.5,Art
+Los Angeles USD,2008,2806,Drawing,83,14662,438,90.49,33.5,33.5,Art
+Los Angeles USD,2008,2807,Painting,54,5010,149,30.2,33.5,33.6,Art
 Los Angeles USD,2008,2808,Advertising design,9,578,17,3.58,34,34,Art
-Los Angeles USD,2008,2809,Cinematography,47,"3,483",118,23.21,29.5,29.5,Art
+Los Angeles USD,2008,2809,Cinematography,47,3483,118,23.21,29.5,29.5,Art
 Los Angeles USD,2008,2811,Jewelry,3,140,4,0.82,35,35,Art
 Los Angeles USD,2008,2812,Sculpture,12,607,18,3.76,33.7,33.7,Art
-Los Angeles USD,2008,2816,Art appreciation (secondary school standards),17,"2,191",77,13.87,28.5,28.5,Art
+Los Angeles USD,2008,2816,Art appreciation (secondary school standards),17,2191,77,13.87,28.5,28.5,Art
 Los Angeles USD,2008,2817,Printmaking,2,105,3,0.7,35,35,Art
 Los Angeles USD,2008,2818,Multicultural art/folk art,2,96,3,0.57,32,32,Art
 Los Angeles USD,2008,2819,Lettering/calligraphy,9,701,26,4.76,27,27,Art
-Los Angeles USD,2008,2820,Digital Art/computer art/graphics,54,"6,375",202,40.01,31.4,31.6,Art
+Los Angeles USD,2008,2820,Digital Art/computer art/graphics,54,6375,202,40.01,31.4,31.6,Art
 Los Angeles USD,2008,2822,Fundamentals of art (elem),1,31,1,0.2,31,31,Art
-Los Angeles USD,2008,2823,Fundamentals of Art (sec),143,"21,697",754,146.79,28.8,28.8,Art
-Los Angeles USD,2008,2898,Other art course,47,"2,412",90,16.82,26.8,26.8,Art
-Los Angeles USD,2008,2352,Dance choreography and production,42,"3,310.00",93,19.31,32.5,35.6,Dance
-Los Angeles USD,2008,2353,"Dance, movement and rhythmic activities (elem)",14,958.00,23,4.72,34.9,41.7,Dance
+Los Angeles USD,2008,2823,Fundamentals of Art (sec),143,21697,754,146.79,28.8,28.8,Art
+Los Angeles USD,2008,2898,Other art course,47,2412,90,16.82,26.8,26.8,Art
+Los Angeles USD,2008,2352,Dance choreography and production,42	,3310,93,19.31,32.5,35.6,Dance
+Los Angeles USD,2008,2353,"Dance, movement and rhythmic activities (elem)",14,958,23,4.72,34.9,41.7,Dance
 Los Angeles USD,2008,2354,Folk/ethnic dance,1,27,1,0.17,27,27,Dance
-Los Angeles USD,2008,2357,"Ballet, modern, jazz dance",22,"2,501",69,13.68,33.1,36.2,Dance
-Los Angeles USD,2008,2358,Other dance course,30,"3,066",81,15.54,34.7,37.9,Dance
-Los Angeles USD,2008,2900,Theater/play production (sec schl standards),37,"1,209",43,9.09,26.9,28.1,Drama/Theater
-Los Angeles USD,2008,2901,Theater/creative dramatics (elem schl standards,137,"11,786",380,76.1,30.8,31,Drama/Theater
+Los Angeles USD,2008,2357,"Ballet, modern, jazz dance",22,2501,69,13.68,33.1,36.2,Dance
+Los Angeles USD,2008,2358,Other dance course,30,3066,81,15.54,34.7,37.9,Dance
+Los Angeles USD,2008,2900,Theater/play production (sec schl standards),37,1209,43,9.09,26.9,28.1,Drama/Theater
+Los Angeles USD,2008,2901,Theater/creative dramatics (elem schl standards,137,11786,380,76.1,30.8,31,Drama/Theater
 Los Angeles USD,2008,2904,Advanced Theater,20,862,27,5.47,28.8,31.9,Drama/Theater
 Los Angeles USD,2008,2908,Media/film/video/televsion production,1,20,1,0.2,20,20,Drama/Theater
 Los Angeles USD,2008,2910,History/appreciation of drama/theater arts,6,198,8,1.67,24.8,24.8,Drama/Theater
 Los Angeles USD,2008,2998,Other drama/theater course,1,33,1,0.16,33,33,Drama/Theater
-Los Angeles USD,2008,2748,Any humanities course,33,"3,211",134,29.8,24,24,Humanities
-Los Angeles USD,2008,2300,Band,96,"6,324",191,37.43,29,33.1,Music
-Los Angeles USD,2008,2303,Orchestra/symphony,58,"2,488",78,15.08,29,31.9,Music
-Los Angeles USD,2008,2305,Chorus/choir,91,"6,526",212,42.06,28.5,30.8,Music
-Los Angeles USD,2008,2307,Music appreciation/history/literature,19,"1,193",38,8.01,31.4,31.4,Music
+Los Angeles USD,2008,2748,Any humanities course,33,3211,134,29.8,24,24,Humanities
+Los Angeles USD,2008,2300,Band,96,6324,191,37.43,29,33.1,Music
+Los Angeles USD,2008,2303,Orchestra/symphony,58,2488,78,15.08,29,31.9,Music
+Los Angeles USD,2008,2305,Chorus/choir,91,6526,212,42.06,28.5,30.8,Music
+Los Angeles USD,2008,2307,Music appreciation/history/literature,19,1193,38,8.01,31.4,31.4,Music
 Los Angeles USD,2008,2308,Music theory,4,252,10,2.23,25.2,25.2,Music
 Los Angeles USD,2008,2323,Computers and Electronics in Music,3,104,4,0.86,26,26,Music
-Los Angeles USD,2008,2325,Instrumental music lessons (secondary school st,126,"12,794",417,84,29.4,30.7,Music
+Los Angeles USD,2008,2325,Instrumental music lessons (secondary school st,126,12794,417,84,29.4,30.7,Music
 Los Angeles USD,2008,2326,General/classroom/exploratory music (elementary,2,128,3,0.6,38.5,42.7,Music
-Los Angeles USD,2008,2327,General/exploratory/introduction to music (seco,39,"2,916",98,18.42,29.8,29.8,Music
+Los Angeles USD,2008,2327,General/exploratory/introduction to music (seco,39,2916,98,18.42,29.8,29.8,Music
 Los Angeles USD,2008,2328,Instrumental ensemble,31,856,37,6.81,20.3,23.1,Music
-Los Angeles USD,2008,2398,Other music course,63,"3,306",122,23.56,24.8,27.1,Music
+Los Angeles USD,2008,2398,Other music course,63,3306,122,23.56,24.8,27.1,Music
 Los Angeles USD,2008,2870,AP Art History,19,603,23,4.35,23.5,26.2,Art AP
 Los Angeles USD,2008,2874,AP Studio Art: Drawing,11,164,11,2.14,14.9,14.9,Art AP
 Los Angeles USD,2008,2875,AP Studio Art: Two Dimensional,17,365,19,3.83,19.2,19.2,Art AP
@@ -1976,61 +1976,61 @@ Los Angeles USD,2008,5527,Stage technology,25,668,30,5.82,22.3,22.3,Drama/Theate
 Los Angeles USD,2008,4331,Fashion textiles and apparel,13,867,34,7.14,25.5,25.5,Fashion/Home Eco
 Los Angeles USD,2008,4410,Fashion merchandising,11,512,22,4.77,23.3,23.3,Fashion/Home Eco
 Los Angeles USD,2009,2824,"Secondary arts-art, music, dance, drama (thro",1,2,2,0.39,1,1,Independent Study
-Los Angeles USD,2009,3016,"SE Secondary arts (art, music, dance, drama)",35,"1,057",83,16.03,12.7,12.7,Special Education
+Los Angeles USD,2009,3016,"SE Secondary arts (art, music, dance, drama)",35,1057,83,16.03,12.7,12.7,Special Education
 Los Angeles USD,2009,2380,STAE Music,11,0,574,151.38,0,0,Supporting Teaching (Elem)
 Los Angeles USD,2009,2880,STAE Art,7,0,543,200.3,0,0,Supporting Teaching (Elem)
-Los Angeles USD,2009,2800,Ceramics,46,"4,901",144,28.8,33.9,34,Art
-Los Angeles USD,2009,2801,Design,39,"3,458",106,22.13,32.6,32.6,Art
+Los Angeles USD,2009,2800,Ceramics,46,4901,144,28.8,33.9,34,Art
+Los Angeles USD,2009,2801,Design,39,3458,106,22.13,32.6,32.6,Art
 Los Angeles USD,2009,2802,Crafts,17,855,31,5.83,27.6,27.6,Art
-Los Angeles USD,2009,2803,Art history,29,"2,268",79,16.72,28.7,28.7,Art
-Los Angeles USD,2009,2805,Photography,28,"2,646",79,16.88,33.5,33.5,Art
-Los Angeles USD,2009,2806,Drawing,82,"12,361",379,78.14,32.6,32.6,Art
-Los Angeles USD,2009,2807,Painting,54,"4,594",138,27.16,33.3,33.3,Art
+Los Angeles USD,2009,2803,Art history,29,2268,79,16.72,28.7,28.7,Art
+Los Angeles USD,2009,2805,Photography,28,2646,79,16.88,33.5,33.5,Art
+Los Angeles USD,2009,2806,Drawing,82,12361,379,78.14,32.6,32.6,Art
+Los Angeles USD,2009,2807,Painting,54,4594,138,27.16,33.3,33.3,Art
 Los Angeles USD,2009,2808,Advertising design,9,527,15,3.26,35.1,35.1,Art
-Los Angeles USD,2009,2809,Cinematography,26,"1,116",41,8.6,27.2,27.2,Art
+Los Angeles USD,2009,2809,Cinematography,26,1116,41,8.6,27.2,27.2,Art
 Los Angeles USD,2009,2811,Jewelry,3,77,3,0.71,25.7,25.7,Art
 Los Angeles USD,2009,2812,Sculpture,17,957,31,6.54,30.9,30.9,Art
-Los Angeles USD,2009,2816,Art appreciation (secondary school standards),16,"1,632",61,11.03,26.8,26.8,Art
-Los Angeles USD,2009,2817,Printmaking,2,65.00,2,0.53,32.5,32.5,Art
-Los Angeles USD,2009,2818,Multicultural art/folk art,3,166.00,5,0.94,33.2,33.2,Art
-Los Angeles USD,2009,2819,Lettering/calligraphy,8,635.00,22,4.08,28.9,28.9,Art
-Los Angeles USD,2009,2820,Digital Art/computer art/graphics,14,"1,015",34,6.41,29.9,29.9,Art
+Los Angeles USD,2009,2816,Art appreciation (secondary school standards),16,1632,61,11.03,26.8,26.8,Art
+Los Angeles USD,2009,2817,Printmaking,2,65,2,0.53,32.5,32.5,Art
+Los Angeles USD,2009,2818,Multicultural art/folk art,3,166,5,0.94,33.2,33.2,Art
+Los Angeles USD,2009,2819,Lettering/calligraphy,8,635,22,4.08,28.9,28.9,Art
+Los Angeles USD,2009,2820,Digital Art/computer art/graphics,14,1015,34,6.41,29.9,29.9,Art
 Los Angeles USD,2009,2822,Fundamentals of art (elem),4,241,11,1.98,21.9,21.9,Art
-Los Angeles USD,2009,2823,Fundamentals of Art (sec),158,"22,744",805,153.41,28.2,28.3,Art
-Los Angeles USD,2009,2898,Other art course,33,"1,828",69,13.02,26.5,26.5,Art
-Los Angeles USD,2009,2352,Dance choreography and production,42,"3,077",85,17.68,33.6,36.2,Dance
+Los Angeles USD,2009,2823,Fundamentals of Art (sec),158,22744,805,153.41,28.2,28.3,Art
+Los Angeles USD,2009,2898,Other art course,33,1828,69,13.02,26.5,26.5,Art
+Los Angeles USD,2009,2352,Dance choreography and production,42,3077,85,17.68,33.6,36.2,Dance
 Los Angeles USD,2009,2355,"Dance, movement and rhythmic activities (sec)",10,949,21,3.92,40.8,45.2,Dance
-Los Angeles USD,2009,2357,"Ballet, modern, jazz dance",25,"2,559",74,14.95,33.1,34.6,Dance
-Los Angeles USD,2009,2358,Other dance course,35,"3,208",88,17.92,33.6,36.5,Dance
-Los Angeles USD,2009,2900,Theater/play production (sec schl standards),40,"1,213",51,10.92,23.2,23.8,Drama/Theater
-Los Angeles USD,2009,2901,Theater/creative dramatics (elem schl standards,140,"12,285",408,85.1,29.9,30.1,Drama/Theater
+Los Angeles USD,2009,2357,"Ballet, modern, jazz dance",25,2559,74,14.95,33.1,34.6,Dance
+Los Angeles USD,2009,2358,Other dance course,35,3208,88,17.92,33.6,36.5,Dance
+Los Angeles USD,2009,2900,Theater/play production (sec schl standards),40,1213,51,10.92,23.2,23.8,Drama/Theater
+Los Angeles USD,2009,2901,Theater/creative dramatics (elem schl standards,140,12285,408,85.1,29.9,30.1,Drama/Theater
 Los Angeles USD,2009,2904,Advanced Theater,18,866,32,7.34,25.5,27.1,Drama/Theater
 Los Angeles USD,2009,2910,History/appreciation of drama/theater arts,5,232,11,2.17,21.1,21.1,Drama/Theater
 Los Angeles USD,2009,2998,Other drama/theater course,1,12,1,0.2,12,12,Drama/Theater
-Los Angeles USD,2009,2748,Any humanities course,37,"4,096",176,36.2,23.3,23.3,Humanities
-Los Angeles USD,2009,2300,Band,99,"6,248",188,37.27,29.4,33.2,Music
-Los Angeles USD,2009,2303,Orchestra/symphony,62,"2,654",87,17.26,27,30.5,Music
-Los Angeles USD,2009,2305,Chorus/choir,86,"6,807",214,44.28,29.4,31.8,Music
-Los Angeles USD,2009,2307,Music appreciation/history/literature,16,"1,133",35,7.24,32.4,32.4,Music
+Los Angeles USD,2009,2748,Any humanities course,37,4096,176,36.2,23.3,23.3,Humanities
+Los Angeles USD,2009,2300,Band,99,6248,188,37.27,29.4,33.2,Music
+Los Angeles USD,2009,2303,Orchestra/symphony,62,2654,87,17.26,27,30.5,Music
+Los Angeles USD,2009,2305,Chorus/choir,86,6807,214,44.28,29.4,31.8,Music
+Los Angeles USD,2009,2307,Music appreciation/history/literature,16,1133,35,7.24,32.4,32.4,Music
 Los Angeles USD,2009,2308,Music theory,3,76,3,0.73,25.3,25.3,Music
 Los Angeles USD,2009,2323,Computers and Electronics in Music,2,50,2,0.53,25,25,Music
-Los Angeles USD,2009,2325,Instrumental music lessons (secondary school st,127,"13,119",408,81.42,30.9,32.2,Music
+Los Angeles USD,2009,2325,Instrumental music lessons (secondary school st,127,13119,408,81.42,30.9,32.2,Music
 Los Angeles USD,2009,2326,General/classroom/exploratory music (elementary,2,135,4,0.66,33.8,33.8,Music
-Los Angeles USD,2009,2327,General/exploratory/introduction to music (seco,40,"2,486",92,18.33,26.3,27,Music
+Los Angeles USD,2009,2327,General/exploratory/introduction to music (seco,40,2486,92,18.33,26.3,27,Music
 Los Angeles USD,2009,2328,Instrumental ensemble,25,717,30,5.62,21.4,23.9,Music
-Los Angeles USD,2009,2398,Other music course,49,"2,775",93,17.94,27.2,29.8,Music
+Los Angeles USD,2009,2398,Other music course,49,2775,93,17.94,27.2,29.8,Music
 Los Angeles USD,2009,2870,AP Art History,23,660,27,5.15,24.4,24.4,Art AP
 Los Angeles USD,2009,2874,AP Studio Art: Drawing,8,162,9,1.95,18,18,Art AP
 Los Angeles USD,2009,2875,AP Studio Art: Two Dimensional,22,448,24,5,18.7,18.7,Art AP
 Los Angeles USD,2009,2876,AP Studio Art: Three Dimensional,5,69,5,1.16,13.8,13.8,Art AP
 Los Angeles USD,2009,2370,AP Music theory,9,150,9,1.85,16.7,16.7,Music AP
 Los Angeles USD,2009,5621,Graphic arts technology,7,488,17,3.33,28.7,28.7,"Arts, Media and Entertainment"
-Los Angeles USD,2009,5702,Animation,23,"1,450",47,8.67,30.9,30.9,"Arts, Media and Entertainment"
-Los Angeles USD,2009,5711,Digital animation,41,"4,152",141,27.88,29.1,29.4,"Arts, Media and Entertainment"
+Los Angeles USD,2009,5702,Animation,23,1450,47,8.67,30.9,30.9,"Arts, Media and Entertainment"
+Los Angeles USD,2009,5711,Digital animation,41,4152,141,27.88,29.1,29.4,"Arts, Media and Entertainment"
 Los Angeles USD,2009,5712,Internet publishing,11,876,26,6.01,33.7,33.7,"Arts, Media and Entertainment"
-Los Angeles USD,2009,5715,Filmmaking,35,"2,217",75,15.49,29.6,29.6,"Arts, Media and Entertainment"
+Los Angeles USD,2009,5715,Filmmaking,35,2217,75,15.49,29.6,29.6,"Arts, Media and Entertainment"
 Los Angeles USD,2009,5724,Professional music composition and arrangement,13,751,32,6.18,23.5,23.5,"Arts, Media and Entertainment"
-Los Angeles USD,2009,5730,Multimedia production,20,"1,332",46,9.61,29,29,"Arts, Media and Entertainment"
+Los Angeles USD,2009,5730,Multimedia production,20,1332,46,9.61,29,29,"Arts, Media and Entertainment"
 Los Angeles USD,2009,5744,Stage production,25,678,30,6.19,22.6,22.6,"Arts, Media and Entertainment"
 Los Angeles USD,2009,5751,Graphic communications,5,252,10,1.86,25.2,25.2,"Arts, Media and Entertainment"
 Los Angeles USD,2009,5760,Photographic laboratory and darkroom,3,127,5,0.95,25.4,25.4,"Arts, Media and Entertainment"
@@ -2038,52 +2038,52 @@ Los Angeles USD,2009,5770,Broadcasting technology,1,2,2,0.5,1,1,"Arts, Media and
 Los Angeles USD,2009,4331,Fashion textiles and apparel,13,853,35,7.02,24.4,24.4,Fashion/Home Eco
 Los Angeles USD,2009,4410,Fashion merchandising,3,106,4,0.94,26.5,26.5,Fashion/Home Eco
 Los Angeles USD,2009,4412,"Apparel manufacturing, production and maint",4,200,9,1.72,22.2,22.2,Fashion/Home Eco
-Los Angeles USD,2011,2800,Ceramics (beginning and advanced),35,"4,065",122,22.82,33.1,33.3,Art
-Los Angeles USD,2011,2801,Design,51,"3,210",99,19.99,32.2,32.4,Art
-Los Angeles USD,2011,2802,Crafts,13,"1,077",34,5.97,31.7,31.7,Art
-Los Angeles USD,2011,2803,Art history,35,"3,011",108,21.15,27.9,27.9,Art
-Los Angeles USD,2011,2805,Photography (beginning or advanced),36,"3,046",94,18.31,32.1,32.4,Art
-Los Angeles USD,2011,2806,Drawing,86,"12,549",359,72.44,34.2,35,Art
-Los Angeles USD,2011,2807,Painting,53,"4,764",132,26.58,35.6,36.1,Art
+Los Angeles USD,2011,2800,Ceramics (beginning and advanced),35,4065,122,22.82,33.1,33.3,Art
+Los Angeles USD,2011,2801,Design,51,3210,99,19.99,32.2,32.4,Art
+Los Angeles USD,2011,2802,Crafts,13,1077,34,5.97,31.7,31.7,Art
+Los Angeles USD,2011,2803,Art history,35,3011,108,21.15,27.9,27.9,Art
+Los Angeles USD,2011,2805,Photography (beginning or advanced),36,3046,94,18.31,32.1,32.4,Art
+Los Angeles USD,2011,2806,Drawing,86,12549,359,72.44,34.2,35,Art
+Los Angeles USD,2011,2807,Painting,53,4764,132,26.58,35.6,36.1,Art
 Los Angeles USD,2011,2808,Advertising design,8,393,12,2.26,32.8,32.8,Art
-Los Angeles USD,2011,2809,Cinematography/artistic videos (begin or adv),54,"3,582",121,22.79,29.4,29.6,Art
+Los Angeles USD,2011,2809,Cinematography/artistic videos (begin or adv),54,3582,121,22.79,29.4,29.6,Art
 Los Angeles USD,2011,2811,Jewelry,1,86,2,0.34,43,43,Art
 Los Angeles USD,2011,2812,Sculpture,14,728,22,4.87,33.1,33.1,Art
 Los Angeles USD,2011,2813,Fashion design,1,7,7,0.98,1,1,Art
-Los Angeles USD,2011,2815,Art appreciation (elementary school standards),5,"1,953",55,39.2,26.3,35.5,Art
-Los Angeles USD,2011,2816,Art appreciation (secondary school standards),21,"2,396",84,15.07,27,28.5,Art
+Los Angeles USD,2011,2815,Art appreciation (elementary school standards),5,1953,55,39.2,26.3,35.5,Art
+Los Angeles USD,2011,2816,Art appreciation (secondary school standards),21,2396,84,15.07,27,28.5,Art
 Los Angeles USD,2011,2817,Printmaking,2,110,3,0.51,36.7,36.7,Art
 Los Angeles USD,2011,2818,Multicultural art/folk art,4,154,5,0.97,30.8,30.8,Art
 Los Angeles USD,2011,2819,Lettering/calligraphy,7,385,15,2.51,23.4,25.7,Art
-Los Angeles USD,2011,2820,Digital art/computer art/artistic graphics,53,"5,412",175,34.98,30.9,30.9,Art
-Los Angeles USD,2011,2822,Fundamentals of art (elem school standards),10,"1,251",51,16.92,22.6,24.5,Art
-Los Angeles USD,2011,2823,Fundamentals of art (secondary school standards),133,"17,315",590,118.48,28.8,29.3,Art
-Los Angeles USD,2011,2898,Other art course,59,"3,809",126,25.77,28.7,30.2,Art
+Los Angeles USD,2011,2820,Digital art/computer art/artistic graphics,53,5412,175,34.98,30.9,30.9,Art
+Los Angeles USD,2011,2822,Fundamentals of art (elem school standards),10,1251,51,16.92,22.6,24.5,Art
+Los Angeles USD,2011,2823,Fundamentals of art (secondary school standards),133,17315,590,118.48,28.8,29.3,Art
+Los Angeles USD,2011,2898,Other art course,59,3809,126,25.77,28.7,30.2,Art
 Los Angeles USD,2011,2352,Dance choreography and production,3,246,8,1.29,19.9,30.8,Dance
 Los Angeles USD,2011,2353,"Dance, movement, & rhythmic fund (elem stand)",1,105,1,1,0,105,Dance
 Los Angeles USD,2011,2354,Folk/traditional dance,6,514,14,2.68,36.7,36.7,Dance
-Los Angeles USD,2011,2355,"Dance, movement, & rhythmic fund (sec standards)",19,"1,170",32,5.61,32.4,36.6,Dance
+Los Angeles USD,2011,2355,"Dance, movement, & rhythmic fund (sec standards)",19,1170,32,5.61,32.4,36.6,Dance
 Los Angeles USD,2011,2356,Advanced dance study (independent or studio),1,510,18,17.2,23.4,28.3,Dance
-Los Angeles USD,2011,2357,"Ballet, modern, jazz, world dance",35,"2,967",95,18.69,29,31.2,Dance
-Los Angeles USD,2011,2900,Theatre /play production (sec sch standards),68,"4,157",144,35.19,25.3,28.9,Drama/Theater
-Los Angeles USD,2011,2901,Theatre/creative dramatics (elem sch standards),66,"5,544",173,38.62,31.6,32,Drama/Theater
-Los Angeles USD,2011,2904,Advanced Theater,64,"4,687",138,28.55,33.1,34,Drama/Theater
+Los Angeles USD,2011,2357,"Ballet, modern, jazz, world dance",35,2967,95,18.69,29,31.2,Dance
+Los Angeles USD,2011,2900,Theatre /play production (sec sch standards),68,4157,144,35.19,25.3,28.9,Drama/Theater
+Los Angeles USD,2011,2901,Theatre/creative dramatics (elem sch standards),66,5544,173,38.62,31.6,32,Drama/Theater
+Los Angeles USD,2011,2904,Advanced Theater,64,4687,138,28.55,33.1,34,Drama/Theater
 Los Angeles USD,2011,2905,Technical theater/stagecraft,1,36,1,0.2,36,36,Drama/Theater
 Los Angeles USD,2011,2908,Media/film/video/television production,10,503,17,3.62,27.8,29.6,Drama/Theater
-Los Angeles USD,2011,2910,History/appreciation of theatre/film/video/med,16,"1,170",37,8.04,29.7,31.6,Drama/Theater
-Los Angeles USD,2011,2998,Other drama/theater course,5,"1,059",17,2.07,37.3,62.3,Drama/Theater
-Los Angeles USD,2011,2748,Any humanities course,43,"6,142",214,55.45,23.9,28.7,Humanities
-Los Angeles USD,2011,2300,Band,95,"6,656",184,34.23,29.9,36.2,Music
-Los Angeles USD,2011,2303,Orchestra/symphony,60,"2,978",83,17.26,29.8,35.9,Music
-Los Angeles USD,2011,2305,Chorus/choir/vocal ensemble,75,"6,160",171,37.41,32.4,36,Music
-Los Angeles USD,2011,2307,Music appreciation/history/literature,22,"1,175",38,9.99,30.9,30.9,Music
+Los Angeles USD,2011,2910,History/appreciation of theatre/film/video/med,16,1170,37,8.04,29.7,31.6,Drama/Theater
+Los Angeles USD,2011,2998,Other drama/theater course,5,1059,17,2.07,37.3,62.3,Drama/Theater
+Los Angeles USD,2011,2748,Any humanities course,43,6142,214,55.45,23.9,28.7,Humanities
+Los Angeles USD,2011,2300,Band,95,6656,184,34.23,29.9,36.2,Music
+Los Angeles USD,2011,2303,Orchestra/symphony,60,2978,83,17.26,29.8,35.9,Music
+Los Angeles USD,2011,2305,Chorus/choir/vocal ensemble,75,6160,171,37.41,32.4,36,Music
+Los Angeles USD,2011,2307,Music appreciation/history/literature,22,1175,38,9.99,30.9,30.9,Music
 Los Angeles USD,2011,2308,Music theory,7,785,13,1.54,18.7,60.4,Music
 Los Angeles USD,2011,2323,Computers and electronics/digital music,2,121,5,1,24.2,24.2,Music
 Los Angeles USD,2011,2324,Instrumental music lessons (elem school std),1,34,1,0.2,34,34,Music
-Los Angeles USD,2011,2325,Instrumental music lessons (sec school std),130,"14,860",438,84.81,30.1,33.9,Music
-Los Angeles USD,2011,2327,Gen/exploratory/intro to music (sec school std),34,"4,082",91,17.58,25.7,44.9,Music
+Los Angeles USD,2011,2325,Instrumental music lessons (sec school std),130,14860,438,84.81,30.1,33.9,Music
+Los Angeles USD,2011,2327,Gen/exploratory/intro to music (sec school std),34,4082,91,17.58,25.7,44.9,Music
 Los Angeles USD,2011,2328,Instrumental ensemble,21,632,26,4.68,24.3,24.3,Music
-Los Angeles USD,2011,2398,Other music course,53,"3,247",112,21.51,27.6,29,Music
+Los Angeles USD,2011,2398,Other music course,53,3247,112,21.51,27.6,29,Music
 Los Angeles USD,2011,2861,MYP Visual arts,3,321,12,1.97,26.8,26.8,Middle Years Program
 Los Angeles USD,2011,2961,MYP Drama,1,140,5,1,28,28,Middle Years Program
 Los Angeles USD,2011,2870,AP Art History,17,475,20,3.45,23.8,23.8,Art AP
@@ -2110,7 +2110,7 @@ Pasadena Unified,1998,2801,Design,2,184,6,1.2,30.7,30.7,Art
 Pasadena Unified,1998,2802,Crafts,2,133,4,0.8,33.2,33.2,Art
 Pasadena Unified,1998,2805,Photography,2,156,4,0.8,39,39,Art
 Pasadena Unified,1998,2806,Drawing,2,67,2,0.4,33.5,33.5,Art
-Pasadena Unified,1998,2810,Basic art,7,"1,225",37,7.16,33.1,33.1,Art
+Pasadena Unified,1998,2810,Basic art,7,1225,37,7.16,33.1,33.1,Art
 Pasadena Unified,1998,2817,Printmaking,1,126,4,0.8,31.5,31.5,Art
 Pasadena Unified,1998,2819,Lettering/calligraphy,1,25,1,0.25,25,25,Art
 Pasadena Unified,1998,2821,Yearbook,3,149,4,0.8,29.7,37.2,Art
@@ -2126,7 +2126,7 @@ Pasadena Unified,1998,2303,Orchestra,4,156,5,0.97,31.2,31.2,Music
 Pasadena Unified,1998,2305,Chorus/choir,2,100,2,0.6,31,50,Music
 Pasadena Unified,1998,2306,Vocal jazz/jazz choir,1,10,1,0.2,10,10,Music
 Pasadena Unified,1998,2307,Music appreciation/history/literature,4,190,6,1.11,31.7,31.7,Music
-Pasadena Unified,1998,2310,Instrumental music lessons,7,"1,022",11,3.2,25.2,92.9,Music
+Pasadena Unified,1998,2310,Instrumental music lessons,7,1022,11,3.2,25.2,92.9,Music
 Pasadena Unified,1998,2315,Classroom/general/exploratory music,2,86,2,0.8,32,43,Music
 Pasadena Unified,1998,2398,Other music course,2,60,2,0.6,0,30,Music
 Pasadena Unified,1998,2501,"Dance, all phases",2,198,5,1,31.7,39.6,Dance/Physical Education
@@ -2238,7 +2238,7 @@ Pasadena Unified,2002,2805,Photography,2,258,7,1.4,36.9,36.9,Art
 Pasadena Unified,2002,2806,Drawing,2,187,5,1,37.4,37.4,Art
 Pasadena Unified,2002,2808,Advertising design,1,38,1,0.2,38,38,Art
 Pasadena Unified,2002,2809,Cinematography,1,27,1,0.2,27,27,Art
-Pasadena Unified,2002,2810,Basic art,7,"1,436",39,7.31,33.8,36.8,Art
+Pasadena Unified,2002,2810,Basic art,7,1436,39,7.31,33.8,36.8,Art
 Pasadena Unified,2002,2817,Printmaking,1,26,1,0.17,26,26,Art
 Pasadena Unified,2002,2821,Yearbook,4,91,4,0.73,22.8,22.8,Art
 Pasadena Unified,2002,2898,Other art course,2,227,7,1.4,32.4,32.4,Art
@@ -2280,7 +2280,7 @@ Pasadena Unified,2003,2802,Crafts,2,77,3,0.52,25.7,25.7,Art
 Pasadena Unified,2003,2803,Art history,1,5,1,0.05,5,5,Art
 Pasadena Unified,2003,2805,Photography,2,232,7,1.3,33.1,33.1,Art
 Pasadena Unified,2003,2806,Drawing,1,35,1,0.16,35,35,Art
-Pasadena Unified,2003,2810,Basic art,8,"1,368",39,7.62,32.9,35.1,Art
+Pasadena Unified,2003,2810,Basic art,8,1368,39,7.62,32.9,35.1,Art
 Pasadena Unified,2003,2814,Fibers and textiles,1,30,1,0.2,30,30,Art
 Pasadena Unified,2003,2820,Computer art/graphics,1,31,1,0.2,31,31,Art
 Pasadena Unified,2003,2821,Yearbook,1,22,1,0.2,22,22,Art
@@ -2315,7 +2315,7 @@ Pasadena Unified,2004,2803,Art history,1,87,3,1,29,29,Art
 Pasadena Unified,2004,2805,Photography,1,31,1,0.2,31,31,Art
 Pasadena Unified,2004,2806,Drawing,2,20,2,0.3,10,10,Art
 Pasadena Unified,2004,2809,Cinematography,1,36,1,0.2,36,36,Art
-Pasadena Unified,2004,2810,Basic art,6,"1,212",34,6.67,35.6,35.6,Art
+Pasadena Unified,2004,2810,Basic art,6,1212,34,6.67,35.6,35.6,Art
 Pasadena Unified,2004,2814,Fibers and textiles,1,25,1,0.2,25,25,Art
 Pasadena Unified,2004,2821,Yearbook,2,33,2,0.4,16.5,16.5,Art
 Pasadena Unified,2004,2898,Other art course,5,530,18,3.6,29.4,29.4,Art
@@ -2346,7 +2346,7 @@ Pasadena Unified,2004,2380,Music (Support Teaching Assignment),1,55,1,0.9,0,55,S
 Pasadena Unified,2005,2800,Ceramics,2,248,7,1.4,35.4,35.4,Art
 Pasadena Unified,2005,2805,Photography,2,227,7,1.4,32.4,32.4,Art
 Pasadena Unified,2005,2806,Drawing,2,203,7,1.4,29,29,Art
-Pasadena Unified,2005,2810,Basic art,8,"1,020",34,6.1,30,30,Art
+Pasadena Unified,2005,2810,Basic art,8,1020,34,6.1,30,30,Art
 Pasadena Unified,2005,2817,Printmaking,1,21,1,1,21,21,Art
 Pasadena Unified,2005,2820,Computer art/graphics,2,87,6,1,14.5,14.5,Art
 Pasadena Unified,2005,2821,Yearbook,1,20,1,0.1,20,20,Art
@@ -2369,7 +2369,7 @@ Pasadena Unified,2005,2880,Art (Support Teaching Assignment),1,32,1,0.7,32,32,Su
 Pasadena Unified,2006,2800,Ceramics,2,195,5,1,39,39,Art
 Pasadena Unified,2006,2805,Photography,2,240,7,1.4,34.3,34.3,Art
 Pasadena Unified,2006,2806,Drawing,2,238,7,1.4,34,34,Art
-Pasadena Unified,2006,2810,Basic art,7,"1,038",31,6.2,31.8,33.5,Art
+Pasadena Unified,2006,2810,Basic art,7,1038,31,6.2,31.8,33.5,Art
 Pasadena Unified,2006,2817,Printmaking,1,24,1,0.2,24,24,Art
 Pasadena Unified,2006,2818,Multicultural art/folk art,1,61,1,0.5,0,61,Art
 Pasadena Unified,2006,2820,Computer art/graphics,2,151,6,1.5,25.2,25.2,Art
@@ -2460,7 +2460,7 @@ Pasadena Unified,2009,2806,Drawing,2,179,6,1.2,29.8,29.8,Art
 Pasadena Unified,2009,2816,Art appreciation (secondary school standards),1,28,1,0.2,28,28,Art
 Pasadena Unified,2009,2817,Printmaking,1,34,1,0.2,34,34,Art
 Pasadena Unified,2009,2820,Digital Art/computer art/graphics,1,63,4,1,15.8,15.8,Art
-Pasadena Unified,2009,2823,Fundamentals of Art (sec),5,"1,082",37,6.74,29.2,29.2,Art
+Pasadena Unified,2009,2823,Fundamentals of Art (sec),5,1082,37,6.74,29.2,29.2,Art
 Pasadena Unified,2009,2898,Other art course,4,285,11,2,25.9,25.9,Art
 Pasadena Unified,2009,2900,Theater/play production (sec schl standards),1,43,1,0.2,43,43,Drama/Theater
 Pasadena Unified,2009,2901,Theater/creative dramatics (elem schl standards,2,57,2,0.4,28.5,28.5,Drama/Theater
@@ -2491,7 +2491,7 @@ Pasadena Unified,2011,2805,Photography (beginning or advanced),2,220,7,1.19,31.4
 Pasadena Unified,2011,2806,Drawing,2,210,6,1.17,35,35,Art
 Pasadena Unified,2011,2817,Printmaking,1,27,1,0.17,27,27,Art
 Pasadena Unified,2011,2820,Digital art/computer art/artistic graphics,1,161,5,0.85,32.2,32.2,Art
-Pasadena Unified,2011,2823,Fundamentals of art (secondary school standards),7,"1,164",32,4.88,35.8,36.4,Art
+Pasadena Unified,2011,2823,Fundamentals of art (secondary school standards),7,1164,32,4.88,35.8,36.4,Art
 Pasadena Unified,2011,2898,Other art course,3,290,10,1.55,29,29,Art
 Pasadena Unified,2011,2352,Dance choreography and production,1,29,1,0.2,29,29,Dance
 Pasadena Unified,2011,2900,Theatre /play production (sec sch standards),6,244,8,1.36,30.5,30.5,Drama/Theater
@@ -2526,7 +2526,7 @@ Santa Monica-Malibu USD,1998,2900,Theater/play production,1,23,1,0.2,23,23,Drama
 Santa Monica-Malibu USD,1998,2901,Drama/creative dramatics,3,203,4,0.8,38.3,50.8,Drama/Theater
 Santa Monica-Malibu USD,1998,2904,Theater workshop,1,23,1,0.2,23,23,Drama/Theater
 Santa Monica-Malibu USD,1998,2908,Media arts (individual or inclusive),1,38,1,0.2,38,38,Drama/Theater
-Santa Monica-Malibu USD,1998,2748,Any humanities course,4,"2,613",93,18.97,28.4,28.1,Humanities
+Santa Monica-Malibu USD,1998,2748,Any humanities course,4,2613,93,18.97,28.4,28.1,Humanities
 Santa Monica-Malibu USD,1998,2300,Band,4,732,13,2.47,29.7,56.3,Music
 Santa Monica-Malibu USD,1998,2303,Orchestra,3,350,8,1.5,36.3,43.8,Music
 Santa Monica-Malibu USD,1998,2305,Chorus/choir,4,603,13,2.6,28.3,46.4,Music
@@ -2555,8 +2555,8 @@ Santa Monica-Malibu USD,1999,2900,Theater/play production,1,75,3,0.6,25,25,Drama
 Santa Monica-Malibu USD,1999,2901,Drama/creative dramatics,2,133,3,0.59,41,44.3,Drama/Theater
 Santa Monica-Malibu USD,1999,2904,Theater workshop,2,54,2,0.4,27,27,Drama/Theater
 Santa Monica-Malibu USD,1999,2908,Media arts (individual or inclusive),1,37,1,0.2,37,37,Drama/Theater
-Santa Monica-Malibu USD,1999,2748,Any humanities course,4,"3,114",105,20.62,29.7,29.7,Humanities
-Santa Monica-Malibu USD,1999,2300,Band,4,"1,039",19,3.84,34.5,54.7,Music
+Santa Monica-Malibu USD,1999,2748,Any humanities course,4,3114,105,20.62,29.7,29.7,Humanities
+Santa Monica-Malibu USD,1999,2300,Band,4,1039,19,3.84,34.5,54.7,Music
 Santa Monica-Malibu USD,1999,2303,Orchestra,5,653,16,2.85,30.5,40.8,Music
 Santa Monica-Malibu USD,1999,2305,Chorus/choir,4,549,12,2.27,23.8,45.8,Music
 Santa Monica-Malibu USD,1999,2308,Music theory,1,10,1,0.2,10,10,Music
@@ -2583,7 +2583,7 @@ Santa Monica-Malibu USD,2000,2900,Theater/play production,2,230,7,1.4,32.9,32.9,
 Santa Monica-Malibu USD,2000,2901,Drama/creative dramatics,1,27,1,0.18,27,27,Drama/Theater
 Santa Monica-Malibu USD,2000,2904,Theater workshop,1,12,1,0.2,12,12,Drama/Theater
 Santa Monica-Malibu USD,2000,2908,Media arts (individual or inclusive),1,67,2,0.4,33.5,33.5,Drama/Theater
-Santa Monica-Malibu USD,2000,2748,Any humanities course,4,"2,700",98,19.1,27.6,27.6,Humanities
+Santa Monica-Malibu USD,2000,2748,Any humanities course,4,2700,98,19.1,27.6,27.6,Humanities
 Santa Monica-Malibu USD,2000,2300,Band,4,706,18,3.51,34.3,39.2,Music
 Santa Monica-Malibu USD,2000,2303,Orchestra,4,433,10,1.76,35,43.3,Music
 Santa Monica-Malibu USD,2000,2305,Chorus/choir,4,629,15,2.96,34.5,41.9,Music
@@ -2611,7 +2611,7 @@ Santa Monica-Malibu USD,2001,2901,Drama/creative dramatics,2,109,3,0.6,36.3,36.3
 Santa Monica-Malibu USD,2001,2904,Theater workshop,2,43,3,0.6,14.3,14.3,Drama/Theater
 Santa Monica-Malibu USD,2001,2908,Media arts (individual or inclusive),1,50,2,0.4,25,25,Drama/Theater
 Santa Monica-Malibu USD,2001,2998,Other drama/theater course,1,54,2,0.37,27,27,Drama/Theater
-Santa Monica-Malibu USD,2001,2748,Any humanities course,4,"2,745",96,18.23,28.6,28.6,Humanities
+Santa Monica-Malibu USD,2001,2748,Any humanities course,4,2745,96,18.23,28.6,28.6,Humanities
 Santa Monica-Malibu USD,2001,2300,Band,5,823,16,3.1,35.4,51.4,Music
 Santa Monica-Malibu USD,2001,2301,Jazz band,2,39,2,0.4,19.5,19.5,Music
 Santa Monica-Malibu USD,2001,2303,Orchestra,5,433,13,2.37,27.9,33.3,Music
@@ -2642,7 +2642,7 @@ Santa Monica-Malibu USD,2002,2904,Theater workshop,2,34,2,0.39,17,17,Drama/Theat
 Santa Monica-Malibu USD,2002,2908,Media arts (individual or inclusive),1,64,2,0.4,32,32,Drama/Theater
 Santa Monica-Malibu USD,2002,2910,History/appreciation of drama/theater arts,1,19,1,0.2,19,19,Drama/Theater
 Santa Monica-Malibu USD,2002,2998,Other drama/theater course,1,23,1,0.19,23,23,Drama/Theater
-Santa Monica-Malibu USD,2002,2748,Any humanities course,5,"3,109",106,20.62,29.3,29.3,Humanities
+Santa Monica-Malibu USD,2002,2748,Any humanities course,5,3109,106,20.62,29.3,29.3,Humanities
 Santa Monica-Malibu USD,2002,2300,Band,4,674,14,2.92,33.6,48.1,Music
 Santa Monica-Malibu USD,2002,2301,Jazz band,2,38,2,0.4,19,19,Music
 Santa Monica-Malibu USD,2002,2303,Orchestra,4,448,12,2.34,29.9,37.3,Music
@@ -2674,7 +2674,7 @@ Santa Monica-Malibu USD,2003,2900,Theater/play production,1,49,2,0.4,24.5,24.5,D
 Santa Monica-Malibu USD,2003,2901,Drama/creative dramatics,4,181,5,0.99,32,36.2,Drama/Theater
 Santa Monica-Malibu USD,2003,2904,Theater workshop,2,28,2,0.39,14,14,Drama/Theater
 Santa Monica-Malibu USD,2003,2908,Media arts (individual or inclusive),1,78,2,0.4,39,39,Drama/Theater
-Santa Monica-Malibu USD,2003,2748,Any humanities course,4,"2,771",92,17.48,29.7,30.1,Humanities
+Santa Monica-Malibu USD,2003,2748,Any humanities course,4,2771,92,17.48,29.7,30.1,Humanities
 Santa Monica-Malibu USD,2003,2300,Band,5,998,28,5.48,25.5,35.6,Music
 Santa Monica-Malibu USD,2003,2301,Jazz band,1,23,1,0.2,23,23,Music
 Santa Monica-Malibu USD,2003,2303,Orchestra,5,810,24,5.01,26.3,33.8,Music
@@ -2703,8 +2703,8 @@ Santa Monica-Malibu USD,2004,2900,Theater/play production,1,85,4,0.8,21.2,21.2,D
 Santa Monica-Malibu USD,2004,2901,Drama/creative dramatics,2,78,3,0.58,26,26,Drama/Theater
 Santa Monica-Malibu USD,2004,2904,Theater workshop,1,17,1,0.2,17,17,Drama/Theater
 Santa Monica-Malibu USD,2004,2998,Other drama/theater course,1,11,1,0.2,11,11,Drama/Theater
-Santa Monica-Malibu USD,2004,2748,Any humanities course,5,"2,903",96,19.56,30.2,30.2,Humanities
-Santa Monica-Malibu USD,2004,2300,Band,5,"1,101",24,4.9,35.1,45.9,Music
+Santa Monica-Malibu USD,2004,2748,Any humanities course,5,2903,96,19.56,30.2,30.2,Humanities
+Santa Monica-Malibu USD,2004,2300,Band,5,1101,24,4.9,35.1,45.9,Music
 Santa Monica-Malibu USD,2004,2301,Jazz band,2,70,2,0.4,35,35,Music
 Santa Monica-Malibu USD,2004,2303,Orchestra,5,567,16,3.11,26.6,35.4,Music
 Santa Monica-Malibu USD,2004,2305,Chorus/choir,4,766,17,3.36,27.9,45.1,Music
@@ -2734,7 +2734,7 @@ Santa Monica-Malibu USD,2005,2904,Theater workshop,1,29,1,0.2,29,29,Drama/Theate
 Santa Monica-Malibu USD,2005,2906,Television production,1,22,1,0.18,22,22,Drama/Theater
 Santa Monica-Malibu USD,2005,2908,Media arts (individual or inclusive),1,32,1,0.2,32,32,Drama/Theater
 Santa Monica-Malibu USD,2005,2998,Other drama/theater course,1,21,1,0.2,21,21,Drama/Theater
-Santa Monica-Malibu USD,2005,2748,Any humanities course,4,"2,093",69,20.88,29.8,30.3,Humanities
+Santa Monica-Malibu USD,2005,2748,Any humanities course,4,2093,69,20.88,29.8,30.3,Humanities
 Santa Monica-Malibu USD,2005,2300,Band,5,730,21,4.14,26.4,34.8,Music
 Santa Monica-Malibu USD,2005,2301,Jazz band,1,20,1,0.2,20,20,Music
 Santa Monica-Malibu USD,2005,2303,Orchestra,5,597,16,3.14,27.8,37.3,Music
@@ -2762,12 +2762,12 @@ Santa Monica-Malibu USD,2006,2901,Drama/creative dramatics,1,27,1,0.22,27,27,Dra
 Santa Monica-Malibu USD,2006,2904,Theater workshop,2,131,4,1,32.8,32.8,Drama/Theater
 Santa Monica-Malibu USD,2006,2906,Television production,1,18,1,0.18,18,18,Drama/Theater
 Santa Monica-Malibu USD,2006,2908,Media arts (individual or inclusive),2,86,3,0.6,28.7,28.7,Drama/Theater
-Santa Monica-Malibu USD,2006,2748,Any humanities course,4,"2,315",81,22.54,28.6,28.6,Humanities
+Santa Monica-Malibu USD,2006,2748,Any humanities course,4,2315,81,22.54,28.6,28.6,Humanities
 Santa Monica-Malibu USD,2006,2300,Band,4,601,15,2.86,29.8,40.1,Music
 Santa Monica-Malibu USD,2006,2301,Jazz band,1,28,1,0.2,28,28,Music
 Santa Monica-Malibu USD,2006,2303,Orchestra,4,594,17,3.22,26.2,34.9,Music
 Santa Monica-Malibu USD,2006,2305,Chorus/choir,4,683,16,3.02,31.9,42.7,Music
-Santa Monica-Malibu USD,2006,2310,Instrumental music lessons,3,"1,340",32,6.94,22.9,41.9,Music
+Santa Monica-Malibu USD,2006,2310,Instrumental music lessons,3,1340,32,6.94,22.9,41.9,Music
 Santa Monica-Malibu USD,2006,2314,Chamber/madrigal/vocal ensemble,1,55,2,0.4,27.5,27.5,Music
 Santa Monica-Malibu USD,2006,2315,Classroom/general/exploratory music,1,38,2,0.36,19,19,Music
 Santa Monica-Malibu USD,2006,2398,Other music course,1,30,1,0.2,30,30,Music
@@ -2792,7 +2792,7 @@ Santa Monica-Malibu USD,2007,2900,Theater/play production,2,78,3,0.6,26,26,Drama
 Santa Monica-Malibu USD,2007,2901,Drama/creative dramatics,2,105,3,0.58,35,35,Drama/Theater
 Santa Monica-Malibu USD,2007,2908,Media arts (individual or inclusive),3,102,4,0.78,25.5,25.5,Drama/Theater
 Santa Monica-Malibu USD,2007,2998,Other drama/theater course,1,35,2,0.36,17.5,17.5,Drama/Theater
-Santa Monica-Malibu USD,2007,2748,Any humanities course,4,"2,076",70,21.13,29.7,29.7,Humanities
+Santa Monica-Malibu USD,2007,2748,Any humanities course,4,2076,70,21.13,29.7,29.7,Humanities
 Santa Monica-Malibu USD,2007,2300,Band,4,653,16,3.04,31.2,40.8,Music
 Santa Monica-Malibu USD,2007,2303,Orchestra,4,489,14,2.66,28.5,34.9,Music
 Santa Monica-Malibu USD,2007,2305,Chorus/choir,4,626,16,3.02,27.4,39.1,Music
@@ -2821,7 +2821,7 @@ Santa Monica-Malibu USD,2008,2901,Theater/creative dramatics (elem schl standard
 Santa Monica-Malibu USD,2008,2908,Media/film/video/televsion production,3,103,4,0.78,25.8,25.8,Drama/Theater
 Santa Monica-Malibu USD,2008,2910,History/appreciation of drama/theater arts,1,16,1,0.17,16,16,Drama/Theater
 Santa Monica-Malibu USD,2008,2998,Other drama/theater course,3,74,4,0.62,18.5,18.5,Drama/Theater
-Santa Monica-Malibu USD,2008,2748,Any humanities course,4,"2,165",73,20.08,29.7,29.7,Humanities
+Santa Monica-Malibu USD,2008,2748,Any humanities course,4,2165,73,20.08,29.7,29.7,Humanities
 Santa Monica-Malibu USD,2008,2300,Band,4,747,18,3.36,32.5,41.5,Music
 Santa Monica-Malibu USD,2008,2303,Orchestra/symphony,4,589,18,3.42,29.7,32.7,Music
 Santa Monica-Malibu USD,2008,2305,Chorus/choir,4,602,17,3.22,29.8,35.4,Music
@@ -2833,7 +2833,7 @@ Santa Monica-Malibu USD,2008,2870,AP Art History,1,24,1,0.2,24,24,Art AP
 Santa Monica-Malibu USD,2008,2874,AP Studio Art: Drawing,2,81,3,0.6,27,27,Art AP
 Santa Monica-Malibu USD,2008,2370,AP Music theory,1,9,1,0.2,9,9,Music AP
 Santa Monica-Malibu USD,2009,3016,"SE Secondary arts (art, music, dance, drama)",1,9,2,0.34,4.5,4.5,Special Education
-Santa Monica-Malibu USD,2009,2380,STAE Music,1,"2,373",24,10,26.8,98.9,Supporting Teaching (Elem)
+Santa Monica-Malibu USD,2009,2380,STAE Music,1,2373,24,10,26.8,98.9,Supporting Teaching (Elem)
 Santa Monica-Malibu USD,2009,2800,Ceramics,2,210,8,1.6,26.2,26.2,Art
 Santa Monica-Malibu USD,2009,2802,Crafts,1,49,2,0.36,24.5,24.5,Art
 Santa Monica-Malibu USD,2009,2806,Drawing,2,181,8,1.6,22.6,22.6,Art
@@ -2845,7 +2845,7 @@ Santa Monica-Malibu USD,2009,2355,"Dance, movement and rhythmic activities (sec)
 Santa Monica-Malibu USD,2009,2900,Theater/play production (sec schl standards),2,92,3,0.6,30.7,30.7,Drama/Theater
 Santa Monica-Malibu USD,2009,2908,Media/film/video/televsion production,2,87,3,0.58,29,29,Drama/Theater
 Santa Monica-Malibu USD,2009,2910,History/appreciation of drama/theater arts,1,8,1,0.16,8,8,Drama/Theater
-Santa Monica-Malibu USD,2009,2748,Any humanities course,4,"2,138",72,19.76,29.7,29.7,Humanities
+Santa Monica-Malibu USD,2009,2748,Any humanities course,4,2138,72,19.76,29.7,29.7,Humanities
 Santa Monica-Malibu USD,2009,2300,Band,4,721,19,3.62,31.2,37.9,Music
 Santa Monica-Malibu USD,2009,2303,Orchestra/symphony,4,593,20,3.82,28.2,29.6,Music
 Santa Monica-Malibu USD,2009,2305,Chorus/choir,4,607,17,3.21,27.9,35.7,Music
@@ -2875,4 +2875,3 @@ Santa Monica-Malibu USD,2011,2875,AP Studio art: two dimensional,1,25,4,0.44,6.2
 Santa Monica-Malibu USD,2011,2876,AP Studio art: three dimensional,1,7,1,0.14,7,7,Art AP
 Santa Monica-Malibu USD,2011,5527,Stage technology,1,23,3,0.51,7.7,7.7,"Arts, Media and Entertainment "
 Santa Monica-Malibu USD,2011,5769,"Other arts, media, and entertainment",1,20,2,0.28,10,10,"Arts, Media and Entertainment "
-,,,,,,,,,,

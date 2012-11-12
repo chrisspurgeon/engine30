@@ -33,11 +33,6 @@
 		</url>
 	</provider>
 
-<!-- Potential concepts
-		School_District, Year, Course_Code, Course_Name, Number_of_Schools, Total_Course_Enrollment, 
-		Number_of_Classes, Number_FTE_Teachers, Average_Class_Size_filtered, Average_Class_Size, Subject_Area
--->
-
 	<!-- CONCEPTS -->
 		<concepts>
 			<concept id="School_District">
@@ -55,6 +50,7 @@
 					</name>
 				</info>
 				<type ref="date" />
+				<table ref="years_table" />
 			</concept><!-- year -->
 			<concept id="Course_Code">
 				<info>
@@ -71,6 +67,7 @@
 					</name>
 				</info>
 				<type ref="string" />
+				<table ref="courses_table" />
 			</concept><!-- course name -->
 			<concept id="Number_of_Schools">
 				<info>
@@ -140,10 +137,12 @@
 		<!-- SLICES -->
 		<slices>
 			<slice id="simple">
-				<dimension concept="School_District" />
+<!--				<dimension concept="School_District" /> -->
 				<dimension concept="Year" />
+				<dimension concept="Course_Name" />
 				<metric concept="Number_FTE_Teachers" />
-				<table ref="master_school_table" />
+<!--				<table ref="master_school_table" /> -->
+				<table ref="burbank_table" />
 			</slice><!-- simple slice -->
 		</slices><!-- END OF SLICES -->
 		
@@ -167,6 +166,40 @@
 					<file format="csv" encoding="utf-8">Master_School_data_spreadsheet.csv</file>
 				</data>
 			</table><!-- master school table -->
+			<table id="burbank_table">
+				<column id="School_District" type="string" />
+				<column id="Year" type="date" format="yyyy" />
+				<column id="Course_Code" type="string" />
+				<column id="Course_Name" type="string" />
+				<column id="Number_of_Schools" type="integer" />
+				<column id="Total_Course_Enrollment" type="integer" />
+				<column id="Number_of_Classes" type="integer" />
+				<column id="Number_FTE_Teachers" type="float" />
+				<column id="Average_Class_Size_filtered" type="float" />
+				<column id="Average_Class_Size" type="float" />
+				<column id="Subject_Area" type="string" />
+				<data>
+					<file format="csv" encoding="utf-8">burbank.csv</file>
+				</data>
+			</table><!-- Burbank school district table -->
+
+			<table id="years_table">
+				<column id="Year" type="date" format="yyyy" />
+				<column id="Year_Name" type="string" />
+				<data>
+					<file format="csv" encoding="utf-8">years.csv</file>
+				</data>
+			</table><!-- years table -->
+
+			<table id="courses_table">
+				<column id="Course_Code" type="integer" />
+				<column id="Course_Name" type="string" />
+				<column id="Subject_Area" type="string" />
+				<data>
+					<file format="csv" encoding="utf-8">courses.csv</file>
+				</data>
+			</table><!-- courses table -->
+
 		</tables><!-- END OF TABLES -->
 		
 
