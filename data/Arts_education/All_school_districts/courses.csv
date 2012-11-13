@@ -40,7 +40,6 @@ Course_Code,Course_Name,Subject_Area
 2501,"Dance, all phases",Dance/Physical Education
 2748,Any humanities course,Humanities
 2768,International Baccalaureate Theory of knowledge,International Baccalaureate (Hum)
-2800,Ceramics (beginning and advanced),Art
 2800,Ceramics,Art
 2801,Design,Art
 2802,Crafts,Art
@@ -68,7 +67,6 @@ Course_Code,Course_Name,Subject_Area
 2824,"Secondary arts-art, music, dance, drama (thro",Independent Study
 2860,International Baccalaureate Art/Design,International Baccalaureate
 2861,MYP Visual Arts,Middle Years Program
-2870,Advanced placement History of art,Art AP
 2870,AP Art History,Art AP
 2871,Advanced placement Studio art gen. portfolio,Art AP
 2872,Advanced placement Studio art draw. portfolio,Art AP
@@ -79,7 +77,7 @@ Course_Code,Course_Name,Subject_Area
 2880,Art (Support Teaching Assignment),Supporting Teaching
 2898,Other art course,Art
 2900,Theater/play production (sec sch standards),Drama/Theater
-2901,Theatre/creative dramatics (elem sch standards),Drama/Theater
+2901,Theatre/creative dramatics,Drama/Theater
 2904,Advanced Theater,Drama/Theater
 2905,Technical theater/stagecraft,Drama/Theater
 2906,TV production,Drama/Theater
@@ -117,7 +115,6 @@ Course_Code,Course_Name,Subject_Area
 5756,"Composition, make-up, and typesetting","Visual Comm, Graphics"
 5757,Desktop publishing,"Visual Comm, Graphics"
 5759,"Photography, lithography, and platemaking","Visual Comm, Graphics"
-5759,Photo production and technology,"Arts, Media and Entertainment"
 5760,Photographic laboratory and darkroom,"Visual Comm, Graphics"
 5761,Printing press operations,"Visual Comm, Graphics"
 5762,Silk screen making and printing,"Visual Comm, Graphics"

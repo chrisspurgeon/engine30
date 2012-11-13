@@ -14,7 +14,7 @@
 
 	<info>
 		<name>
-			<value>Los Angeles area public school arts classes</value>
+			<value>Los Angeles public school arts classes</value>
 		</name>
 		<description>
 			<value>An examination of arts classes in Los Angeles area school districts</value>
@@ -60,7 +60,8 @@
 					</name>
 				</info>
 				<type ref="integer" />
-			</concept><!-- course course -->
+				<table ref="courses_table" />
+			</concept><!-- course code -->
 			<concept id="Course_Name">
 				<info>
 					<name>
@@ -68,7 +69,6 @@
 					</name>
 				</info>
 				<type ref="string" />
-				<table ref="courses_table" />
 			</concept><!-- course name -->
 			<concept id="Number_FTE_Teachers">
 				<info>
@@ -94,7 +94,7 @@
 			<slice id="courses">
 				<dimension concept="time:year" />
 				<dimension concept="School_District_Name" />
-				<dimension concept="Course_Name" />
+				<dimension concept="Course_Code" />
 				<metric concept="Number_FTE_Teachers" />
 				<metric concept="Total_Course_Enrollment" />
 				<table ref="master_school_table" />
@@ -109,7 +109,6 @@
 				<column id="year" type="date" format="yyyy" />
 				<column id="School_District_Name" type="string" />
 				<column id="Course_Code" type="integer" />
-				<column id="Course_Name" type="string" />
 				<column id="Number_of_Schools" type="integer" />
 				<column id="Number_of_Classes" type="integer" />
 				<column id="Total_Course_Enrollment" type="integer" />
@@ -118,7 +117,7 @@
 				<column id="Average_Class_Size" type="float" />
 				<column id="Subject_Area" type="string" />
 				<data>
-					<file format="csv" encoding="utf-8">Master_School_data.csv</file>
+					<file format="csv" encoding="utf-8">Master_School_data2.csv</file>
 				</data>
 			</table><!-- Burbank school district table -->
 
