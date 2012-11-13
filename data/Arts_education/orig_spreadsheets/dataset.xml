@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dspl 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://schemas.google.com/dspl/2010"
+	xmlns:time="http://www.google.com/publicdata/dataset/google/time"
+	xmlns:geo="http://www.google.com/publicdata/dataset/google/geo"
+	xmlns:entity="http://www.google.com/publicdata/dataset/google/entity"
+	xmlns:quantity="http://www.google.com/publicdata/dataset/google/quantity">
+
+	<import namespace="http://www.google.com/publicdata/dataset/google/time"/>
+	<import namespace="http://www.google.com/publicdata/dataset/google/entity"/>
+	<import namespace="http://www.google.com/publicdata/dataset/google/geo"/>
+	<import namespace="http://www.google.com/publicdata/dataset/google/quantity"/>
+
+	<info>
+		<name>
+			<value>Burbank school district arts programs</value>
+		</name>
+		<description>
+			<value>An examination of arts in the Burbank Unified school district</value>
+		</description>
+		<url>
+			<value>http://www.engine30.org/</value>
+		</url>
+	</info>
+
+	<provider>
+		<name>
+			<value>Various</value>
+		</name>
+		<url>
+			<value>http://www.engine30.org</value>
+		</url>
+	</provider>
+
+	<!-- CONCEPTS -->
+		<concepts>
+			<concept id="year">
+				<info>
+					<name>
+						<value>Year</value>
+					</name>
+				</info>
+				<type ref="date" />
+				<table ref="years_table" />
+			</concept><!-- year -->
+			<concept id="Course_Name">
+				<info>
+					<name>
+						<value>Course Name</value>
+					</name>
+				</info>
+				<type ref="string" />
+				<table ref="courses_table" />
+			</concept><!-- course name -->
+			<concept id="Number_FTE_Teachers">
+				<info>
+					<name>
+						<value>Number of Full-time Teachers</value>
+					</name>
+				</info>
+				<type ref="float" />
+			</concept><!-- Number of Full-time Teachers -->
+			<concept id="Total_Course_Enrollment">
+				<info>
+					<name>
+						<value>Number of students in a specific course</value>
+					</name>
+				</info>
+				<type ref="integer" />
+			</concept><!-- Total course enrollment -->
+		</concepts><!-- END OF COMMENTS -->
+		
+		
+		<!-- SLICES -->
+		<slices>
+			<slice id="FTE_teachers">
+				<dimension concept="time:year" />
+				<dimension concept="Course_Name" />
+				<metric concept="Number_FTE_Teachers" />
+				<metric concept="Total_Course_Enrollment" />
+				<table ref="burbank_table" />
+			</slice><!-- FTE teachers slice -->
+		</slices><!-- END OF SLICES -->
+		
+		
+		
+		<!-- TABLES -->
+		<tables>
+			<table id="burbank_table">
+				<column id="year" type="date" format="yyyy" />
+				<column id="Course_Name" type="string" />
+				<column id="Number_of_Schools" type="integer" />
+				<column id="Number_of_Classes" type="integer" />
+				<column id="Total_Course_Enrollment" type="integer" />
+				<column id="Number_FTE_Teachers" type="float" />
+				<column id="Average_Class_Size_filtered" type="float" />
+				<column id="Average_Class_Size" type="float" />
+				<column id="Subject_Area" type="string" />
+				<data>
+					<file format="csv" encoding="utf-8">burbank.csv</file>
+				</data>
+			</table><!-- Burbank school district table -->
+
+			<table id="years_table">
+				<column id="year" type="date" format="yyyy" />
+				<column id="Year_Name" type="string" />
+				<data>
+					<file format="csv" encoding="utf-8">years.csv</file>
+				</data>
+			</table><!-- years table -->
+
+			<table id="courses_table">
+				<column id="Course_Code" type="integer" />
+				<column id="Course_Name" type="string" />
+				<column id="Subject_Area" type="string" />
+				<data>
+					<file format="csv" encoding="utf-8">courses.csv</file>
+				</data>
+			</table><!-- courses table -->
+
+		</tables><!-- END OF TABLES -->
+		
+
+
+</dspl>
