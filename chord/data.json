@@ -1,0 +1,58 @@
+[
+
+
+{"name":"flare.fellow.Barbara Bogaev.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x", "flare.fellow.Meredith Broussard.x", "flare.fellow.Joanne McNeil.x", "flare.student.Imade Nibokun.x", "flare.fellow.Suzanne Wu.x"]},
+{"name":"flare.fellow.Meredith Broussard.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.fellow.Brendan Bruce.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.fellow.Marissa Gluck.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.fellow.Sean Kelly.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.fellow.Miles Lightwood.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.fellow.Enrique Limón.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.fellow.Joanne McNeil.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.fellow.Anne Maria Nicholson.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.fellow.Paul Pierson.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.fellow.Chris Spurgeon.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x", "flare.fellow.Meredith Broussard.x", "flare.fellow.Logan Young.x","flare.faculty.Sasha Anawalt.x","flare.faculty.Douglas McLennan.x"]},
+{"name":"flare.fellow.Suzi Steffen.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.fellow.Mark Taylor.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.fellow.Suzanne Wu.x","size":10,"imports":[]},
+{"name":"flare.fellow.Logan Young.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+
+{"name":"flare.student.Chima Benson.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.student.Gabrielle Canon.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.student.Chie Davis.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.student.Samantha 'Max' de Leve.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.student.Leila Dougan.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.student.Sarah Fisch.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.student.Melissa Kaplan.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.student.Brian Lauritzen.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.student.Erin Leiker.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.student.Helena Liikanen-Renger.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.student.amantha London.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.student.Sean Malone.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.student.Robin Migdol.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.student.Imade Nibokun.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.student.Ricky O'Bannon.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.student.David Campbell West.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+
+
+{"name":"flare.faculty.Sasha Anawalt.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.faculty.Edward Lifson.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.faculty.Douglas McLennan.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+
+
+{"name":"flare.media.Tami Abdollah.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.media.x.Juan Devis.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.media.x.Reed Johnson.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.media.x.Laurie Ochoa.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.media.x.Melanie Sill.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]},
+{"name":"flare.media.x.Drew Tewksbury.x","size":10,"imports":["flare.fellow.Barbara Bogaev.x"]}
+
+
+
+
+
+
+
+
+
+]
