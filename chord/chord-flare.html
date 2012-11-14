@@ -47,6 +47,9 @@ d3.json("data.json", function(imports) {
 
   // Returns the Flare package name for the given class name.
   function name(name) {
+	console.log(name);
+	var parts = name.split(".");
+	console.log(parts[2]);
     return name.substring(0, name.lastIndexOf(".")).substring(6);
   }
 
@@ -91,7 +94,9 @@ d3.json("data.json", function(imports) {
             + "translate(" + (innerRadius + 26) + ")"
             + (d.angle > Math.PI ? "rotate(180)" : "");
       })
-      .text(function(d) { return nameByIndex[d.index]; });
+      .text(function(d) { 
+		var parts = nameByIndex[d.index].split(".");
+		return parts[1]; });
 
   svg.selectAll("path.chord")
       .data(chord.chords)
