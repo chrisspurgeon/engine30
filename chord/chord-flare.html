@@ -44,6 +44,13 @@ d3.json("data.json", function(imports) {
       nameByIndex = {},
       matrix = [],
       n = 0;
+		for (var i = 0; i < imports.length; i++) {
+			imports[i].name = "flare." + imports[i].name + ".x";
+			for (var j = 0; j < imports[i].imports.length; j++) {
+				imports[i].imports[j] = "flare." + imports[i].imports[j] + ".x";
+			}
+			
+		}
 
   // Returns the Flare package name for the given class name.
   function name(name) {

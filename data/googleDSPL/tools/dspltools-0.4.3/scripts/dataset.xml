@@ -36,228 +36,543 @@
     </url>
   </provider>
   <concepts>
-    <concept id="School_District">
+    <concept id="PRIM_STATE">
       <info>
         <name>
           <value xml:lang="en">
-            ** INSERT NAME for concept: School_District **
+            ** INSERT NAME for concept: PRIM_STATE **
           </value>
         </name>
         <description>
           <value xml:lang="en">
-            ** INSERT DESCRIPTION for concept: School_District **
+            ** INSERT DESCRIPTION for concept: PRIM_STATE **
           </value>
         </description>
       </info>
       <type ref="string"/>
-      <table ref="School_District_table"/>
+      <table ref="PRIM_STATE_table"/>
     </concept>
-    <concept id="Year">
+    <concept id="AREA">
       <info>
         <name>
           <value xml:lang="en">
-            ** INSERT NAME for concept: Year **
+            ** INSERT NAME for concept: AREA **
           </value>
         </name>
         <description>
           <value xml:lang="en">
-            ** INSERT DESCRIPTION for concept: Year **
+            ** INSERT DESCRIPTION for concept: AREA **
           </value>
         </description>
       </info>
       <type ref="integer"/>
     </concept>
-    <concept id="Course_Code">
+    <concept id="AREA_NAME">
       <info>
         <name>
           <value xml:lang="en">
-            ** INSERT NAME for concept: Course_Code **
+            ** INSERT NAME for concept: AREA_NAME **
           </value>
         </name>
         <description>
           <value xml:lang="en">
-            ** INSERT DESCRIPTION for concept: Course_Code **
-          </value>
-        </description>
-      </info>
-      <type ref="integer"/>
-    </concept>
-    <concept id="Course_Name">
-      <info>
-        <name>
-          <value xml:lang="en">
-            ** INSERT NAME for concept: Course_Name **
-          </value>
-        </name>
-        <description>
-          <value xml:lang="en">
-            ** INSERT DESCRIPTION for concept: Course_Name **
+            ** INSERT DESCRIPTION for concept: AREA_NAME **
           </value>
         </description>
       </info>
       <type ref="string"/>
-      <table ref="Course_Name_table"/>
+      <table ref="AREA_NAME_table"/>
     </concept>
-    <concept id="Number_of_Schools">
+    <concept id="OCC_TITLE">
       <info>
         <name>
           <value xml:lang="en">
-            ** INSERT NAME for concept: Number_of_Schools **
+            ** INSERT NAME for concept: OCC_TITLE **
           </value>
         </name>
         <description>
           <value xml:lang="en">
-            ** INSERT DESCRIPTION for concept: Number_of_Schools **
+            ** INSERT DESCRIPTION for concept: OCC_TITLE **
           </value>
         </description>
       </info>
-      <type ref="integer"/>
+      <type ref="string"/>
+      <table ref="OCC_TITLE_table"/>
     </concept>
-    <concept id="Total_Course_Enrollment">
+    <concept id="GROUP">
       <info>
         <name>
           <value xml:lang="en">
-            ** INSERT NAME for concept: Total_Course_Enrollment **
+            ** INSERT NAME for concept: GROUP **
           </value>
         </name>
         <description>
           <value xml:lang="en">
-            ** INSERT DESCRIPTION for concept: Total_Course_Enrollment **
+            ** INSERT DESCRIPTION for concept: GROUP **
           </value>
         </description>
       </info>
-      <type ref="integer"/>
+      <type ref="string"/>
+      <table ref="GROUP_table"/>
     </concept>
-    <concept id="Number_of_Classes">
+    <concept id="TOT_EMP">
       <info>
         <name>
           <value xml:lang="en">
-            ** INSERT NAME for concept: Number_of_Classes **
+            ** INSERT NAME for concept: TOT_EMP **
           </value>
         </name>
         <description>
           <value xml:lang="en">
-            ** INSERT DESCRIPTION for concept: Number_of_Classes **
+            ** INSERT DESCRIPTION for concept: TOT_EMP **
           </value>
         </description>
       </info>
-      <type ref="integer"/>
+      <type ref="string"/>
+      <table ref="TOT_EMP_table"/>
     </concept>
-    <concept id="Number_FTE_Teachers">
+    <concept id="EMP_PRSE">
       <info>
         <name>
           <value xml:lang="en">
-            ** INSERT NAME for concept: Number_FTE_Teachers **
+            ** INSERT NAME for concept: EMP_PRSE **
           </value>
         </name>
         <description>
           <value xml:lang="en">
-            ** INSERT DESCRIPTION for concept: Number_FTE_Teachers **
+            ** INSERT DESCRIPTION for concept: EMP_PRSE **
           </value>
         </description>
       </info>
       <type ref="float"/>
     </concept>
-    <concept id="Average_Class_Size_filtered">
+    <concept id="JOBS_1000">
       <info>
         <name>
           <value xml:lang="en">
-            ** INSERT NAME for concept: Average_Class_Size_filtered **
+            ** INSERT NAME for concept: JOBS_1000 **
           </value>
         </name>
         <description>
           <value xml:lang="en">
-            ** INSERT DESCRIPTION for concept: Average_Class_Size_filtered **
+            ** INSERT DESCRIPTION for concept: JOBS_1000 **
           </value>
         </description>
       </info>
       <type ref="float"/>
     </concept>
-    <concept id="Average_Class_Size">
+    <concept id="LOC_QUOTIENT">
       <info>
         <name>
           <value xml:lang="en">
-            ** INSERT NAME for concept: Average_Class_Size **
+            ** INSERT NAME for concept: LOC_QUOTIENT **
           </value>
         </name>
         <description>
           <value xml:lang="en">
-            ** INSERT DESCRIPTION for concept: Average_Class_Size **
+            ** INSERT DESCRIPTION for concept: LOC_QUOTIENT **
           </value>
         </description>
       </info>
       <type ref="float"/>
     </concept>
-    <concept id="Subject_Area">
+    <concept id="H_MEAN">
       <info>
         <name>
           <value xml:lang="en">
-            ** INSERT NAME for concept: Subject_Area **
+            ** INSERT NAME for concept: H_MEAN **
           </value>
         </name>
         <description>
           <value xml:lang="en">
-            ** INSERT DESCRIPTION for concept: Subject_Area **
+            ** INSERT DESCRIPTION for concept: H_MEAN **
+          </value>
+        </description>
+      </info>
+      <type ref="float"/>
+    </concept>
+    <concept id="A_MEAN">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: A_MEAN **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: A_MEAN **
           </value>
         </description>
       </info>
       <type ref="string"/>
-      <table ref="Subject_Area_table"/>
+      <table ref="A_MEAN_table"/>
+    </concept>
+    <concept id="MEAN_PRSE">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: MEAN_PRSE **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: MEAN_PRSE **
+          </value>
+        </description>
+      </info>
+      <type ref="float"/>
+    </concept>
+    <concept id="H_PCT10">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: H_PCT10 **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: H_PCT10 **
+          </value>
+        </description>
+      </info>
+      <type ref="float"/>
+    </concept>
+    <concept id="H_PCT25">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: H_PCT25 **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: H_PCT25 **
+          </value>
+        </description>
+      </info>
+      <type ref="float"/>
+    </concept>
+    <concept id="H_MEDIAN">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: H_MEDIAN **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: H_MEDIAN **
+          </value>
+        </description>
+      </info>
+      <type ref="float"/>
+    </concept>
+    <concept id="H_PCT75">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: H_PCT75 **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: H_PCT75 **
+          </value>
+        </description>
+      </info>
+      <type ref="float"/>
+    </concept>
+    <concept id="H_PCT90">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: H_PCT90 **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: H_PCT90 **
+          </value>
+        </description>
+      </info>
+      <type ref="float"/>
+    </concept>
+    <concept id="A_PCT10">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: A_PCT10 **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: A_PCT10 **
+          </value>
+        </description>
+      </info>
+      <type ref="string"/>
+      <table ref="A_PCT10_table"/>
+    </concept>
+    <concept id="A_PCT25">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: A_PCT25 **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: A_PCT25 **
+          </value>
+        </description>
+      </info>
+      <type ref="string"/>
+      <table ref="A_PCT25_table"/>
+    </concept>
+    <concept id="A_MEDIAN">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: A_MEDIAN **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: A_MEDIAN **
+          </value>
+        </description>
+      </info>
+      <type ref="string"/>
+      <table ref="A_MEDIAN_table"/>
+    </concept>
+    <concept id="A_PCT75">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: A_PCT75 **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: A_PCT75 **
+          </value>
+        </description>
+      </info>
+      <type ref="string"/>
+      <table ref="A_PCT75_table"/>
+    </concept>
+    <concept id="A_PCT90">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: A_PCT90 **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: A_PCT90 **
+          </value>
+        </description>
+      </info>
+      <type ref="string"/>
+      <table ref="A_PCT90_table"/>
+    </concept>
+    <concept id="ANNUAL">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: ANNUAL **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: ANNUAL **
+          </value>
+        </description>
+      </info>
+      <type ref="string"/>
+      <table ref="ANNUAL_table"/>
+    </concept>
+    <concept id="HOURLY">
+      <info>
+        <name>
+          <value xml:lang="en">
+            ** INSERT NAME for concept: HOURLY **
+          </value>
+        </name>
+        <description>
+          <value xml:lang="en">
+            ** INSERT DESCRIPTION for concept: HOURLY **
+          </value>
+        </description>
+      </info>
+      <type ref="string"/>
+      <table ref="HOURLY_table"/>
     </concept>
   </concepts>
   <slices>
     <slice id="slice_0">
-      <dimension concept="School_District"/>
-      <dimension concept="Course_Name"/>
-      <dimension concept="Subject_Area"/>
-      <metric concept="Year"/>
-      <metric concept="Course_Code"/>
-      <metric concept="Number_of_Schools"/>
-      <metric concept="Total_Course_Enrollment"/>
-      <metric concept="Number_of_Classes"/>
-      <metric concept="Number_FTE_Teachers"/>
-      <metric concept="Average_Class_Size_filtered"/>
-      <metric concept="Average_Class_Size"/>
-      <table ref="slice_0_table"/>
+      <dimension concept="PRIM_STATE"/>
+      <dimension concept="AREA_NAME"/>
+      <dimension concept="time:month"/>
+      <dimension concept="OCC_TITLE"/>
+      <dimension concept="GROUP"/>
+      <dimension concept="TOT_EMP"/>
+      <dimension concept="A_MEAN"/>
+      <dimension concept="A_PCT10"/>
+      <dimension concept="A_PCT25"/>
+      <dimension concept="A_MEDIAN"/>
+      <dimension concept="A_PCT75"/>
+      <dimension concept="A_PCT90"/>
+      <dimension concept="ANNUAL"/>
+      <dimension concept="HOURLY"/>
+      <metric concept="AREA"/>
+      <metric concept="EMP_PRSE"/>
+      <metric concept="JOBS_1000"/>
+      <metric concept="LOC_QUOTIENT"/>
+      <metric concept="H_MEAN"/>
+      <metric concept="MEAN_PRSE"/>
+      <metric concept="H_PCT10"/>
+      <metric concept="H_PCT25"/>
+      <metric concept="H_MEDIAN"/>
+      <metric concept="H_PCT75"/>
+      <metric concept="H_PCT90"/>
+      <table ref="slice_0_table">
+        <mapDimension concept="time:month" toColumn="OCC_CODE"/>
+      </table>
     </slice>
   </slices>
   <tables>
-    <table id="School_District_table">
-      <column id="School_District" type="string"/>
+    <table id="PRIM_STATE_table">
+      <column id="PRIM_STATE" type="string"/>
       <data>
         <file encoding="utf-8" format="csv">
-          School_District_table.csv
+          PRIM_STATE_table.csv
         </file>
       </data>
     </table>
-    <table id="Course_Name_table">
-      <column id="Course_Name" type="string"/>
+    <table id="AREA_NAME_table">
+      <column id="AREA_NAME" type="string"/>
       <data>
         <file encoding="utf-8" format="csv">
-          Course_Name_table.csv
+          AREA_NAME_table.csv
         </file>
       </data>
     </table>
-    <table id="Subject_Area_table">
-      <column id="Subject_Area" type="string"/>
+    <table id="OCC_TITLE_table">
+      <column id="OCC_TITLE" type="string"/>
       <data>
         <file encoding="utf-8" format="csv">
-          Subject_Area_table.csv
+          OCC_TITLE_table.csv
+        </file>
+      </data>
+    </table>
+    <table id="GROUP_table">
+      <column id="GROUP" type="string"/>
+      <data>
+        <file encoding="utf-8" format="csv">
+          GROUP_table.csv
+        </file>
+      </data>
+    </table>
+    <table id="TOT_EMP_table">
+      <column id="TOT_EMP" type="string"/>
+      <data>
+        <file encoding="utf-8" format="csv">
+          TOT_EMP_table.csv
+        </file>
+      </data>
+    </table>
+    <table id="A_MEAN_table">
+      <column id="A_MEAN" type="string"/>
+      <data>
+        <file encoding="utf-8" format="csv">
+          A_MEAN_table.csv
+        </file>
+      </data>
+    </table>
+    <table id="A_PCT10_table">
+      <column id="A_PCT10" type="string"/>
+      <data>
+        <file encoding="utf-8" format="csv">
+          A_PCT10_table.csv
+        </file>
+      </data>
+    </table>
+    <table id="A_PCT25_table">
+      <column id="A_PCT25" type="string"/>
+      <data>
+        <file encoding="utf-8" format="csv">
+          A_PCT25_table.csv
+        </file>
+      </data>
+    </table>
+    <table id="A_MEDIAN_table">
+      <column id="A_MEDIAN" type="string"/>
+      <data>
+        <file encoding="utf-8" format="csv">
+          A_MEDIAN_table.csv
+        </file>
+      </data>
+    </table>
+    <table id="A_PCT75_table">
+      <column id="A_PCT75" type="string"/>
+      <data>
+        <file encoding="utf-8" format="csv">
+          A_PCT75_table.csv
+        </file>
+      </data>
+    </table>
+    <table id="A_PCT90_table">
+      <column id="A_PCT90" type="string"/>
+      <data>
+        <file encoding="utf-8" format="csv">
+          A_PCT90_table.csv
+        </file>
+      </data>
+    </table>
+    <table id="ANNUAL_table">
+      <column id="ANNUAL" type="string"/>
+      <data>
+        <file encoding="utf-8" format="csv">
+          ANNUAL_table.csv
+        </file>
+      </data>
+    </table>
+    <table id="HOURLY_table">
+      <column id="HOURLY" type="string"/>
+      <data>
+        <file encoding="utf-8" format="csv">
+          HOURLY_table.csv
         </file>
       </data>
     </table>
     <table id="slice_0_table">
-      <column id="School_District" type="string"/>
-      <column id="Year" type="integer"/>
-      <column id="Course_Code" type="integer"/>
-      <column id="Course_Name" type="string"/>
-      <column id="Number_of_Schools" type="integer"/>
-      <column id="Total_Course_Enrollment" type="integer"/>
-      <column id="Number_of_Classes" type="integer"/>
-      <column id="Number_FTE_Teachers" type="float"/>
-      <column id="Average_Class_Size_filtered" type="float"/>
-      <column id="Average_Class_Size" type="float"/>
-      <column id="Subject_Area" type="string"/>
+      <column id="PRIM_STATE" type="string"/>
+      <column id="AREA" type="integer"/>
+      <column id="AREA_NAME" type="string"/>
+      <column format="MM-yyyy" id="OCC_CODE" type="date"/>
+      <column id="OCC_TITLE" type="string"/>
+      <column id="GROUP" type="string"/>
+      <column id="TOT_EMP" type="string"/>
+      <column id="EMP_PRSE" type="float"/>
+      <column id="JOBS_1000" type="float"/>
+      <column id="LOC_QUOTIENT" type="float"/>
+      <column id="H_MEAN" type="float"/>
+      <column id="A_MEAN" type="string"/>
+      <column id="MEAN_PRSE" type="float"/>
+      <column id="H_PCT10" type="float"/>
+      <column id="H_PCT25" type="float"/>
+      <column id="H_MEDIAN" type="float"/>
+      <column id="H_PCT75" type="float"/>
+      <column id="H_PCT90" type="float"/>
+      <column id="A_PCT10" type="string"/>
+      <column id="A_PCT25" type="string"/>
+      <column id="A_MEDIAN" type="string"/>
+      <column id="A_PCT75" type="string"/>
+      <column id="A_PCT90" type="string"/>
+      <column id="ANNUAL" type="string"/>
+      <column id="HOURLY" type="string"/>
       <data>
         <file encoding="utf-8" format="csv">
           slice_0_table.csv
