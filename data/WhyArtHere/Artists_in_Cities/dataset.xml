@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<dspl xmlns="http://schemas.google.com/dspl/2010" xmlns:entity="http://www.google.com/publicdata/dataset/google/entity" 
+	xmlns:geo="http://www.google.com/publicdata/dataset/google/geo" 
+	xmlns:geo_us="http://www.google.com/publicdata/dataset/google/geo/us" 
+	xmlns:quantity="http://www.google.com/publicdata/dataset/google/quantity" 
+	xmlns:time="http://www.google.com/publicdata/dataset/google/time" 
+	xmlns:unit="http://www.google.com/publicdata/dataset/google/unit">
+	
+  <import namespace="http://www.google.com/publicdata/dataset/google/entity"/>
+  <import namespace="http://www.google.com/publicdata/dataset/google/geo"/>
+  <import namespace="http://www.google.com/publicdata/dataset/google/geo/us"/>
+  <import namespace="http://www.google.com/publicdata/dataset/google/quantity"/>
+  <import namespace="http://www.google.com/publicdata/dataset/google/time"/>
+  <import namespace="http://www.google.com/publicdata/dataset/google/unit"/>
+  <info>
+    <name>
+      <value xml:lang="en">Where Art Happens</value>
+    </name>
+    <description>
+      <value xml:lang="en">Where in America are the greatest concentration of arts occupations</value>
+    </description>
+    <url>
+      <value xml:lang="en">http://www.bls.gov/oes/oes_dl.htm
+      </value>
+    </url>
+  </info>
+  <provider>
+    <name>
+      <value xml:lang="en">
+        US Department of Labor - Bureau of Labor Statistics
+      </value>
+    </name>
+    <url>
+      <value xml:lang="en">http://www.bls.gov/</value>
+    </url>
+  </provider>
+
+
+<!-- CONCEPTS -->	
+	<concepts>
+		<concept id="PRIM_STATE">
+			<info>
+				<name>
+					<value xml:lang="en">state</value>
+				</name>
+				<description>
+					<value xml:lang="en">state</value>
+				</description>
+			</info>
+			<type ref="string"/>
+			<table ref="state_table" />
+		</concept>
+		<concept id="OCC_TITLE">
+			<info>
+				<name>
+					<value xml:lang="en">OCC_TITLE</value>
+				</name>
+				<description>
+					<value xml:lang="en">Occupation</value>
+				</description>
+			</info>
+			<type ref="string"/>
+			<table ref="titles_table" />
+		</concept>
+		<concept id="AREA_NAME" extends="geo:location">
+			<info>
+				<name>
+					<value xml:lang="en">AREA_NAME</value>
+				</name>
+				<description>
+					<value xml:lang="en">Area location</value>
+				</description>
+			</info>
+			<table ref="city_table" />
+		</concept>
+		<concept id="TOT_EMP">
+			<info>
+				<name>
+					<value xml:lang="en">TOT_EMP</value>
+				</name>
+				<description>
+					<value xml:lang="en">Total employment</value>
+				</description>
+			</info>
+			<type ref="float"/>
+		</concept>
+		<concept id="year">
+			<info>
+				<name>
+					<value xml:lang="en">YEAR</value>
+				</name>
+				<description>
+					<value xml:lang="en">Year</value>
+				</description>
+			</info>
+			<type ref="date" />
+			<table ref="year_table" />
+		</concept>
+	</concepts>
+
+
+
+
+
+
+<!-- SLICES -->
+	<slices>
+		<slice id="main_slice">
+			<dimension concept="time:year"/>
+			<dimension concept="PRIM_STATE"/>
+			<dimension concept="AREA_NAME"/>
+			<dimension concept="OCC_TITLE"/>
+			<metric concept="TOT_EMP"/>
+			<table ref="main_table" />
+		</slice>
+<!--
+		<slice id="year_slice">
+			<dimension concept="year" />
+			<metric concept="year" />
+			<table ref="year_table" />
+		</slice>
+-->
+	</slices>
+
+
+
+
+
+  <tables>
+    <table id="main_table">
+      <column id="year" format="yyyy"  type="date"/>
+      <column id="PRIM_STATE" type="string"/>
+      <column id="AREA" type="integer"/>
+      <column id="AREA_NAME" type="string"/>
+      <column id="OCC_CODE" type="string"/>
+      <column id="OCC_TITLE" type="string"/>
+      <column id="GROUP" type="string"/>
+      <column id="TOT_EMP" type="float"/>
+      <column id="EMP_PRSE" type="float"/>
+      <column id="JOBS_1000" type="float"/>
+      <column id="LOC_QUOTIENT" type="float"/>
+      <column id="A_MEAN" type="float"/>
+      <column id="MEAN_PRSE" type="float"/>
+      <column id="A_PCT10" type="float"/>
+      <column id="A_PCT25" type="float"/>
+      <column id="A_MEDIAN" type="float"/>
+      <column id="A_PCT75" type="float"/>
+      <column id="A_PCT90" type="float"/>
+      <data>
+        <file encoding="utf-8" format="csv">Artists_in_Cities_SAMPLE.csv</file>
+      </data>
+    </table>
+
+	<table id="state_table">
+		<column id="PRIM_STATE" type="string" />
+		<column id="latitude" type="string" />
+		<column id="longitude" type="string" />
+		<column id="name" type="string" />
+      <data>
+        <file encoding="utf-8" format="csv">states.csv</file>
+      </data>
+	</table>
+	<table id="city_table">
+		<column id="AREA_NAME" type="string" />
+		<column id="latitude" type="float" />
+		<column id="longitude" type="float" />
+		<column id="name" type="string" />
+      <data>
+        <file encoding="utf-8" format="csv">cities.csv</file>
+      </data>
+	</table>
+	<table id="year_table">
+		<column id="year" type="date" format="yyyy">
+			<value>2011</value>
+		</column>
+	</table>
+	<table id="titles_table">
+		<column id="OCC_TITLE" type="string" />
+		<data>
+			<file encoding="utf-8" format="csv">titles.csv</file>
+		</data>
+	</table>
+
+  </tables>
+</dspl>
