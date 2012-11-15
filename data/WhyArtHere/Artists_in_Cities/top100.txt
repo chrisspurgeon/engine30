@@ -1,0 +1,77 @@
+Albuquerque, NM
+Anaheim, CA
+Anchorage, AK
+Atlanta, GA
+Austin, TX
+Bakersfield, CA
+Baltimore, MD
+Baton Rouge, LA
+Birmingham, AL
+Boise, ID
+Boston, MA
+Buffalo, NY
+Charleston, SC
+Charlotte, NC
+Chicago, IL
+Cincinnati, OH
+Cleveland, OH
+Colorado Springs, CO
+Columbus, OH
+Dallas, TX
+Denver, CO
+Detroit, MI
+Durham-Chapel Hill, NC
+Fort Lauderdale, FL
+Fort Wayne, IN
+Fort Worth, TX
+Fresno, CA
+Greensboro, NC
+Hartford, CT
+Honolulu, HI
+Houston, TX
+Indianapolis, IN
+Jacksonville, FL
+Kansas City, MO
+Las Vegas-, NV
+Lexington, KY
+Lincoln, NE
+Los Angeles, CA 
+Madison, WI
+Memphis, TN
+Miami, FL
+Milwaukee, WI
+Minneapolis, MN
+Modesto, CA
+Montgomery, AL
+Nashville, TN
+New Haven, CT
+New Orleans, LA
+New York, NY
+Oakland, CA
+Oklahoma City, OK
+Omaha, NE
+Orlando, FL
+Philadelphia, PA
+Phoenix, AZ
+Pittsburgh, PA
+Portland, OR
+Raleigh, NC
+Reno-Sparks, NV
+Richmond, VA
+Rochester, NY
+Sacramento, CA
+San Antonio, TX
+San Bernardino, CA
+San Diego, CA
+San Francisco, CA
+San Jose, CA
+Santa Barbara, CA
+Seattle,WA
+St. Louis, MO
+Tampa-St. Petersburg, FL
+Toledo, OH
+Tucson, AZ
+Tulsa, OK
+Virginia Beach, VA
+Washington, DC
+Wichita, KS

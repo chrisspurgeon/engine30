@@ -31,14 +31,15 @@
     <script type="text/javascript">
 
 	var colors = { "fellow":"#004000",
-					"students":"#a03d88",
+					"student":"#400000",
 					"faculty":"#993311",
-					"media":"#000000",
+					"media":"#981221",
+					"institution":"#000033",
 					"defaultColor":"#444444"
 				};
 
 
-	var outerRadius = 600 / 2,
+	var outerRadius = 900 / 2,
 	    innerRadius = outerRadius - 120;
 
 	var fill = d3.scale.category20c();
@@ -88,7 +89,7 @@
 
 
 
-	d3.json("data.json", function(imports) {
+	d3.json("data_from_Su_Wu.json", function(imports) {
 		theData = imports;
 	  var indexByName = {},
 	      nameByIndex = {},

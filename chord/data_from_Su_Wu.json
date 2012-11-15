@@ -1,0 +1,792 @@
+[
+    {"count":"1", 
+        "name": "fellow.Barbara Bogaev",
+        "size": 10,
+        "imports": [
+            "institution.Engine 30",
+            "administrator.Mark Allen",
+            "institution.Machine Project",
+            "artist.Nate Page"
+        ]
+    },
+    {"count":"2", 
+        "name": "fellow.Meredith Broussard",
+        "size": 10,
+        "imports": [
+            "institution.Engine 30",
+            "institution.Machine Project",
+            "artist.Nate Page",
+            "administrator.Ricky Delgado",
+            "artist.Jony Tolentino"
+        ]
+    },
+    {"count":"3", 
+        "name": "fellow.Brendan Bruce",
+        "size": 10,
+        "imports": [
+            "institution.Engine 30"
+        ]
+    },
+    {
+"count":"4", 
+        "name": "fellow.Marissa Gluck",
+        "size": 10,
+        "imports": [
+            "institution.Engine 30",
+            "institution.Machine Project",
+            "artist.Nate Page",
+            "administrator.Ricky Delgado",
+            "artist.Jony Tolentino",
+            "artist.Benjamin Ball",
+            "artist.Aaron Noble"
+        ]
+    },
+    {
+"count":"5", 
+        "name": "fellow.Sean Kelly",
+        "size": 10,
+        "imports": [
+            "institution.Engine 30"
+        ]
+    },
+    {"count":"6", 
+        "name": "fellow.Miles Lightwood",
+        "size": 10,
+        "imports": [
+            "institution.Engine 30"
+        ]
+    },
+    {"count":"7", 
+        "name": "fellow.Enrique Limón",
+        "size": 10,
+        "imports": [
+            "institution.Engine 30",
+            "artist.Keith Hunter"
+        ]
+    },
+    {"count":"8",
+        "name": "fellow.Joanne McNeil",
+        "size": 10,
+        "imports": [
+            "institution.Engine 30"
+        ]
+    },
+    {
+"count":"9",
+        "name": "fellow.Anne Maria Nicholson",
+        "size": 10,
+        "imports": [
+            "institution.Engine 30"
+        ]
+    },
+    {
+"count":"10",        "name": "fellow.Paul Pierson",
+        "size": 10,
+        "imports": [
+            "institution.Engine 30"
+        ]
+    },
+    {
+"count":"11",
+        "name": "fellow.Chris Spurgeon",
+        "size": 10,
+        "imports": [
+            "institution.Engine 30"
+        ],
+        "link": "http://www.spurgeonworld.com"
+    },
+    {
+"count":"12",
+        "name": "fellow.Suzi Steffen",
+        "size": 10,
+        "imports": [
+            "institution.Engine 30"
+        ]
+    },
+    {"count":"13",
+        "name": "fellow.Mark Taylor",
+        "size": 10,
+        "imports": [
+            "institution.Engine 30",
+            "institution.Machine Project",
+            "artist.Nate Page",
+            "administrator.Ricky Delgado",
+            "artist.Jony Tolentino",
+            "artist.Benjamin Ball",
+            "artist.Aaron Noble"
+        ]
+    },
+    {"count":"14",
+        "name": "fellow.Su Wu",
+        "size": 10,
+        "imports": [
+            "institution.Engine 30",
+            "institution.Machine Project",
+            "artist.Nate Page",
+            "administrator.Ricky Delgado",
+            "artist.Jony Tolentino",
+            "artist.Benjamin Ball",
+            "artist.Aaron Noble"
+        ]
+    },
+    {"count":"1",
+        "name": "fellow.Logan Young",
+        "size": 10,
+        "imports": [
+            "institution.Engine 30",
+            "administrator.Steven McCarthy"
+        ]
+    },
+    {"count":"1",
+        "name": "student.Chie Davis",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg",
+            "fellow.Su Wu",
+            "artist.Ilan Dei",
+            "administrator.Russell Miller",
+            "administrator.Hassan Nicholas",
+            "academic.Ronnie Brosterman",
+            "administrator.Heidi Duckler"
+        ]
+    },
+    {"count":"2",
+        "name": "student.Samantha 'Max' de Leve",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg",
+            "academic.Robert Bilder",
+            "academic.Stephanie White"
+        ]
+    },
+    {"count":"3",
+        "name": "student.Leila Dougan",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg",
+            "artist.Jack Shafer",
+            "artist.Dominique Moody",
+            "artist.Simon Storey"
+        ]
+    },
+    {"count":"4",
+        "name": "student.Sean Malone",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg",
+            "artist.Milton Santiago",
+            "administrator.Yuri Neyman",
+            "administrator.Vilmos Zsigmond",
+            "artist.David Stump",
+            "academic.Judy Irola"
+        ]
+    },
+    {"count":"5",
+        "name": "student.Imade Nibokun",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg",
+            "artist.Harry Gamboa Jr",
+            "artist.Raul Gonzalez",
+            "administrator.Tanner Blackman",
+            "administrator.Officer Tuck"
+        ]
+    },
+    {"count":"6",
+        "name": "student.Ricky O'Bannon",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg",
+            "administrator.Zina Josephs",
+            "artist.Jose Antonio Aguirre",
+            "administrator.Margaret Bruning",
+            "administrator.Steven McCarthy"
+        ]
+    },
+    {"count":"7",
+        "name": "student.David Campbell West",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg"
+        ]
+    },
+    {"count":"8",
+        "name": "student.Chima Benson",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg"
+        ]
+    },
+    {"count":"9",
+        "name": "student.Gabrielle Canon",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg"
+        ]
+    },
+    {"count":"10",
+        "name": "student.Robin Migdol",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg"
+        ]
+    },
+    {"count":"11",
+        "name": "student.Sarah Fisch",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg"
+        ]
+    },
+    {"count":"12",
+        "name": "student.Melissa Kaplan",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg"
+        ]
+    },
+    {"count":"13",
+        "name": "student.Brian Lauritzen",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg"
+        ]
+    },
+    {"count":"14",
+        "name": "student.Erin Leiker",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg"
+        ]
+    },
+    {"count":"15",
+        "name": "student.Helena Liikanen-Renger",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg"
+        ]
+    },
+    {"count":"16",
+        "name": "student.Samantha London",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg",
+            "voxpop.Satenik Adamyan",
+            "voxpop.Lina Park",
+            "voxpop.Sean Plunkett",
+            "administrator.Lucas Rivera",
+            "administrator.Roxane Marquez"
+        ]
+    },
+    {"count":"1",
+        "name": "faculty.Sasha Anawalt",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg",
+            "institution.Engine 30"
+        ]
+    },
+    {"count":"1",
+        "name": "faculty.Edward Lifson",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg",
+            "institution.Engine 30"
+        ]
+    },
+    {"count":"1",
+        "name": "faculty.Douglas McLennan",
+        "size": 10,
+        "imports": [
+            "institution.USC Annenberg",
+            "institution.Engine 30"
+        ]
+    },
+    {"count":"1",
+        "name": "media.Tami Abdollah",
+        "size": 10,
+        "imports": []
+    },
+    {"count":"1",
+        "name": "media.Juan Devis",
+        "size": 10,
+        "imports": []
+    },
+    {"count":"1",
+        "name": "media.Reed Johnson",
+        "size": 10,
+        "imports": []
+    },
+    {"count":"1",
+        "name": "media.Laurie Ochoa",
+        "size": 10,
+        "imports": []
+    },
+    {"count":"1",
+        "name": "media.Melanie Sill",
+        "size": 10,
+        "imports": []
+    },
+    {"count":"1",
+        "name": "media.Drew Tewksbury",
+        "size": 10,
+        "imports": []
+    },
+    {"count":"1",
+        "name": "artist.Jony Tolentino",
+        "size": 10,
+        "imports": [
+            "institution.Graff Lab"
+        ]
+    },
+    {"count":"1",
+        "name": "artist.Keith Hunter",
+        "size": 10,
+        "imports": []
+    },
+    {"count":"1",
+        "name": "artist.Nate Page",
+        "size": 10,
+        "imports": [
+            "institution.Machine Project"
+        ]
+    },
+    {"count":"1",
+        "name": "artist.Benjamin Ball",
+        "size": 10,
+        "imports": [],
+        "link": "http://www.twitter.com/Ball_Nogues"
+    },
+    {"count":"1",
+        "name": "artist.Mark Allen",
+        "size": 10,
+        "imports": [
+            "institution.Machine Project"
+        ]
+    },
+    {"count":"1",
+        "name": "artist.Aaron Noble",
+        "size": 10,
+        "imports": []
+    },
+    {"count":"1",
+        "name": "artist.Ilan Dei",
+        "size": 10,
+        "imports": []
+    },
+    {"count":"1",
+        "name": "artist.Jack Shafer",
+        "size": 10,
+        "imports": [],
+        "link": "http://thetinylife.com"
+    },
+    {"count":"1",
+        "name": "artist.Dominique Moody",
+        "size": 10,
+        "imports": []
+    },
+    {"count":"1",
+        "name": "artist.Simon Storey",
+        "size": 10,
+        "imports": [
+            "institution.Anonymous Architects"
+        ]
+    },
+    {"count":"1",
+        "name": "artist.Milton Santiago",
+        "size": 10,
+        "imports": [
+            "institution.Global Cinematography Institute"
+        ]
+    },
+    {"count":"1",
+        "name": "artist.David Stump",
+        "size": 10,
+        "imports": [
+            "institution.Global Cinematography Institute"
+        ]
+    },
+    {"count":"1",
+        "name": "artist.Raul Gonzalez",
+        "size": 10,
+        "imports": [
+            "institution.Mictlan Murals"
+        ]
+    },
+    {"count":"1",
+        "name": "artist.Harry Gamboa Jr",
+        "size": 10,
+        "imports": [
+            "institution.Asco"
+        ]
+    },
+    {"count":"1",
+        "name": "artist.Jose Antonio Aguirre",
+        "size": 10,
+        "imports": []
+    },
+    {"count":"1",
+        "name": "administrator.Ricky Delgado",
+        "size": 10,
+        "imports": [
+            "institution.Graff Lab"
+        ]
+    },
+    {"count":"1",
+        "name": "administrator.Michael Govan",
+        "size": 10,
+        "imports": [
+            "institution.LACMA"
+        ]
+    },
+    {"count":"1",
+        "name": "administrator.Russell Miller",
+        "size": 10,
+        "imports": [
+            "institution.Vacant"
+        ]
+    },
+    {"count":"1",
+        "name": "administrator.Hassan Nicholas",
+        "size": 10,
+        "imports": [
+            "institution.LAundry"
+        ]
+    },
+    {"count":"1",
+        "name": "administrator.Heidi Duckler",
+        "size": 10,
+        "imports": [
+            "institution.Heidi Duckler Dance Company"
+        ]
+    },
+    {"count":"1",
+        "name": "administrator.Lynn Waldorf",
+        "size": 10,
+        "imports": [
+            "institution.Griffin Center for Inspired Instruction"
+        ]
+    },
+    {"count":"1",
+        "name": "administrator.Vilmos Zsigmond",
+        "size": 10,
+        "imports": [
+            "institution.Global Cinematography Institute"
+        ]
+    },
+    {"count":"1",
+        "name": "administrator.Yuri Neyman",
+        "size": 10,
+        "imports": [
+            "institution.Global Cinematography Institute"
+        ]
+    },
+    {"count":"1",
+        "name": "administrator.Tanner Blackman",
+        "size": 10,
+        "imports": [
+            "institution.City of Los Angeles"
+        ]
+    },
+    {"count":"1",
+        "name": "administrator.Officer Tuck",
+        "size": 10,
+        "imports": [
+            "institution.Los Angeles Police Department"
+        ]
+    },
+    {"count":"1",
+        "name": "administrator.Zina Josephs",
+        "size": 10,
+        "imports": [
+            "institution.Santa Monica-Malibu Unified School District"
+        ]
+    },
+    {"count":"1",
+        "name": "administrator.Margaret Bruning",
+        "size": 10,
+        "imports": [
+            "institution.Los Angeles County"
+        ]
+    },
+    {"count":"1",
+        "name": "administrator.Steven McCarthy",
+        "size": 10,
+        "imports": [
+            "institution.Los Angeles Unified School District"
+        ]
+    },
+    {"count":"1",
+        "name": "administrator.Lucas Rivera",
+        "size": 10,
+        "imports": [
+            "institution.Grand Park"
+        ]
+    },
+    {"count":"1",
+        "name": "administrator.Roxane Marquez",
+        "size": 10,
+        "imports": [
+            "institution.Los Angeles County"
+        ]
+    },
+    {"count":"1",
+        "name": "administrator.Yuval Sharon",
+        "size": 10,
+        "imports": [
+            "institution.The Industry"
+        ]
+    },
+    {"count":"1",
+        "name": "administrator.Chris Rountree",
+        "size": 10,
+        "imports": [
+            "institution.wild Up"
+        ]
+    },
+    {"count":"1",
+        "name": "academic.Ronnie Brosterman",
+        "size": 10,
+        "imports": [
+            "institution.Scripps College"
+        ]
+    },
+    {"count":"1",
+        "name": "academic.Robert Bilder",
+        "size": 10,
+        "imports": [
+            "institution.UCLA"
+        ]
+    },
+    {"count":"1",
+        "name": "academic.Stephanie White",
+        "size": 10,
+        "imports": [
+            "institution.UCLA"
+        ]
+    },
+    {"count":"1",
+        "name": "academic.Steven Seidel",
+        "size": 10,
+        "imports": [
+            "institution.Harvard"
+        ],
+        "link": "http://pzweb.harvard.edu/pis/SS.htm"
+    },
+    {"count":"1",
+        "name": "academic.Judy Irola",
+        "size": 10,
+        "imports": [
+            "institution.University of Southern California"
+        ]
+    },
+    {"count":"1",
+        "name": "academic.Assal Habibi",
+        "size": 10,
+        "imports": [
+            "institution.University of Southern California"
+        ]
+    },
+    {"count":"1",
+        "name": "voxpop.Satenik Adamyan",
+        "size": 10,
+        "imports": [
+            "institution.Los Angeles County"
+        ]
+    },
+    {"count":"1",
+        "name": "voxpop.Lina Park",
+        "size": 10,
+        "imports": []
+    },
+    {"count":"1",
+        "name": "voxpop.Sean Plunkett",
+        "size": 10,
+        "imports": []
+    },
+    {"count":"1",
+        "name": "institution.Engine 30",
+        "size": 10,
+        "imports": [
+            "fellow.BarbaraBogaev",
+            "fellow.MeredithBroussard",
+            "fellow.BrendanBruce",
+            "fellow.MarissaGluck",
+            "fellow.SeanKelly",
+            "fellow.MilesLightwood",
+            "fellow.EnriqueLimon",
+            "fellow.JoanneMcNeil",
+            "fellow.AnneMariaNicholson",
+            "fellow.PaulPierson",
+            "fellow.ChrisSpurgeon",
+            "fellow.SuziSteffen",
+            "fellow.MarkTaylor",
+            "fellow.SuWu",
+            "fellow.LoganYoung"
+        ]
+    },
+    {"count":"1",
+        "name": "institution.LACMA",
+        "size": 10,
+        "imports": [
+            "administrator.MichaelGovan"
+        ],
+        "link": "http: //www.lacma.org"
+    },
+    {"count":"1",
+        "name": "institution.MachineProject",
+        "size": 10,
+        "imports": [
+            "administrator.MarkAllen",
+            "artist.NatePage"
+        ],
+        "link": "http: //www.machineproject.com"
+    },
+    {"count":"1",
+        "name": "institution.GraffLab",
+        "size": 10,
+        "imports": [
+            "administrator.RickyDelgado",
+            "artist.JonyTolentino"
+        ],
+        "link": "http: //www.thegrafflab.com"
+    },
+    {"count":"1",
+        "name": "institution.USCAnnenberg",
+        "size": 10,
+        "imports": [],
+        "link": "http.//www.usc.edu/annenberg"
+    },
+    {"count":"1",
+        "name": "institution.Vacant",
+        "size": 10,
+        "imports": [
+            "administrator.RussellMiller"
+        ],
+        "link": "http.//www.govacant.com"
+    },
+    {"count":"1",
+        "name": "institution.LAundry",
+        "size": 10,
+        "imports": [
+            "administrator.HassanNicholas"
+        ],
+        "link": "http: //www.facebook.com/events/153816178061541/"
+    },
+    {"count":"1",
+        "name": "institution.ScrippsCollege",
+        "size": 10,
+        "imports": [],
+        "link": "https: //twitter.com/scrippscollege"
+    },
+    {"count":"1",
+        "name": "institution.HeidiDucklerDanceCompany",
+        "size": 10,
+        "imports": [
+            "administrator.HeidiDuckler"
+        ],
+        "link": "http: //www.heididuckler.org/"
+    },
+    {"count":"1",
+        "name": "institution.UCLA",
+        "size": 10,
+        "imports": [],
+        "link": "https: //twitter.com/UCLA"
+    },
+    {"count":"1",
+        "name": "institution.AnonymousArchitects",
+        "size": 10,
+        "imports": [],
+        "link": "http: //anonymousarchitects.com"
+    },
+    {"count":"1",
+        "name": "institution.Harvard",
+        "size": 10,
+        "imports": [],
+        "link": "http: //www.harvard.edu/"
+    },
+    {"count":"1",
+        "name": "institution.GriffinCenterforInspiredInstruction",
+        "size": 10,
+        "imports": [],
+        "link": "http: //www.thegriffincenter.org/"
+    },
+    {"count":"1",
+        "name": "institution.GlobalCinematographyInstitute",
+        "size": 10,
+        "imports": [
+            "administrator.VilmosZsigmond",
+            "administrator.YuriNeyman"
+        ],
+        "link": "https: //twitter.com/GlobalCine"
+    },
+    {"count":"1",
+        "name": "institution.UniversityofSouthernCalifornia",
+        "size": 10,
+        "imports": [],
+        "link": "http: //www.usc.edu/"
+    },
+    {"count":"1",
+        "name": "institution.CityofLosAngeles",
+        "size": 10,
+        "imports": [],
+        "link": "http: //www.lacity.org"
+    },
+    {"count":"1",
+        "name": "institution.MictlanMurals",
+        "size": 10,
+        "imports": [
+            "artist.RaulGonzalez"
+        ]
+    },
+    {"count":"1",
+        "name": "institution.LosAngelesPoliceDepartment",
+        "size": 10,
+        "imports": []
+    },
+    {"count":"1",
+        "name": "institution.Asco",
+        "size": 10,
+        "imports": [
+            "institution.LACMA",
+            "artist.HarryGamboaJr"
+        ]
+    },
+    {"count":"1",
+        "name": "institution.SantaMonica-MalibuUnifiedSchoolDistrict",
+        "size": 10,
+        "imports": []
+    },
+    {"count":"1",
+        "name": "institution.LosAngelesCounty",
+        "size": 10,
+        "imports": []
+    },
+    {"count":"1",
+        "name": "institution.LosAngelesUnifiedSchoolDistrict",
+        "size": 10,
+        "imports": []
+    },
+    {"count":"1",
+        "name": "institution.GrandPark",
+        "size": 10,
+        "imports": [
+            "institution.LosAngelesCounty",
+            "administrator.LucasRivera"
+        ]
+    },
+    {"count":"1",
+        "name": "institution.TheIndustry",
+        "size": 10,
+        "imports": [
+            "administrator.YuvalSharon"
+        ]
+    },
+    {"count":"1",
+        "name": "institution.wildUp",
+        "size": 10,
+        "imports": [
+            "administrator.ChrisRountree"
+        ]
+    }
+]
