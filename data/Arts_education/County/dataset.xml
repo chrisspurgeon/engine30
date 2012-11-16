@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dspl 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://schemas.google.com/dspl/2010"
+	xmlns:time="http://www.google.com/publicdata/dataset/google/time"
+	xmlns:geo="http://www.google.com/publicdata/dataset/google/geo"
+	xmlns:entity="http://www.google.com/publicdata/dataset/google/entity"
+	xmlns:quantity="http://www.google.com/publicdata/dataset/google/quantity">
+
+	<import namespace="http://www.google.com/publicdata/dataset/google/time"/>
+	<import namespace="http://www.google.com/publicdata/dataset/google/entity"/>
+	<import namespace="http://www.google.com/publicdata/dataset/google/geo"/>
+	<import namespace="http://www.google.com/publicdata/dataset/google/quantity"/>
+
+	<info>
+		<name>
+			<value>Fine Art Classes in Select California Counties</value>
+		</name>
+		<description>
+			<value>An examination of arts classes and programs in select California</value>
+		</description>
+		<url>
+			<value>http://www.engine30.org/</value>
+		</url>
+	</info>
+
+	<provider>
+		<name>
+			<value>Various</value>
+		</name>
+		<url>
+			<value>http://www.engine30.org</value>
+		</url>
+	</provider>
+
+	<!-- CONCEPTS -->
+		<concepts>
+			<concept id="year">
+				<info>
+					<name>
+						<value>Year</value>
+					</name>
+				</info>
+				<type ref="date" />
+				<table ref="years_table" />
+			</concept><!-- year -->
+
+			<concept id="Region">
+				<info>
+					<name>
+						<value>School District</value>
+					</name>
+				</info>
+				<type ref="string" />
+				<table ref="main_table" />
+			</concept>
+
+			<concept id="Schools_With_Fine_Art_Programs">
+				<info>
+					<name>
+						<value>Schools with Fine Art Programs</value>
+					</name>
+				</info>
+				<type ref="integer" />
+				<table ref="main_table" />
+			</concept>
+
+			<concept id="Number_of_Fine_Art_Classes">
+				<info>
+					<name>
+						<value>Number of Fine Arts Classes in Distric</value>
+					</name>
+				</info>
+				<type ref="integer" />
+			</concept>
+		</concepts><!-- END OF COMMENTS -->
+		
+		
+		<!-- SLICES -->
+		<slices>
+			<slice id="courses">
+				<dimension concept="time:year" />
+				<dimension concept="Region" />
+				<metric concept="Number_of_Fine_Art_Classes" />
+				<metric concept="Schools_With_Fine_Art_Programs" />
+				<table ref="main_table" />
+			</slice>
+		</slices><!-- END OF SLICES -->
+		
+		
+		<!-- TABLES -->
+		<tables>
+			<table id="main_table">
+				<column id="Region" type="string" />
+				<column id="year" type="date" format="yyyy" />
+				<column id="Schools_With_Fine_Art_Programs" type="integer" />
+				<column id="Number_of_Fine_Art_Classes" type="integer" />
+				<data>
+					<file format="csv" encoding="utf-8">County_Art_Class_Data_Fixed.csv</file>
+				</data>
+			</table><!-- Burbank school district table -->
+
+			<table id="years_table">
+				<column id="year" type="date" format="yyyy" />
+				<data>
+					<file format="csv" encoding="utf-8">years.csv</file>
+				</data>
+			</table><!-- years table -->
+
+		</tables><!-- END OF TABLES -->
+		
+
+
+</dspl>

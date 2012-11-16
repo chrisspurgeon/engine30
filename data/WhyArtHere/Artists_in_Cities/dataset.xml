@@ -84,6 +84,39 @@
 			</info>
 			<type ref="float"/>
 		</concept>
+		<concept id="JOBS_1000">
+			<info>
+				<name>
+					<value xml:lang="en">Jobs per 1,000 employees</value>
+				</name>
+				<description>
+					<value xml:lang="en">Jobs per 1,000 employees</value>
+				</description>
+			</info>
+			<type ref="float"/>
+		</concept>
+		<concept id="LOC_QUOTIENT">
+			<info>
+				<name>
+					<value xml:lang="en">Job rate compared to the national average</value>
+				</name>
+				<description>
+					<value xml:lang="en">Job rate compared to the national average. For example, a value of 3 means that on a per capita basis three times as many people do that job in a given city compared to the US as a whole.</value>
+				</description>
+			</info>
+			<type ref="float"/>
+		</concept>
+		<concept id="A_MEDIAN">
+			<info>
+				<name>
+					<value xml:lang="en">Average annual salary</value>
+				</name>
+				<description>
+					<value xml:lang="en">Average annual salary</value>
+				</description>
+			</info>
+			<type ref="float"/>
+		</concept>
 		<concept id="year">
 			<info>
 				<name>
@@ -110,12 +143,12 @@
 			<dimension concept="AREA_NAME"/>
 			<dimension concept="OCC_TITLE"/>
 			<metric concept="TOT_EMP"/>
+			<metric concept="JOBS_1000"/>
+			<metric concept="LOC_QUOTIENT"/>
+			<metric concept="A_MEDIAN"/>
 			<table ref="main_table" />
 		</slice>
 	</slices>
-
-
-
 
 
   <tables>
@@ -139,7 +172,7 @@
       <column id="A_PCT75" type="float"/>
       <column id="A_PCT90" type="float"/>
       <data>
-        <file encoding="utf-8" format="csv">Artists_in_Cities_SAMPLE.csv</file>
+        <file encoding="utf-8" format="csv">Artists_in_MAJOR_Cities.csv</file>
       </data>
     </table>
 

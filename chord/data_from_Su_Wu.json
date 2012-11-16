@@ -91,7 +91,7 @@
         "name": "fellow.Chris Spurgeon",
         "size": 10,
         "imports": [
-            "institution.Engine 30"
+            "institution.Engine 30","student.Ricky O'Bannon"
         ],
         "link": "http://www.spurgeonworld.com"
     },
@@ -199,7 +199,7 @@
             "institution.USC Annenberg",
             "administrator.Zina Josephs",
             "artist.Jose Antonio Aguirre",
-            "administrator.Margaret Bruning",
+"fellow.Chris Spurgeon",            "administrator.Margaret Bruning",
             "administrator.Steven McCarthy"
         ]
     },
@@ -305,7 +305,7 @@
     {"count":"1",
         "name": "media.Tami Abdollah",
         "size": 10,
-        "imports": []
+        "imports": ["media.Tami Abdollah"]
     },
     {"count":"1",
         "name": "media.Juan Devis",
