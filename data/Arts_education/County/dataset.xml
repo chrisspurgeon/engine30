@@ -52,23 +52,22 @@
 					</name>
 				</info>
 				<type ref="string" />
-				<table ref="main_table" />
+				<table ref="region_table" />
 			</concept>
 
 			<concept id="Schools_With_Fine_Art_Programs">
 				<info>
 					<name>
-						<value>Schools with Fine Art Programs</value>
+						<value>Number of Schools with Fine Art Programs</value>
 					</name>
 				</info>
 				<type ref="integer" />
-				<table ref="main_table" />
 			</concept>
 
 			<concept id="Number_of_Fine_Art_Classes">
 				<info>
 					<name>
-						<value>Number of Fine Arts Classes in Distric</value>
+						<value>Number of Fine Arts Classes in District</value>
 					</name>
 				</info>
 				<type ref="integer" />
@@ -95,15 +94,23 @@
 				<column id="year" type="date" format="yyyy" />
 				<column id="Schools_With_Fine_Art_Programs" type="integer" />
 				<column id="Number_of_Fine_Art_Classes" type="integer" />
+				<column id="School_Year" type="string" />
 				<data>
 					<file format="csv" encoding="utf-8">County_Art_Class_Data_Fixed.csv</file>
 				</data>
-			</table><!-- Burbank school district table -->
+			</table><!-- district table -->
 
 			<table id="years_table">
 				<column id="year" type="date" format="yyyy" />
 				<data>
 					<file format="csv" encoding="utf-8">years.csv</file>
+				</data>
+			</table><!-- years table -->
+
+			<table id="region_table">
+				<column id="Region" type="string" />
+				<data>
+					<file format="csv" encoding="utf-8">region.csv</file>
 				</data>
 			</table><!-- years table -->
 
