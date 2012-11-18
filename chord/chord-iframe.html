@@ -84,16 +84,20 @@
 	<div id="chorddiv"></chord>
     <script type="text/javascript">
 
-	var colors = { "fellow":"#004000",
-					"student":"#400000",
-					"faculty":"#993311",
-					"media":"#981221",
-					"institution":"#000033",
-					"defaultColor":"#444444"
+	var colors = { 	"academic":"#798765",
+					"administrator":"#58693f",
+					"artist":"#3b4a29",
+					"fellow":"#a43c31",
+					"student":"#d14e42",
+					"faculty":"#da7168",
+					"media":"#e3958e",
+					"institution":"#000000",
+					"voxpop":"#9ba58c",
+					"defaultColor":"#00ff00"
 				};
 
 
-	var outerRadius = 600 / 2,
+	var outerRadius = 900 / 2,
 	    innerRadius = outerRadius - 120;
 
 	var fill = d3.scale.category20c();
@@ -143,7 +147,7 @@
 
 
 
-	d3.json("data_from_Su_Wu.json", function(imports) {
+	d3.json("data_from_Su_Wu2.json", function(imports) {
 		theData = imports;
 	  var indexByName = {},
 	      nameByIndex = {},

@@ -96,7 +96,7 @@
 				<column id="Number_of_Fine_Art_Classes" type="integer" />
 				<column id="School_Year" type="string" />
 				<data>
-					<file format="csv" encoding="utf-8">County_Art_Class_Data_Fixed.csv</file>
+					<file format="csv" encoding="utf-8">COMBINED.csv</file>
 				</data>
 			</table><!-- district table -->
 
